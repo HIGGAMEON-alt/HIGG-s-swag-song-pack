@@ -1,4 +1,6 @@
 mods/data/finale-v5/finale-v5.json
+mods/data/finale-v5/finale-v5-easy.json
+mods/data/finale-v5/finale-v5-hard.json
 mods/data/finale-v5/mod.txt
 mods/VS IMPOSTOR V5!!!!/stages/stage.json
 mods/VS IMPOSTOR V5!!!!/stages/stage.lua
