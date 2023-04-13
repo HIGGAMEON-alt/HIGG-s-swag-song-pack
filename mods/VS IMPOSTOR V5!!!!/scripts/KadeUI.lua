@@ -1,4 +1,7 @@
+local ui = 'psych'
+
 function PsychSwitch()
+    ui = 'psych'
     setTimeBarColors('FFFFFF', '000000');
     setProperty('kadeEngineWaterMark.y', -5000)
     setProperty('songPosTxt.y', -5000)
@@ -26,6 +29,7 @@ function PsychSwitch()
     end
     
     function kadeSwitch()
+        ui = 'kade'
     setProperty('kadeEngineWaterMark.y', getProperty('healthBarBG.y') + 50)
     setProperty('songPosTxt.y', getProperty('timeBarBG.y'))
     setHealthBarColors('FF0000', '66FF33');
@@ -131,4 +135,11 @@ function PsychSwitch()
     kadeSwitch()
     end
     end
+end
+
+function onBeatHit()
+if curBeat % 2 == 0 and ui == 'kade' then
+playAnim('boyfriend', 'idle', true)
+playAnim('dad', 'idle', true)
+end
 end
