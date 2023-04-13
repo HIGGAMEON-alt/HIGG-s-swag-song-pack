@@ -1,7 +1,4 @@
-local ui = 'psych'
-
 function PsychSwitch()
-    ui = 'psych'
     setTimeBarColors('FFFFFF', '000000');
     setProperty('kadeEngineWaterMark.y', -5000)
     setProperty('songPosTxt.y', -5000)
@@ -29,7 +26,6 @@ function PsychSwitch()
     end
     
     function kadeSwitch()
-        ui = 'kade'
     setProperty('kadeEngineWaterMark.y', getProperty('healthBarBG.y') + 50)
     setProperty('songPosTxt.y', getProperty('timeBarBG.y'))
     setHealthBarColors('FF0000', '66FF33');
@@ -72,7 +68,6 @@ function PsychSwitch()
     end
     
     function onCreatePost()
-        boyfriendName:bfChar()
     
         makeLuaText('songPosTxt', songName, 0, getProperty('timeBarBG.x') + (getProperty('timeBarBG.width') / 2) - (getProperty('songLength') * 5), -5000);
         setTextSize('songPosTxt', 16);
@@ -90,15 +85,17 @@ function PsychSwitch()
         setProperty('timeBar.scale.x', 1);
         setProperty('timeTxt.visible', true);
 
-        if songName == 'defeated-v5' then
+        if songName:lower() == 'defeated-v5' or songName:lower() == 'finale-v5' then
         makeLuaSprite('defeatfnf', 'defeatfnf', -600, -200)
         addLuaSprite('defeatfnf', false)
         debugPrint(getProperty('defeatfnf.x'))
+        scaleObject('defeatfnf', 2,2)
+        setProperty('gf.visible', false)
         end
     end
     
     function onUpdate(elapsed)
-        local ActualNoteId=nil
+    local ActualNoteId=nil
         for i=getProperty('notes.length')-1,0,-1 do
             if getPropertyFromGroup('notes',i,'mustPress')== false then
                 ActualNoteId=i
@@ -125,22 +122,41 @@ function PsychSwitch()
     function difficultyFromInt(difficulty)
         return difficultyArray[difficulty+1] --adding 1 because lua starts on 1 not 0
     end
-    function lerp(a,b,t) return a * (1-t) + b * t end --https://love2d.org/forums/viewtopic.php?t=83180
     
-    function onSectionHit()
+function onSectionHit()
     if songName:lower() == 'defeated-v5' then
-    if curSection == 73 then
-    PsychSwitch()
-    end
-    if curSection == 89 then
-    kadeSwitch()
-    end
+        if curSection == 73 then
+            PsychSwitch()
+            triggerEvent('Change Character', 'dad', 'blackv4')
+            triggerEvent('Change Character', 'boyfriend', 'bf-defeat-scared')
+            triggerEvent('Follow Camera Pos',getProperty('gf.x'),getProperty('gf.y'))
+            setProperty('defaultCamZoom', 0.7)
+        end
+        if curSection == 89 then
+            kadeSwitch()
+            triggerEvent('Change Character', 'dad', 'black')
+            triggerEvent('Change Character', 'boyfriend', 'boyfriend')
+            triggerEvent('Follow Camera Pos','','')
+            setProperty('defaultCamZoom', 0.9)
+            --[[
+            makeAnimatedLuaSprite('shit', 'characters/BF_Defeat_Scared')
+            makeAnimatedLuaSprite('shit2', 'characters/black')
+            ]]
+        end
     end
 end
 
 function onBeatHit()
-if curBeat % 2 == 0 and ui == 'kade' then
-playAnim('boyfriend', 'idle', true)
-playAnim('dad', 'idle', true)
-end
+    if curBeat % 2 == 0 then
+        if getProperty('boyfriend.animation.curAnim.curFrame') <= 1 then
+            --e
+            else
+            playAnim('boyfriend', 'idle', true)
+        end
+        if getProperty('dad.animation.curAnim.curFrame') <= 1 then
+            --e
+            else
+            playAnim('dad', 'idle', true)
+        end
+    end
 end

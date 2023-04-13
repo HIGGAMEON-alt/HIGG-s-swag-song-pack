@@ -1,7 +1,9 @@
 mods/data/fresh-v5/fresh-v5-easy.json
 mods/data/fresh-v5/fresh-v5-hard.json
 mods/data/fresh-v5/fresh-v5.json
-mods/songs/fresh-v5/Inst.ogg
-mods/songs/fresh-v5/Voices.ogg
 mods/data/fresh-v5/mod.txt
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/fresh-v5/Voices.ogg
+mods/songs/fresh-v5/voices.ogg
+mods/songs/fresh-v5/Inst.ogg
+mods/songs/fresh-v5/inst.ogg

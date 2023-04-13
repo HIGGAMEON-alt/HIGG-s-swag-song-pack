@@ -4,6 +4,12 @@ mods/VS IMPOSTOR V5!!!!/stages/stage.json
 mods/VS IMPOSTOR V5!!!!/stages/stage.lua
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
+mods/VS IMPOSTOR V5!!!!/images/characters/black.png
+mods/VS IMPOSTOR V5!!!!/images/characters/black.xml
+mods/VS IMPOSTOR V5!!!!/characters/bf-defeat-scared.json
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.xml
 mods/songs/lights-out-v5/Voices.ogg
 mods/songs/lights-out-v5/voices.ogg
 mods/songs/lights-out-v5/Inst.ogg

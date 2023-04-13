@@ -4,6 +4,12 @@ mods/data/sussus-twogus/sussus-twogus-hard.json
 mods/data/sussus-twogus/sussus-twogus.json
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
+mods/VS IMPOSTOR V5!!!!/images/characters/black.png
+mods/VS IMPOSTOR V5!!!!/images/characters/black.xml
+mods/VS IMPOSTOR V5!!!!/characters/bf-defeat-scared.json
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.xml
 mods/songs/sussus-twogus/Voices.ogg
 mods/songs/sussus-twogus/voices.ogg
 mods/songs/sussus-twogus/Inst.ogg

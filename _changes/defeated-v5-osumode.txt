@@ -2,6 +2,8 @@ mods/data/defeated-v5/defeated-v5-easy.json
 mods/data/defeated-v5/defeated-v5-hard.json
 mods/data/defeated-v5/defeated-v5.json
 mods/data/defeated-v5/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/defeated-v5/Voices.ogg
 mods/songs/defeated-v5/voices.ogg

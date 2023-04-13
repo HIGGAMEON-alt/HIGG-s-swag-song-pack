@@ -4,6 +4,12 @@ mods/data/stargazer/stargazer-hard.json
 mods/data/stargazer/stargazer.json
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
+mods/VS IMPOSTOR V5!!!!/images/characters/black.png
+mods/VS IMPOSTOR V5!!!!/images/characters/black.xml
+mods/VS IMPOSTOR V5!!!!/characters/bf-defeat-scared.json
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.xml
 mods/songs/stargazer/Voices.ogg
 mods/songs/stargazer/voices.ogg
 mods/songs/stargazer/Inst.ogg
