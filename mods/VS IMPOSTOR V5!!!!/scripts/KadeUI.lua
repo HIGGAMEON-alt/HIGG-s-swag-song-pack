@@ -55,7 +55,7 @@ function PsychSwitch()
     end
     
     function onSongStart()
-    if songName == 'stargazer' or songName == 'lemon-lime' or songName == 'inflorescence' or songName =='chlorophyll' then
+    if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
     PsychSwitch()
     else
     kadeSwitch()
@@ -104,11 +104,11 @@ function PsychSwitch()
         if ActualNoteId~=nil then
             if not getPropertyFromGroup('notes',ActualNoteId,'mustPress') and getPropertyFromGroup('notes',ActualNoteId,'wasGoodHit') then
                 if getPropertyFromGroup('notes',ActualNoteId,'isSustainNote') then
-                    triggerEvent('Play Animation', dir[getPropertyFromGroup('notes',ActualNoteId,'noteData') + 1], 'dad')
+                    playAnim(singAnimations[getPropertyFromGroup('notes',ActualNoteId,'noteData') + 1], 'dad')
                     removeFromGroup('notes',ActualNoteId,false)
                     setProperty('vocals.volume', 1)
                 elseif getPropertyFromGroup('notes',ActualNoteId,'strumTime')<=getSongPosition() +80 or getPropertyFromGroup('notes',ActualNoteId,'isSustainNote') then
-                    triggerEvent('Play Animation', dir[getPropertyFromGroup('notes',ActualNoteId,'noteData') + 1], 'dad')
+                    playAnim(singAnimations[getPropertyFromGroup('notes',ActualNoteId,'noteData') + 1], 'dad')
                     removeFromGroup('notes',ActualNoteId,false)
                     setProperty('vocals.volume', 1)
                 end
