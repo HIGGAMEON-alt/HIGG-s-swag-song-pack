@@ -1,0 +1,12 @@
+mods/data/chlorophyll/chlorophyll-easy.json
+mods/data/chlorophyll/chlorophyll-hard.json
+mods/data/chlorophyll/chlorophyll.json
+mods/data/chlorophyll/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/chlorophyll/Voices.ogg
+mods/songs/chlorophyll/voices.ogg
+mods/songs/chlorophyll/Inst.ogg
+mods/songs/chlorophyll/inst.ogg

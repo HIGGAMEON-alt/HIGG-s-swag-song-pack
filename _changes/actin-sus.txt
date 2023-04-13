@@ -1,0 +1,12 @@
+mods/data/actin-sus/actin-sus-easy.json
+mods/data/actin-sus/actin-sus-hard.json
+mods/data/actin-sus/actin-sus.json
+mods/data/actin-sus/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/actin-sus/Voices.ogg
+mods/songs/actin-sus/voices.ogg
+mods/songs/actin-sus/Inst.ogg
+mods/songs/actin-sus/inst.ogg

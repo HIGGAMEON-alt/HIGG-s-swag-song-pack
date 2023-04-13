@@ -1,0 +1,11 @@
+mods/data/plague-energy/mod.txt
+mods/data/plague-energy/plague-energy-easy.json
+mods/data/plague-energy/plague-energy-hard.json
+mods/data/plague-energy/plague-energy.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/plague-energy/Voices.ogg
+mods/songs/plague-energy/voices.ogg
+mods/songs/plague-energy/Inst.ogg
+mods/songs/plague-energy/inst.ogg

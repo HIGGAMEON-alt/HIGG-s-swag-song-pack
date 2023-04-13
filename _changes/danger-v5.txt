@@ -1,0 +1,12 @@
+mods/data/danger-v5/danger-v5-easy.json
+mods/data/danger-v5/danger-v5-hard.json
+mods/data/danger-v5/danger-v5.json
+mods/data/danger-v5/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/danger-v5/Voices.ogg
+mods/songs/danger-v5/voices.ogg
+mods/songs/danger-v5/Inst.ogg
+mods/songs/danger-v5/inst.ogg

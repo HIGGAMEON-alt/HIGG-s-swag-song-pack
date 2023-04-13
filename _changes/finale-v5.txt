@@ -1,0 +1,10 @@
+mods/data/finale-v5/finale-v5.json
+mods/data/finale-v5/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/finale-v5/Voices.ogg
+mods/songs/finale-v5/voices.ogg
+mods/songs/finale-v5/Inst.ogg
+mods/songs/finale-v5/inst.ogg

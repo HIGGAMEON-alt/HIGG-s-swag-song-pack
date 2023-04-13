@@ -1,0 +1,11 @@
+mods/data/sussus-threegus/mod.txt
+mods/data/sussus-threegus/sussus-threegus-easy.json
+mods/data/sussus-threegus/sussus-threegus-hard.json
+mods/data/sussus-threegus/sussus-threegus.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/sussus-threegus/Voices.ogg
+mods/songs/sussus-threegus/voices.ogg
+mods/songs/sussus-threegus/Inst.ogg
+mods/songs/sussus-threegus/inst.ogg

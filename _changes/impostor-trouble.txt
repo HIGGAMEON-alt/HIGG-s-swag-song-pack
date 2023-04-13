@@ -1,0 +1,10 @@
+mods/data/impostor-trouble/impostor-trouble-easy.json
+mods/data/impostor-trouble/impostor-trouble-hard.json
+mods/data/impostor-trouble/impostor-trouble.json
+mods/data/impostor-trouble/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/impostor-trouble/Voices.ogg
+mods/songs/impostor-trouble/voices.ogg
+mods/songs/impostor-trouble/Inst.ogg
+mods/songs/impostor-trouble/inst.ogg

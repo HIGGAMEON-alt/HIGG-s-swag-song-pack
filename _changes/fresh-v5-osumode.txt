@@ -1,0 +1,3 @@
+mods/data/fresh-v5/fresh-v5.json
+mods/data/fresh-v5/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua

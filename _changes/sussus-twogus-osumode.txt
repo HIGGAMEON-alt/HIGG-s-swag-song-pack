@@ -1,0 +1,9 @@
+mods/data/sussus-twogus/mod.txt
+mods/data/sussus-twogus/sussus-twogus-easy.json
+mods/data/sussus-twogus/sussus-twogus-hard.json
+mods/data/sussus-twogus/sussus-twogus.json
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/sussus-twogus/Voices.ogg
+mods/songs/sussus-twogus/voices.ogg
+mods/songs/sussus-twogus/Inst.ogg
+mods/songs/sussus-twogus/inst.ogg

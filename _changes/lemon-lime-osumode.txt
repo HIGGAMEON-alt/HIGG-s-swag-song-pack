@@ -1,0 +1,11 @@
+mods/data/lemon-lime/lemon-lime-easy.json
+mods/data/lemon-lime/lemon-lime-hard.json
+mods/data/lemon-lime/lemon-lime.json
+mods/data/lemon-lime/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/lemon-lime/Voices.ogg
+mods/songs/lemon-lime/voices.ogg
+mods/songs/lemon-lime/Inst.ogg
+mods/songs/lemon-lime/inst.ogg

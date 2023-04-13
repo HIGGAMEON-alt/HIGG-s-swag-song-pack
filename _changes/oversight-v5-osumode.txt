@@ -1,0 +1,11 @@
+mods/data/oversight-v5/mod.txt
+mods/data/oversight-v5/oversight-v5-easy.json
+mods/data/oversight-v5/oversight-v5-hard.json
+mods/data/oversight-v5/oversight-v5.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/oversight-v5/Voices.ogg
+mods/songs/oversight-v5/voices.ogg
+mods/songs/oversight-v5/Inst.ogg
+mods/songs/oversight-v5/inst.ogg

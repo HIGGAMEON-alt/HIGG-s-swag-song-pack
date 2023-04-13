@@ -1,0 +1,9 @@
+mods/data/lights-out-v5/lights-out-v5.json
+mods/data/lights-out-v5/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/lights-out-v5/Voices.ogg
+mods/songs/lights-out-v5/voices.ogg
+mods/songs/lights-out-v5/Inst.ogg
+mods/songs/lights-out-v5/inst.ogg

@@ -1,0 +1,10 @@
+mods/data/stargazer/mod.txt
+mods/data/stargazer/stargazer-easy.json
+mods/data/stargazer/stargazer-hard.json
+mods/data/stargazer/stargazer.json
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/stargazer/Voices.ogg
+mods/songs/stargazer/voices.ogg
+mods/songs/stargazer/Inst.ogg
+mods/songs/stargazer/inst.ogg

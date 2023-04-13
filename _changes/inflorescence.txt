@@ -1,0 +1,10 @@
+mods/data/inflorescence/inflorescence-easy.json
+mods/data/inflorescence/inflorescence-hard.json
+mods/data/inflorescence/inflorescence.json
+mods/data/inflorescence/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/inflorescence/Voices.ogg
+mods/songs/inflorescence/voices.ogg
+mods/songs/inflorescence/Inst.ogg
+mods/songs/inflorescence/inst.ogg
