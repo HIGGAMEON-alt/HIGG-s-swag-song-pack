@@ -4,3 +4,5 @@ mods/data/fresh-v5/fresh-v5-hard.json
 mods/data/fresh-v5/mod.txt
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
+mods/songs/fresh-v5/Inst.ogg
+mods/songs/fresh-v5/Voices.ogg
