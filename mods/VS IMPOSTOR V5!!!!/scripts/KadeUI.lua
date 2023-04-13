@@ -55,7 +55,11 @@ function PsychSwitch()
     end
     
     function onSongStart()
+    if songName == 'stargazer' or songName == 'lemon-lime' or songName == 'inflorescence' or songName =='chlorophyll' then
+    PsychSwitch()
+    else
     kadeSwitch()
+    end
     end
 
     function bfChar(e)
