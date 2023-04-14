@@ -1,0 +1,6 @@
+mods/data/o2/events.json
+mods/data/o2/o2-hard.json
+mods/songs/o2/Voices.ogg
+mods/songs/o2/voices.ogg
+mods/songs/o2/Inst.ogg
+mods/songs/o2/inst.ogg

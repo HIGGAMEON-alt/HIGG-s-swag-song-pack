@@ -1,0 +1,12 @@
+mods/data/finale/events.json
+mods/data/finale/finale-hard.json
+mods/data/finale/mod.txt
+mods/VS Impostor V4/stages/finalem.json
+mods/VS Impostor V4/stages/finalem.lua
+mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/songs/finale/Voices.ogg
+mods/songs/finale/voices.ogg
+mods/songs/finale/Inst.ogg
+mods/songs/finale/inst.ogg

@@ -1,0 +1,11 @@
+mods/data/ejected/ejected-hard.json
+mods/data/ejected/events.json
+mods/data/ejected/mod.txt
+mods/Vs Impostor V4/stages/ejected.json
+mods/Vs Impostor V4/stages/ejected.lua
+mods/Vs Impostor V4/scripts/JSONLIB.lua
+mods/Vs Impostor V4/scripts/script.lua
+mods/songs/ejected/Voices.ogg
+mods/songs/ejected/voices.ogg
+mods/songs/ejected/Inst.ogg
+mods/songs/ejected/inst.ogg

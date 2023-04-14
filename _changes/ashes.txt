@@ -1,0 +1,53 @@
+mods/data/ashes/ashes-hard.json
+mods/data/ashes/mod.txt
+mods/VS Impostor V4/characters/bfpolus.json
+mods/VS Impostor V4/characters/maroon.json
+mods/VS Impostor V4/characters/gf.json
+mods/VS Impostor V4/stages/polus2.json
+mods/VS Impostor V4/stages/polus2.lua
+mods/VS Impostor V4/images/characters/bfpolus.png
+mods/VS Impostor V4/images/characters/bfpolus.xml
+mods/VS Impostor V4/images/characters/maroon.png
+mods/VS Impostor V4/images/characters/maroon.xml
+mods/VS Impostor V4/images/characters/GF_assets.png
+mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/stageassets/polus/newsky.png
+mods/VS Impostor V4/images/stageassets/polus/newlava.png
+mods/VS Impostor V4/images/stageassets/polus/newoverlay.png
+mods/VS Impostor V4/images/stageassets/polus/newcloud.png
+mods/VS Impostor V4/images/stageassets/polus/newrocks.png
+mods/VS Impostor V4/images/stageassets/polus/snowback.png
+mods/VS Impostor V4/images/stageassets/polus/snowback.xml
+mods/VS Impostor V4/images/stageassets/polus/newstage.png
+mods/VS Impostor V4/images/stageassets/polus/snowfront.png
+mods/VS Impostor V4/images/stageassets/polus/snowfront.xml
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/images/characters/bf_legs.png
+mods/VS Impostor V4/images/characters/bf_legs.xml
+mods/VS Impostor V4/images/characters/blacklegs.png
+mods/VS Impostor V4/images/characters/blacklegs.xml
+mods/VS Impostor V4/images/characters/Reginald_Assets.png
+mods/VS Impostor V4/images/characters/Reginald_Assets.xml
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
+mods/VS Impostor V4/images/characters/biddle.png
+mods/VS Impostor V4/images/characters/biddle.xml
+mods/VS Impostor V4/images/characters/blackdk.png
+mods/VS Impostor V4/images/characters/blackdk.xml
+mods/VS Impostor V4/characters/dad.json
+mods/VS Impostor V4/characters/black.json
+mods/VS Impostor V4/images/characters/black.png
+mods/VS Impostor V4/images/characters/black.xml
+mods/songs/ashes/Voices.ogg
+mods/songs/ashes/voices.ogg
+mods/songs/ashes/Inst.ogg
+mods/songs/ashes/inst.ogg

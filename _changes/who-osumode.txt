@@ -1,0 +1,6 @@
+mods/data/who/events.json
+mods/data/who/who-hard.json
+mods/songs/who/Voices.ogg
+mods/songs/who/voices.ogg
+mods/songs/who/Inst.ogg
+mods/songs/who/inst.ogg

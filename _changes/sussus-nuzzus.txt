@@ -1,0 +1,11 @@
+mods/data/sussus-nuzzus/sussus-nuzzus-hard.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/sussus-nuzzus/Voices.ogg
+mods/songs/sussus-nuzzus/voices.ogg
+mods/songs/sussus-nuzzus/Inst.ogg
+mods/songs/sussus-nuzzus/inst.ogg

@@ -1,1 +1,2 @@
 mods/weeks/Vs Impostor V5.json
+mods/weeks/VS Impostor.json

@@ -1,0 +1,9 @@
+mods/data/turbulence/events.json
+mods/data/turbulence/turbulence-hard.json
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/turbulence/Voices.ogg
+mods/songs/turbulence/voices.ogg
+mods/songs/turbulence/Inst.ogg
+mods/songs/turbulence/inst.ogg

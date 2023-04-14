@@ -1,0 +1,11 @@
+mods/data/blackout/blackout-hard.json
+mods/data/blackout/events.json
+mods/data/blackout/mod.txt
+mods/VS Impostor V4/stages/grey.json
+mods/VS Impostor V4/stages/grey.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/songs/blackout/Voices.ogg
+mods/songs/blackout/voices.ogg
+mods/songs/blackout/Inst.ogg
+mods/songs/blackout/inst.ogg

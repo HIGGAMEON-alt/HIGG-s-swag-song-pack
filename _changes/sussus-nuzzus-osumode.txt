@@ -1,0 +1,5 @@
+mods/data/sussus-nuzzus/sussus-nuzzus-hard.json
+mods/songs/sussus-nuzzus/Voices.ogg
+mods/songs/sussus-nuzzus/voices.ogg
+mods/songs/sussus-nuzzus/Inst.ogg
+mods/songs/sussus-nuzzus/inst.ogg

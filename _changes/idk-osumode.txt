@@ -1,0 +1,5 @@
+mods/data/idk/idk-hard.json
+mods/songs/idk/Voices.ogg
+mods/songs/idk/voices.ogg
+mods/songs/idk/Inst.ogg
+mods/songs/idk/inst.ogg

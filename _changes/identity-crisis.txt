@@ -1,0 +1,12 @@
+mods/data/identity-crisis/events.json
+mods/characters/bf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/data/identity-crisis/identity-crisis-hard.json
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/identity-crisis/Voices.ogg
+mods/songs/identity-crisis/voices.ogg
+mods/songs/identity-crisis/Inst.ogg
+mods/songs/identity-crisis/inst.ogg

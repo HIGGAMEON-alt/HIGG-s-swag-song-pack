@@ -1,0 +1,8 @@
+mods/data/top-10/mod.txt
+mods/data/top-10/top-10-hard.json
+mods/VS Impostor V4/stages/polus.json
+mods/VS Impostor V4/stages/polus.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/songs/top-10/Inst.ogg
+mods/songs/top-10/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/heartbeat/events.json
+mods/data/heartbeat/heartbeat-hard.json
+mods/songs/heartbeat/Voices.ogg
+mods/songs/heartbeat/voices.ogg
+mods/songs/heartbeat/Inst.ogg
+mods/songs/heartbeat/inst.ogg

@@ -16,6 +16,8 @@ mods/VS IMPOSTOR V5!!!!/images/Sussy!/sick.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/good.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/bad.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/shit.png
+mods/VS IMPOSTOR V5!!!!/images/noteSplashes.png
+mods/VS IMPOSTOR V5!!!!/images/noteSplashes.xml
 mods/VS IMPOSTOR V5!!!!/images/stageback.png
 mods/VS IMPOSTOR V5!!!!/images/O2Background.png
 mods/VS IMPOSTOR V5!!!!/images/O2Background.xml

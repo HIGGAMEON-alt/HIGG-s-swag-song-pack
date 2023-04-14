@@ -1,0 +1,1 @@
+mods/data/stealth/stealth-hard.json

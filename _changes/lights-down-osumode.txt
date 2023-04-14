@@ -1,0 +1,11 @@
+mods/data/lights-down/events.json
+mods/data/lights-down/lights-down-hard.json
+mods/data/lights-down/mod.txt
+mods/VS Impostor V4/stages/toogus.json
+mods/VS Impostor V4/stages/toogus.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/songs/lights-down/Voices.ogg
+mods/songs/lights-down/voices.ogg
+mods/songs/lights-down/Inst.ogg
+mods/songs/lights-down/inst.ogg

@@ -1,0 +1,48 @@
+mods/data/reactor/events.json
+mods/data/reactor/mod.txt
+mods/data/reactor/reactor-hard.json
+mods/Vs Impostor V4/characters/bfr.json
+mods/Vs Impostor V4/characters/impostorr.json
+mods/Vs Impostor V4/characters/gfr.json
+mods/Vs Impostor V4/stages/reactor2.json
+mods/Vs Impostor V4/stages/reactor2.lua
+mods/Vs Impostor V4/images/characters/bfr.png
+mods/Vs Impostor V4/images/characters/bfr.xml
+mods/Vs Impostor V4/images/characters/impostorr.png
+mods/Vs Impostor V4/images/characters/impostorr.xml
+mods/Vs Impostor V4/images/characters/gf_reactor.png
+mods/Vs Impostor V4/images/characters/gf_reactor.xml
+mods/Vs Impostor V4/scripts/JSONLIB.lua
+mods/Vs Impostor V4/scripts/script.lua
+mods/Vs Impostor V4/images/stageassets/reactor/wallbgthing.png
+mods/Vs Impostor V4/images/stageassets/reactor/floornew.png
+mods/Vs Impostor V4/images/stageassets/reactor/backbars.png
+mods/Vs Impostor V4/images/stageassets/reactor/frontpillars.png
+mods/Vs Impostor V4/images/sick.png
+mods/Vs Impostor V4/images/good.png
+mods/Vs Impostor V4/images/bad.png
+mods/Vs Impostor V4/images/shit.png
+mods/Vs Impostor V4/images/noteSplashes.png
+mods/Vs Impostor V4/images/noteSplashes.xml
+mods/Vs Impostor V4/images/characters/bf_legs.png
+mods/Vs Impostor V4/images/characters/bf_legs.xml
+mods/Vs Impostor V4/images/characters/blacklegs.png
+mods/Vs Impostor V4/images/characters/blacklegs.xml
+mods/Vs Impostor V4/images/characters/Reginald_Assets.png
+mods/Vs Impostor V4/images/characters/Reginald_Assets.xml
+mods/Vs Impostor V4/images/characters/Ellie_Assets.png
+mods/Vs Impostor V4/images/characters/Ellie_Assets.xml
+mods/Vs Impostor V4/images/characters/madgus.png
+mods/Vs Impostor V4/images/characters/madgus.xml
+mods/Vs Impostor V4/images/characters/biddle.png
+mods/Vs Impostor V4/images/characters/biddle.xml
+mods/Vs Impostor V4/images/characters/blackdk.png
+mods/Vs Impostor V4/images/characters/blackdk.xml
+mods/Vs Impostor V4/characters/dad.json
+mods/Vs Impostor V4/characters/black.json
+mods/Vs Impostor V4/images/characters/black.png
+mods/Vs Impostor V4/images/characters/black.xml
+mods/songs/reactor/Voices.ogg
+mods/songs/reactor/voices.ogg
+mods/songs/reactor/Inst.ogg
+mods/songs/reactor/inst.ogg

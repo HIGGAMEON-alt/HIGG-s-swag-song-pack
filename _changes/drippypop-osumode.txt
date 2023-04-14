@@ -1,0 +1,6 @@
+mods/data/drippypop/drippypop-hard.json
+mods/data/drippypop/events.json
+mods/songs/drippypop/Voices.ogg
+mods/songs/drippypop/voices.ogg
+mods/songs/drippypop/Inst.ogg
+mods/songs/drippypop/inst.ogg

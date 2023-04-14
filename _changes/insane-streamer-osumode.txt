@@ -1,0 +1,5 @@
+mods/data/insane-streamer/insane-streamer-hard.json
+mods/songs/insane-streamer/Voices.ogg
+mods/songs/insane-streamer/voices.ogg
+mods/songs/insane-streamer/Inst.ogg
+mods/songs/insane-streamer/inst.ogg

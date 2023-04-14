@@ -1,0 +1,55 @@
+mods/data/finale/events.json
+mods/VS Impostor V4/characters/blackparasite.json
+mods/VS Impostor V4/images/characters/blackparasite.png
+mods/VS Impostor V4/images/characters/blackparasite.xml
+mods/data/finale/finale-hard.json
+mods/data/finale/mod.txt
+mods/VS Impostor V4/characters/bf-defeat-scared.json
+mods/VS Impostor V4/characters/black.json
+mods/VS Impostor V4/characters/gf.json
+mods/VS Impostor V4/stages/finalem.json
+mods/VS Impostor V4/stages/finalem.lua
+mods/VS Impostor V4/images/characters/BF_Defeat_Scared.png
+mods/VS Impostor V4/images/characters/BF_Defeat_Scared.xml
+mods/VS Impostor V4/images/characters/black.png
+mods/VS Impostor V4/images/characters/black.xml
+mods/VS Impostor V4/images/characters/GF_assets.png
+mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/iluminao omaga.png
+mods/VS Impostor V4/images/finale/bgg.png
+mods/VS Impostor V4/images/finale/dead.png
+mods/VS Impostor V4/images/finale/bg.png
+mods/VS Impostor V4/images/finale/splat.png
+mods/VS Impostor V4/images/finale/lamp.png
+mods/VS Impostor V4/images/finale/fore.png
+mods/VS Impostor V4/images/finale/dark.png
+mods/VS Impostor V4/images/finale/light.png
+mods/VS Impostor V4/images/finale/light.xml
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/images/characters/bf_legs.png
+mods/VS Impostor V4/images/characters/bf_legs.xml
+mods/VS Impostor V4/images/characters/blacklegs.png
+mods/VS Impostor V4/images/characters/blacklegs.xml
+mods/VS Impostor V4/images/characters/Reginald_Assets.png
+mods/VS Impostor V4/images/characters/Reginald_Assets.xml
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
+mods/VS Impostor V4/images/characters/biddle.png
+mods/VS Impostor V4/images/characters/biddle.xml
+mods/VS Impostor V4/images/characters/blackdk.png
+mods/VS Impostor V4/images/characters/blackdk.xml
+mods/VS Impostor V4/characters/dad.json
+mods/songs/finale/Voices.ogg
+mods/songs/finale/voices.ogg
+mods/songs/finale/Inst.ogg
+mods/songs/finale/inst.ogg

@@ -11,6 +11,8 @@ makeLuaSprite('','Sussy!/sick',0,0)
 makeLuaSprite('','Sussy!/good',0,0)
 makeLuaSprite('','Sussy!/bad',0,0)
 makeLuaSprite('','Sussy!/shit',0,0)
+
+makeAnimatedLuaSprite('','noteSplashes',0,0)
 ]]
 
 local keyPress = {'left','down','up','right'}
@@ -21,7 +23,7 @@ function PsychSwitch()
     setProperty('ratingsData[1].image', 'Sussy!/good')
     setProperty('ratingsData[2].image', 'Sussy!/bad')
     setProperty('ratingsData[3].image', 'Sussy!/shit')
-    if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
+    if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
     else
     setTimeBarColors('FFFFFF', '000000');
     setProperty('kadeEngineWaterMark.y', -5000)
@@ -88,7 +90,49 @@ end
     removeLuaSprite('1w')
     removeLuaSprite('w')
     end
-    if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' or songName:lower() == 'defeated-v5' then
+    if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
+    --thank you Dlow' 2.5 mod wozers!!!
+    --https://gamebanana.com/mods/386576
+    local offsetX = 12
+    local offsetY = 188
+    local objWidth = 320
+    makeLuaSprite('creditBox', 'empty', 0 - objWidth, offsetY)
+	makeGraphic('creditBox', objWidth, 87, 'FFFFFF')
+	setObjectCamera('creditBox', 'other')
+	setProperty("creditBox.alpha", 0.5)
+	addLuaSprite('creditBox', true)
+    makeLuaText('creditTitle', (songName), objWidth, offsetX - objWidth, offsetY+11)
+	--setTextFont('creditTitle', 'arial-v4.ttf')
+	setTextSize('creditTitle', 25)
+	setTextBorder('creditTitle', 1, '000000')
+	setTextAlignment('creditTitle', 'left')
+	setObjectCamera('creditTitle', 'other')
+	addLuaText("creditTitle",true)
+    makeLuaText('creditCreator', 'wow', objWidth, offsetX - objWidth, offsetY+41)
+	--setTextFont('creditCreator', 'arial-v4.ttf')
+	setTextSize('creditCreator', 25)
+	setTextBorder('creditCreator', 1, '000000')
+	setTextAlignment('creditCreator', 'left')
+	setObjectCamera('creditCreator', 'other')
+	addLuaText("creditCreator",true)
+    if songName:lower() == 'stargazer' then
+    setTextString('creditCreator', [[Composer: Punkett]])
+    end
+    if songName:lower() == 'lemon-lime' then
+    setTextString('creditCreator', [[Composer: Rozebud]])
+    end
+    if songName:lower() == 'chlorophyll' then
+    setTextString('creditCreator', [[Composer: JADS]])
+    end
+    if songName:lower() == 'inflorescence' then
+    setTextString('creditCreator', [[Composer: Rozebud]])
+    end
+    doTweenX("creditBoxTween", "creditBox", getProperty("creditBox.x") + objWidth, 1, "circInOut")
+	doTweenX("creditTitleTween", "creditTitle", getProperty("creditTitle.x") + objWidth, 1, "circInOut")
+	doTweenX("creditCreatorTween", "creditCreator", getProperty("creditCreator.x") + objWidth, 1, "circInOut")
+    runTimer("creditDisplay", 3.5, 1)
+    end
+    if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' or songName:lower() == 'defeated-v5' then
     precacheImage('Sussy!/bad')
     precacheImage('Sussy!/good')
     precacheImage('Sussy!/shit')
@@ -101,7 +145,7 @@ end
     setProperty('ratingsData[3].image', 'Sussy!/shit')
     end
     end
-    if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
+    if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
     --eh
     else
     kadeSwitch()
@@ -109,7 +153,7 @@ end
     end
     
     function onCreatePost()
-        if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
+        if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
         else
         makeLuaText('songPosTxt', songName, 0, getProperty('timeBarBG.x') + (getProperty('timeBarBG.width') / 2) - (getProperty('songLength') * 5), -5000);
         setTextSize('songPosTxt', 16);
@@ -130,9 +174,8 @@ end
         if songName:lower() == 'sussus-moogus-v5' or songName:lower() == 'actin-sus' or songName == 'boiling-point-v5' then
         makeLuaSprite('bg', 'stageback', -600, -200)
         addLuaSprite('bg')
-        setObjectOrder('bg', getObjectOrder('gf')-1)
         end
-        if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
+        if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
         makeAnimatedLuaSprite('skeld', 'O2Background', -700, -200)
         addLuaSprite('skeld', false)
         setProperty('gf.visible', false)
@@ -182,7 +225,7 @@ end
     end
     
     function onUpdate(elapsed)
-        if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' or dadName:lower() == 'blackv4' then
+        if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' or dadName:lower() == 'blackv4' then
         else
             local inputAmazing=nil
             local sustainFuckUp=nil
@@ -274,7 +317,7 @@ function onSectionHit()
 end
 
 function onBeatHit()
-    if songName:lower() == 'stargazer' or songName:lower() == 'lemon lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
+    if songName:lower() == 'stargazer' or songName:lower() == 'lemon-lime' or songName:lower() == 'inflorescence' or songName:lower() =='chlorophyll' then
     else
     if songName:lower() == 'defeated-v5' then
     objectPlayAnimation('defeatthing', 'bop')
@@ -298,5 +341,20 @@ function onBeatHit()
             end
         end
     end
+end
+end
+
+
+function onTimerCompleted(tag)
+if tag == 'creditDisplay' then
+doTweenX("creditBoxTween2", "creditBox", getProperty("creditBox.x") - 320, 0.5, "circInOut")
+doTweenX("creditTitleTween2", "creditTitle", getProperty("creditTitle.x") - 320, 0.5, "circInOut")
+doTweenX("creditCreatorTween2", "creditCreator", getProperty("creditCreator.x") - 320, 0.5, "circInOut")
+runTimer("destroy", 0.6, 1)
+end
+if tag == 'destroy' then
+removeLuaSprite('creditBox', true)
+removeLuaSprite('creditTitle', true)
+removeLuaSprite('creditCreator', true)
 end
 end

@@ -1,0 +1,9 @@
+mods/data/who/events.json
+mods/data/who/who-hard.json
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/who/Voices.ogg
+mods/songs/who/voices.ogg
+mods/songs/who/Inst.ogg
+mods/songs/who/inst.ogg

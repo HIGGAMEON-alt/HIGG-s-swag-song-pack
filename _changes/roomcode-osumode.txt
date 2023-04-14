@@ -1,0 +1,5 @@
+mods/data/roomcode/roomcode-hard.json
+mods/songs/roomcode/Voices.ogg
+mods/songs/roomcode/voices.ogg
+mods/songs/roomcode/Inst.ogg
+mods/songs/roomcode/inst.ogg

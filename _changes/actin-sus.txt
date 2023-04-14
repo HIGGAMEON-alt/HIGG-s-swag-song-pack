@@ -2,8 +2,11 @@ mods/data/actin-sus/actin-sus-easy.json
 mods/data/actin-sus/actin-sus-hard.json
 mods/data/actin-sus/actin-sus.json
 mods/data/actin-sus/mod.txt
+mods/VS IMPOSTOR V5!!!!/characters/impostor.json
 mods/VS IMPOSTOR V5!!!!/stages/stage.json
 mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/images/characters/oldpostor.png
+mods/VS IMPOSTOR V5!!!!/images/characters/oldpostor.xml
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/VS IMPOSTOR V5!!!!/images/sick.png
 mods/VS IMPOSTOR V5!!!!/images/good.png
@@ -13,6 +16,8 @@ mods/VS IMPOSTOR V5!!!!/images/Sussy!/sick.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/good.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/bad.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/shit.png
+mods/VS IMPOSTOR V5!!!!/images/noteSplashes.png
+mods/VS IMPOSTOR V5!!!!/images/noteSplashes.xml
 mods/VS IMPOSTOR V5!!!!/images/stageback.png
 mods/VS IMPOSTOR V5!!!!/images/O2Background.png
 mods/VS IMPOSTOR V5!!!!/images/O2Background.xml

@@ -1,0 +1,12 @@
+mods/data/esculent/esculent-hard.json
+mods/data/esculent/events.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/esculent/Voices.ogg
+mods/songs/esculent/voices.ogg
+mods/songs/esculent/Inst.ogg
+mods/songs/esculent/inst.ogg

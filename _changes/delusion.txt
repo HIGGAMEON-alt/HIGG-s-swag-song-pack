@@ -1,0 +1,6 @@
+mods/data/delusion/delusion-hard.json
+mods/data/delusion/events.json
+mods/songs/delusion/Voices.ogg
+mods/songs/delusion/voices.ogg
+mods/songs/delusion/Inst.ogg
+mods/songs/delusion/inst.ogg

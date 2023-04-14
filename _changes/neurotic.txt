@@ -1,0 +1,5 @@
+mods/data/neurotic/neurotic-hard.json
+mods/songs/neurotic/Voices.ogg
+mods/songs/neurotic/voices.ogg
+mods/songs/neurotic/Inst.ogg
+mods/songs/neurotic/inst.ogg

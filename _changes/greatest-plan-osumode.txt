@@ -1,0 +1,6 @@
+mods/data/greatest-plan/events.json
+mods/data/greatest-plan/greatest-plan-hard.json
+mods/songs/greatest-plan/Voices.ogg
+mods/songs/greatest-plan/voices.ogg
+mods/songs/greatest-plan/Inst.ogg
+mods/songs/greatest-plan/inst.ogg

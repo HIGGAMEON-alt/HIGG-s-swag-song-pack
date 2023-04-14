@@ -1,0 +1,15 @@
+mods/data/too-slow/Cam Speed Increase.lua
+mods/data/too-slow/events.json
+mods/data/too-slow/too-slow-easy.json
+mods/data/too-slow/too-slow-hard.json
+mods/data/too-slow/too-slow.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/too-slow/Voices.ogg
+mods/songs/too-slow/voices.ogg
+mods/songs/too-slow/Inst.ogg
+mods/songs/too-slow/inst.ogg

@@ -2,6 +2,9 @@ mods/data/impostor-trouble/impostor-trouble-easy.json
 mods/data/impostor-trouble/impostor-trouble-hard.json
 mods/data/impostor-trouble/impostor-trouble.json
 mods/data/impostor-trouble/mod.txt
+mods/VS IMPOSTOR V5!!!!/characters/impostor.json
+mods/VS IMPOSTOR V5!!!!/images/characters/oldpostor.png
+mods/VS IMPOSTOR V5!!!!/images/characters/oldpostor.xml
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/VS IMPOSTOR V5!!!!/images/sick.png
 mods/VS IMPOSTOR V5!!!!/images/good.png
@@ -11,6 +14,8 @@ mods/VS IMPOSTOR V5!!!!/images/Sussy!/sick.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/good.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/bad.png
 mods/VS IMPOSTOR V5!!!!/images/Sussy!/shit.png
+mods/VS IMPOSTOR V5!!!!/images/noteSplashes.png
+mods/VS IMPOSTOR V5!!!!/images/noteSplashes.xml
 mods/VS IMPOSTOR V5!!!!/images/stageback.png
 mods/VS IMPOSTOR V5!!!!/images/O2Background.png
 mods/VS IMPOSTOR V5!!!!/images/O2Background.xml

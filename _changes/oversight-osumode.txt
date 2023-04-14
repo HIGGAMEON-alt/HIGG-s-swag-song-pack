@@ -1,0 +1,11 @@
+mods/data/oversight/events.json
+mods/data/oversight/mod.txt
+mods/data/oversight/oversight-hard.json
+mods/Vs Impostor V4/stages/airshipRoom.json
+mods/Vs Impostor V4/stages/airshipRoom.lua
+mods/Vs Impostor V4/scripts/JSONLIB.lua
+mods/Vs Impostor V4/scripts/script.lua
+mods/songs/oversight/Voices.ogg
+mods/songs/oversight/voices.ogg
+mods/songs/oversight/Inst.ogg
+mods/songs/oversight/inst.ogg

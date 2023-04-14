@@ -1,0 +1,11 @@
+mods/data/sauces-moogus/events.json
+mods/data/sauces-moogus/mod.txt
+mods/data/sauces-moogus/sauces-moogus-hard.json
+mods/Vs Impostor V4/stages/chef.json
+mods/Vs Impostor V4/stages/chef.lua
+mods/Vs Impostor V4/scripts/JSONLIB.lua
+mods/Vs Impostor V4/scripts/script.lua
+mods/songs/sauces-moogus/Voices.ogg
+mods/songs/sauces-moogus/voices.ogg
+mods/songs/sauces-moogus/Inst.ogg
+mods/songs/sauces-moogus/inst.ogg

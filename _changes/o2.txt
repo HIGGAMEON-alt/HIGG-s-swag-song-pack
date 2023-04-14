@@ -1,0 +1,12 @@
+mods/data/o2/events.json
+mods/data/o2/o2-hard.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/o2/Voices.ogg
+mods/songs/o2/voices.ogg
+mods/songs/o2/Inst.ogg
+mods/songs/o2/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/torture/events.json
+mods/data/torture/torture-hard.json
+mods/songs/torture/Voices.ogg
+mods/songs/torture/voices.ogg
+mods/songs/torture/Inst.ogg
+mods/songs/torture/inst.ogg

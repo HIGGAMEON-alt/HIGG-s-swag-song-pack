@@ -1,0 +1,11 @@
+mods/data/magmatic/events.json
+mods/data/magmatic/magmatic-hard.json
+mods/data/magmatic/mod.txt
+mods/Vs Impostor V4/stages/polus2.json
+mods/Vs Impostor V4/stages/polus2.lua
+mods/Vs Impostor V4/scripts/JSONLIB.lua
+mods/Vs Impostor V4/scripts/script.lua
+mods/songs/magmatic/Voices.ogg
+mods/songs/magmatic/voices.ogg
+mods/songs/magmatic/Inst.ogg
+mods/songs/magmatic/inst.ogg

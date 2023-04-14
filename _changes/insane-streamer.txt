@@ -1,0 +1,11 @@
+mods/data/insane-streamer/insane-streamer-hard.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/insane-streamer/Voices.ogg
+mods/songs/insane-streamer/voices.ogg
+mods/songs/insane-streamer/Inst.ogg
+mods/songs/insane-streamer/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/chippin/chippin-hard.json
+mods/data/chippin/events.json
+mods/songs/chippin/Voices.ogg
+mods/songs/chippin/voices.ogg
+mods/songs/chippin/Inst.ogg
+mods/songs/chippin/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/tomongus-tuesday/events.json
+mods/data/tomongus-tuesday/tomongus-tuesday-hard.json
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/tomongus-tuesday/Voices.ogg
+mods/songs/tomongus-tuesday/voices.ogg
+mods/songs/tomongus-tuesday/Inst.ogg
+mods/songs/tomongus-tuesday/inst.ogg

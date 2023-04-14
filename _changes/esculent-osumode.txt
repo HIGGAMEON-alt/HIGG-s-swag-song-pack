@@ -1,0 +1,6 @@
+mods/data/esculent/esculent-hard.json
+mods/data/esculent/events.json
+mods/songs/esculent/Voices.ogg
+mods/songs/esculent/voices.ogg
+mods/songs/esculent/Inst.ogg
+mods/songs/esculent/inst.ogg

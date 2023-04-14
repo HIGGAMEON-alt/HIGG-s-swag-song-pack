@@ -1,0 +1,6 @@
+mods/data/identity-crisis/events.json
+mods/data/identity-crisis/identity-crisis-hard.json
+mods/songs/identity-crisis/Voices.ogg
+mods/songs/identity-crisis/voices.ogg
+mods/songs/identity-crisis/Inst.ogg
+mods/songs/identity-crisis/inst.ogg

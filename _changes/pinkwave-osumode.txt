@@ -1,0 +1,6 @@
+mods/data/pinkwave/events.json
+mods/data/pinkwave/pinkwave-hard.json
+mods/songs/pinkwave/Voices.ogg
+mods/songs/pinkwave/voices.ogg
+mods/songs/pinkwave/Inst.ogg
+mods/songs/pinkwave/inst.ogg

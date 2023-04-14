@@ -1,0 +1,11 @@
+mods/data/danger/danger-hard.json
+mods/data/danger/events.json
+mods/data/danger/mod.txt
+mods/VS Impostor V4/stages/airship.json
+mods/VS Impostor V4/stages/airship.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/songs/danger/Voices.ogg
+mods/songs/danger/voices.ogg
+mods/songs/danger/Inst.ogg
+mods/songs/danger/inst.ogg

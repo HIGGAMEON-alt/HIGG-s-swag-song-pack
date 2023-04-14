@@ -1,0 +1,54 @@
+mods/data/magmatic/events.json
+mods/data/magmatic/magmatic-hard.json
+mods/data/magmatic/mod.txt
+mods/Vs Impostor V4/characters/bfpolus.json
+mods/Vs Impostor V4/characters/maroon.json
+mods/Vs Impostor V4/characters/gfpolus.json
+mods/Vs Impostor V4/stages/polus2.json
+mods/Vs Impostor V4/stages/polus2.lua
+mods/Vs Impostor V4/images/characters/bfpolus.png
+mods/Vs Impostor V4/images/characters/bfpolus.xml
+mods/Vs Impostor V4/images/characters/maroon.png
+mods/Vs Impostor V4/images/characters/maroon.xml
+mods/Vs Impostor V4/images/characters/gfpolus.png
+mods/Vs Impostor V4/images/characters/gfpolus.xml
+mods/Vs Impostor V4/scripts/JSONLIB.lua
+mods/Vs Impostor V4/scripts/script.lua
+mods/Vs Impostor V4/images/stageassets/polus/newsky.png
+mods/Vs Impostor V4/images/stageassets/polus/newlava.png
+mods/Vs Impostor V4/images/stageassets/polus/newoverlay.png
+mods/Vs Impostor V4/images/stageassets/polus/newcloud.png
+mods/Vs Impostor V4/images/stageassets/polus/newrocks.png
+mods/Vs Impostor V4/images/stageassets/polus/snowback.png
+mods/Vs Impostor V4/images/stageassets/polus/snowback.xml
+mods/Vs Impostor V4/images/stageassets/polus/newstage.png
+mods/Vs Impostor V4/images/stageassets/polus/snowfront.png
+mods/Vs Impostor V4/images/stageassets/polus/snowfront.xml
+mods/Vs Impostor V4/images/sick.png
+mods/Vs Impostor V4/images/good.png
+mods/Vs Impostor V4/images/bad.png
+mods/Vs Impostor V4/images/shit.png
+mods/Vs Impostor V4/images/noteSplashes.png
+mods/Vs Impostor V4/images/noteSplashes.xml
+mods/Vs Impostor V4/images/characters/bf_legs.png
+mods/Vs Impostor V4/images/characters/bf_legs.xml
+mods/Vs Impostor V4/images/characters/blacklegs.png
+mods/Vs Impostor V4/images/characters/blacklegs.xml
+mods/Vs Impostor V4/images/characters/Reginald_Assets.png
+mods/Vs Impostor V4/images/characters/Reginald_Assets.xml
+mods/Vs Impostor V4/images/characters/Ellie_Assets.png
+mods/Vs Impostor V4/images/characters/Ellie_Assets.xml
+mods/Vs Impostor V4/images/characters/madgus.png
+mods/Vs Impostor V4/images/characters/madgus.xml
+mods/Vs Impostor V4/images/characters/biddle.png
+mods/Vs Impostor V4/images/characters/biddle.xml
+mods/Vs Impostor V4/images/characters/blackdk.png
+mods/Vs Impostor V4/images/characters/blackdk.xml
+mods/Vs Impostor V4/characters/dad.json
+mods/Vs Impostor V4/characters/black.json
+mods/Vs Impostor V4/images/characters/black.png
+mods/Vs Impostor V4/images/characters/black.xml
+mods/songs/magmatic/Voices.ogg
+mods/songs/magmatic/voices.ogg
+mods/songs/magmatic/Inst.ogg
+mods/songs/magmatic/inst.ogg

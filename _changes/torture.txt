@@ -1,0 +1,9 @@
+mods/data/torture/events.json
+mods/data/torture/torture-hard.json
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/torture/Voices.ogg
+mods/songs/torture/voices.ogg
+mods/songs/torture/Inst.ogg
+mods/songs/torture/inst.ogg

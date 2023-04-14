@@ -1,0 +1,11 @@
+mods/data/sabotage/events.json
+mods/data/sabotage/mod.txt
+mods/data/sabotage/sabotage-hard.json
+mods/VS Impostor V4/stages/polus.json
+mods/VS Impostor V4/stages/polus.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/songs/sabotage/Voices.ogg
+mods/songs/sabotage/voices.ogg
+mods/songs/sabotage/Inst.ogg
+mods/songs/sabotage/inst.ogg
