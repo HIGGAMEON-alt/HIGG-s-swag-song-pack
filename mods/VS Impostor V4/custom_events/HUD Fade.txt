@@ -1,0 +1,3 @@
+Transitions the HUD into transparency
+
+Value 1 : Set the transparency
