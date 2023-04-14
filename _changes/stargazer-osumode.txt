@@ -2,6 +2,8 @@ mods/data/stargazer/mod.txt
 mods/data/stargazer/stargazer-easy.json
 mods/data/stargazer/stargazer-hard.json
 mods/data/stargazer/stargazer.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/stargazer/Voices.ogg
 mods/songs/stargazer/voices.ogg

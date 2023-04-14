@@ -3,6 +3,8 @@ mods/data/stargazer/stargazer-easy.json
 mods/data/stargazer/stargazer-hard.json
 mods/data/stargazer/stargazer.json
 mods/VS IMPOSTOR V5!!!!/characters/LIMEGREENWEEKINVSIMPOSTOR.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
 mods/VS IMPOSTOR V5!!!!/images/characters/LIME_GRTEEN.png
 mods/VS IMPOSTOR V5!!!!/images/characters/LIME_GRTEEN.xml
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
