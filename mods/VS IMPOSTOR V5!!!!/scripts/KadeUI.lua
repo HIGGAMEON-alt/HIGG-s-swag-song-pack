@@ -214,7 +214,7 @@ end
                 end
                 end
 
-                if getPropertyFromGroup('notes',inputAmazing,'strumTime')<=getSongPosition() - 15 then
+                if getPropertyFromGroup('notes',inputAmazing,'strumTime')<=getSongPosition() - 25 then
                     --playAnim('boyfriend', ''..singAnimations[getPropertyFromGroup('notes',inputAmazing,'noteData') + 1]..'miss',true)
                     setPropertyFromGroup('notes', inputAmazing, 'blockHit', true)
                     setPropertyFromGroup('notes', inputAmazing, 'alpha', 0)
