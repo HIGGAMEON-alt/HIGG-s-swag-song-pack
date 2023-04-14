@@ -2,14 +2,35 @@ mods/data/stargazer/mod.txt
 mods/data/stargazer/stargazer-easy.json
 mods/data/stargazer/stargazer-hard.json
 mods/data/stargazer/stargazer.json
+mods/VS IMPOSTOR V5!!!!/characters/LIMEGREENWEEKINVSIMPOSTOR.json
+mods/VS IMPOSTOR V5!!!!/images/characters/LIME_GRTEEN.png
+mods/VS IMPOSTOR V5!!!!/images/characters/LIME_GRTEEN.xml
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/sick.png
+mods/VS IMPOSTOR V5!!!!/images/good.png
+mods/VS IMPOSTOR V5!!!!/images/bad.png
+mods/VS IMPOSTOR V5!!!!/images/shit.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/sick.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/good.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/bad.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/shit.png
+mods/VS IMPOSTOR V5!!!!/images/stageback.png
+mods/VS IMPOSTOR V5!!!!/images/O2Background.png
+mods/VS IMPOSTOR V5!!!!/images/O2Background.xml
 mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
-mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
 mods/VS IMPOSTOR V5!!!!/images/characters/black.png
+mods/VS IMPOSTOR V5!!!!/images/defeat.png
+mods/VS IMPOSTOR V5!!!!/images/defeat.xml
+mods/VS IMPOSTOR V5!!!!/images/lol thing.png
+mods/VS IMPOSTOR V5!!!!/images/deadBG.png
+mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
 mods/VS IMPOSTOR V5!!!!/images/characters/black.xml
 mods/VS IMPOSTOR V5!!!!/characters/bf-defeat-scared.json
-mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
 mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.xml
+mods/VS IMPOSTOR V5!!!!/characters/black.json
+mods/VS IMPOSTOR V5!!!!/images/black.png
+mods/VS IMPOSTOR V5!!!!/images/black.xml
 mods/songs/stargazer/Voices.ogg
 mods/songs/stargazer/voices.ogg
 mods/songs/stargazer/Inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SIng Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				375,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				352,
+				-48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LIME_GRTEEN",
+	"position": [
+		180,
+		300
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		27,
+		79
+	],
+	"camera_position": [
+		-320,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

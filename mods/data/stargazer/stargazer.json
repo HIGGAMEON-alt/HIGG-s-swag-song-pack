@@ -7427,7 +7427,7 @@
 		"sectionLengths": [],
 		"allowBFskin": true,
 		"uiType": "normal",
-		"stage": "plantroom",
+		"stage": "stage",
 		"sections": 0,
 		"needsVoices": true,
 		"bpm": 180,

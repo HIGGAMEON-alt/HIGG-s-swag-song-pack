@@ -2,15 +2,33 @@ mods/data/defeated-v5/defeated-v5-easy.json
 mods/data/defeated-v5/defeated-v5-hard.json
 mods/data/defeated-v5/defeated-v5.json
 mods/data/defeated-v5/mod.txt
+mods/VS IMPOSTOR V5!!!!/characters/black.json
+mods/VS IMPOSTOR V5!!!!/images/black.png
+mods/VS IMPOSTOR V5!!!!/images/black.xml
 mods/VS IMPOSTOR V5!!!!/stages/stage.json
 mods/VS IMPOSTOR V5!!!!/stages/stage.lua
 mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS IMPOSTOR V5!!!!/images/sick.png
+mods/VS IMPOSTOR V5!!!!/images/good.png
+mods/VS IMPOSTOR V5!!!!/images/bad.png
+mods/VS IMPOSTOR V5!!!!/images/shit.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/sick.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/good.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/bad.png
+mods/VS IMPOSTOR V5!!!!/images/Sussy!/shit.png
+mods/VS IMPOSTOR V5!!!!/images/stageback.png
+mods/VS IMPOSTOR V5!!!!/images/O2Background.png
+mods/VS IMPOSTOR V5!!!!/images/O2Background.xml
 mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
-mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
+mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
 mods/VS IMPOSTOR V5!!!!/images/characters/black.png
+mods/VS IMPOSTOR V5!!!!/images/defeat.png
+mods/VS IMPOSTOR V5!!!!/images/defeat.xml
+mods/VS IMPOSTOR V5!!!!/images/lol thing.png
+mods/VS IMPOSTOR V5!!!!/images/deadBG.png
+mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
 mods/VS IMPOSTOR V5!!!!/images/characters/black.xml
 mods/VS IMPOSTOR V5!!!!/characters/bf-defeat-scared.json
-mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
 mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.xml
 mods/songs/defeated-v5/Voices.ogg
 mods/songs/defeated-v5/voices.ogg
