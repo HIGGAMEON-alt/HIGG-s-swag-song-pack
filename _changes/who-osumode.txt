@@ -1,5 +1,10 @@
 mods/data/who/events.json
+mods/data/who/mod.txt
 mods/data/who/who-hard.json
+mods/VS Impostor V4/stages/who.json
+mods/VS Impostor V4/stages/who.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/who/Voices.ogg
 mods/songs/who/voices.ogg
 mods/songs/who/Inst.ogg

@@ -1,4 +1,42 @@
+mods/data/roomcode/mod.txt
 mods/data/roomcode/roomcode-hard.json
+mods/VS Impostor V4/characters/picolobby.json
+mods/VS Impostor V4/characters/powers.json
+mods/VS Impostor V4/characters/gfmira.json
+mods/VS Impostor V4/stages/powstage.json
+mods/VS Impostor V4/stages/powstage.lua
+mods/VS Impostor V4/images/characters/picolobbest.png
+mods/VS Impostor V4/images/characters/picolobbest.xml
+mods/VS Impostor V4/images/characters/powers.png
+mods/VS Impostor V4/images/characters/powers.xml
+mods/VS Impostor V4/images/characters/gfmira.png
+mods/VS Impostor V4/images/characters/gfmira.xml
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/images/characters/bf_legs.png
+mods/VS Impostor V4/images/characters/bf_legs.xml
+mods/VS Impostor V4/images/characters/blacklegs.png
+mods/VS Impostor V4/images/characters/blacklegs.xml
+mods/VS Impostor V4/images/characters/Reginald_Assets.png
+mods/VS Impostor V4/images/characters/Reginald_Assets.xml
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
+mods/VS Impostor V4/images/characters/biddle.png
+mods/VS Impostor V4/images/characters/biddle.xml
+mods/VS Impostor V4/images/characters/blackdk.png
+mods/VS Impostor V4/images/characters/blackdk.xml
+mods/VS Impostor V4/characters/dad.json
+mods/VS Impostor V4/characters/black.json
+mods/VS Impostor V4/images/characters/black.png
+mods/VS Impostor V4/images/characters/black.xml
 mods/songs/roomcode/Voices.ogg
 mods/songs/roomcode/voices.ogg
 mods/songs/roomcode/Inst.ogg

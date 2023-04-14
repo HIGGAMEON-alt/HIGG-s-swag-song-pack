@@ -1,4 +1,9 @@
+mods/data/neurotic/mod.txt
 mods/data/neurotic/neurotic-hard.json
+mods/VS Impostor V4/stages/grey.json
+mods/VS Impostor V4/stages/grey.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/neurotic/Voices.ogg
 mods/songs/neurotic/voices.ogg
 mods/songs/neurotic/Inst.ogg

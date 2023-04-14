@@ -1,5 +1,10 @@
 mods/data/drippypop/drippypop-hard.json
 mods/data/drippypop/events.json
+mods/data/drippypop/mod.txt
+mods/VS Impostor V4/stages/drippypop.json
+mods/VS Impostor V4/stages/drippypop.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/drippypop/Voices.ogg
 mods/songs/drippypop/voices.ogg
 mods/songs/drippypop/Inst.ogg

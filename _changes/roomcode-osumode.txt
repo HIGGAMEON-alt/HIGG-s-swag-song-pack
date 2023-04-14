@@ -1,4 +1,9 @@
+mods/data/roomcode/mod.txt
 mods/data/roomcode/roomcode-hard.json
+mods/VS Impostor V4/stages/powstage.json
+mods/VS Impostor V4/stages/powstage.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/roomcode/Voices.ogg
 mods/songs/roomcode/voices.ogg
 mods/songs/roomcode/Inst.ogg

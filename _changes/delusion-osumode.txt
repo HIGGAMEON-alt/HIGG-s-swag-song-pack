@@ -1,5 +1,10 @@
 mods/data/delusion/delusion-hard.json
 mods/data/delusion/events.json
+mods/data/delusion/mod.txt
+mods/VS Impostor V4/stages/grey.json
+mods/VS Impostor V4/stages/grey.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/delusion/Voices.ogg
 mods/songs/delusion/voices.ogg
 mods/songs/delusion/Inst.ogg

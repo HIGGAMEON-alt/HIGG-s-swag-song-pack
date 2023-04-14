@@ -1,10 +1,10 @@
 mods/data/reactor/events.json
 mods/data/reactor/mod.txt
 mods/data/reactor/reactor-hard.json
-mods/Vs Impostor V4/stages/reactor2.json
-mods/Vs Impostor V4/stages/reactor2.lua
-mods/Vs Impostor V4/scripts/JSONLIB.lua
-mods/Vs Impostor V4/scripts/script.lua
+mods/VS Impostor V4/stages/reactor2.json
+mods/VS Impostor V4/stages/reactor2.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/reactor/Voices.ogg
 mods/songs/reactor/voices.ogg
 mods/songs/reactor/Inst.ogg

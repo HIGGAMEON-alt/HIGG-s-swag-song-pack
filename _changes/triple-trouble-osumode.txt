@@ -1,5 +1,10 @@
 mods/data/triple-trouble/events.json
+mods/data/triple-trouble/mod.txt
 mods/data/triple-trouble/triple-trouble-hard.json
+mods/VS Impostor V4/stages/tripletrouble.json
+mods/VS Impostor V4/stages/tripletrouble.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/triple-trouble/Voices.ogg
 mods/songs/triple-trouble/voices.ogg
 mods/songs/triple-trouble/Inst.ogg

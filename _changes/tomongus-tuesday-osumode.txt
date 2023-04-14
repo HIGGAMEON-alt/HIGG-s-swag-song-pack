@@ -1,5 +1,11 @@
 mods/data/tomongus-tuesday/events.json
+mods/data/tomongus-tuesday/mod.txt
 mods/data/tomongus-tuesday/tomongus-tuesday-hard.json
+mods/VS Impostor V4/stages/tomtus.json
+mods/VS Impostor V4/stages/tomtus.lua
+mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/tomongus-tuesday/Voices.ogg
 mods/songs/tomongus-tuesday/voices.ogg
 mods/songs/tomongus-tuesday/Inst.ogg

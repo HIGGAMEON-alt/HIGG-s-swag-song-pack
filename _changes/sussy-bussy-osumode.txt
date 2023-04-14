@@ -1,4 +1,9 @@
+mods/data/sussy-bussy/mod.txt
 mods/data/sussy-bussy/sussy-bussy-hard.json
+mods/VS Impostor V4/stages/school.json
+mods/VS Impostor V4/stages/school.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/sussy-bussy/Voices.ogg
 mods/songs/sussy-bussy/voices.ogg
 mods/songs/sussy-bussy/Inst.ogg

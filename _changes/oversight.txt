@@ -1,51 +1,51 @@
 mods/data/oversight/events.json
 mods/data/oversight/mod.txt
 mods/data/oversight/oversight-hard.json
-mods/Vs Impostor V4/characters/bf.json
-mods/Vs Impostor V4/characters/white.json
-mods/Vs Impostor V4/characters/gf.json
-mods/Vs Impostor V4/stages/airshipRoom.json
-mods/Vs Impostor V4/stages/airshipRoom.lua
-mods/Vs Impostor V4/images/characters/white.png
-mods/Vs Impostor V4/images/characters/white.xml
-mods/Vs Impostor V4/images/characters/GF_assets.png
-mods/Vs Impostor V4/images/characters/GF_assets.xml
-mods/Vs Impostor V4/scripts/JSONLIB.lua
-mods/Vs Impostor V4/scripts/script.lua
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/fartingSky.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/backSkyyellow.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/yellow cloud 3.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/yellow could 2.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/window.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/cloudYellow 1.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/backDlowFloor.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/DlowFloor.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/glowYellow.png
-mods/Vs Impostor V4/images/stageassets/airship/newAirship/Teleporter.png
-mods/Vs Impostor V4/images/sick.png
-mods/Vs Impostor V4/images/good.png
-mods/Vs Impostor V4/images/bad.png
-mods/Vs Impostor V4/images/shit.png
-mods/Vs Impostor V4/images/noteSplashes.png
-mods/Vs Impostor V4/images/noteSplashes.xml
-mods/Vs Impostor V4/images/characters/bf_legs.png
-mods/Vs Impostor V4/images/characters/bf_legs.xml
-mods/Vs Impostor V4/images/characters/blacklegs.png
-mods/Vs Impostor V4/images/characters/blacklegs.xml
-mods/Vs Impostor V4/images/characters/Reginald_Assets.png
-mods/Vs Impostor V4/images/characters/Reginald_Assets.xml
-mods/Vs Impostor V4/images/characters/Ellie_Assets.png
-mods/Vs Impostor V4/images/characters/Ellie_Assets.xml
-mods/Vs Impostor V4/images/characters/madgus.png
-mods/Vs Impostor V4/images/characters/madgus.xml
-mods/Vs Impostor V4/images/characters/biddle.png
-mods/Vs Impostor V4/images/characters/biddle.xml
-mods/Vs Impostor V4/images/characters/blackdk.png
-mods/Vs Impostor V4/images/characters/blackdk.xml
-mods/Vs Impostor V4/characters/dad.json
-mods/Vs Impostor V4/characters/black.json
-mods/Vs Impostor V4/images/characters/black.png
-mods/Vs Impostor V4/images/characters/black.xml
+mods/VS Impostor V4/characters/bf.json
+mods/VS Impostor V4/characters/white.json
+mods/VS Impostor V4/characters/gf.json
+mods/VS Impostor V4/stages/airshipRoom.json
+mods/VS Impostor V4/stages/airshipRoom.lua
+mods/VS Impostor V4/images/characters/white.png
+mods/VS Impostor V4/images/characters/white.xml
+mods/VS Impostor V4/images/characters/GF_assets.png
+mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/stageassets/airship/newAirship/fartingSky.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/backSkyyellow.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/yellow cloud 3.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/yellow could 2.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/window.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/cloudYellow 1.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/backDlowFloor.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/DlowFloor.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/glowYellow.png
+mods/VS Impostor V4/images/stageassets/airship/newAirship/Teleporter.png
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/images/characters/bf_legs.png
+mods/VS Impostor V4/images/characters/bf_legs.xml
+mods/VS Impostor V4/images/characters/blacklegs.png
+mods/VS Impostor V4/images/characters/blacklegs.xml
+mods/VS Impostor V4/images/characters/Reginald_Assets.png
+mods/VS Impostor V4/images/characters/Reginald_Assets.xml
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
+mods/VS Impostor V4/images/characters/biddle.png
+mods/VS Impostor V4/images/characters/biddle.xml
+mods/VS Impostor V4/images/characters/blackdk.png
+mods/VS Impostor V4/images/characters/blackdk.xml
+mods/VS Impostor V4/characters/dad.json
+mods/VS Impostor V4/characters/black.json
+mods/VS Impostor V4/images/characters/black.png
+mods/VS Impostor V4/images/characters/black.xml
 mods/songs/oversight/Voices.ogg
 mods/songs/oversight/voices.ogg
 mods/songs/oversight/Inst.ogg
