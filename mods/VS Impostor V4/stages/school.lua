@@ -12,14 +12,32 @@ local ofs = 10;
 local followchars = true;
 local del = 0;
 local del2 = 0;
-function onCreate()
+function onCreatePost()
+makeLuaSprite('bg', 'stageassets/weeb/stars', 0, 0)
+setScrollFactor('bg', 0.1, 0.2)
+addLuaSprite('bg')
+setProperty('bg.antialiasing', false)
 
+makeLuaSprite('map', 'stageassets/weeb/weebStreet', -200, 0)
+setScrollFactor('map', 0.95, 0.95)
+addLuaSprite('map')
+setGraphicSize('map', getProperty('map.width') * 6)
+setProperty('map.antialiasing', false)
+updateHitBox('map')
+
+--[[
+FNFOnline loading shit goofy
+makeAnimatedLuaSprite('', 'NOTE_assets_pixelated', 0, 0)
+]]
 end
 
 
 
 
 function onUpdate()
+    for i=0,getProperty('unspawnNotes.length')-1 do
+    setPropertyFromGroup('unspawnNotes', i, 'texture', 'NOTE_assets_pixelated')
+    end
 	if del > 0 then
 		del = del - 1
 	end

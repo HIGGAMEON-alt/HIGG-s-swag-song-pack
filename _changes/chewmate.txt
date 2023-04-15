@@ -1,33 +1,46 @@
 mods/data/chewmate/chewmate-hard.json
 mods/data/chewmate/mod.txt
-mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
-mods/VS IMPOSTOR V5!!!!/images/sick.png
-mods/VS IMPOSTOR V5!!!!/images/good.png
-mods/VS IMPOSTOR V5!!!!/images/bad.png
-mods/VS IMPOSTOR V5!!!!/images/shit.png
-mods/VS IMPOSTOR V5!!!!/images/Sussy!/sick.png
-mods/VS IMPOSTOR V5!!!!/images/Sussy!/good.png
-mods/VS IMPOSTOR V5!!!!/images/Sussy!/bad.png
-mods/VS IMPOSTOR V5!!!!/images/Sussy!/shit.png
-mods/VS IMPOSTOR V5!!!!/images/noteSplashes.png
-mods/VS IMPOSTOR V5!!!!/images/noteSplashes.xml
-mods/VS IMPOSTOR V5!!!!/images/stageback.png
-mods/VS IMPOSTOR V5!!!!/images/O2Background.png
-mods/VS IMPOSTOR V5!!!!/images/O2Background.xml
-mods/VS IMPOSTOR V5!!!!/images/defeatfnf.png
-mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.png
-mods/VS IMPOSTOR V5!!!!/images/characters/black.png
-mods/VS IMPOSTOR V5!!!!/images/defeat.png
-mods/VS IMPOSTOR V5!!!!/images/defeat.xml
-mods/VS IMPOSTOR V5!!!!/images/lol thing.png
-mods/VS IMPOSTOR V5!!!!/images/deadBG.png
-mods/VS IMPOSTOR V5!!!!/characters/blackv4.json
-mods/VS IMPOSTOR V5!!!!/images/characters/black.xml
-mods/VS IMPOSTOR V5!!!!/characters/bf-defeat-scared.json
-mods/VS IMPOSTOR V5!!!!/images/characters/BF_Defeat_Scared.xml
-mods/VS IMPOSTOR V5!!!!/characters/black.json
-mods/VS IMPOSTOR V5!!!!/images/black.png
-mods/VS IMPOSTOR V5!!!!/images/black.xml
+mods/VS Impostor V4/characters/bfsus-pixel.json
+mods/VS Impostor V4/characters/hamster.json
+mods/VS Impostor V4/characters/gf-pixel.json
+mods/VS Impostor V4/stages/school.json
+mods/VS Impostor V4/stages/school.lua
+mods/VS Impostor V4/images/characters/bfSus.png
+mods/VS Impostor V4/images/characters/bfSus.xml
+mods/VS Impostor V4/images/characters/hamster.png
+mods/VS Impostor V4/images/characters/hamster.xml
+mods/VS Impostor V4/images/characters/gfPixel.png
+mods/VS Impostor V4/images/characters/gfPixel.xml
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/stageassets/weeb/stars.png
+mods/VS Impostor V4/images/stageassets/weeb/weebStreet.png
+mods/VS Impostor V4/images/NOTE_assets_pixelated.png
+mods/VS Impostor V4/images/NOTE_assets_pixelated.xml
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/images/characters/bf_legs.png
+mods/VS Impostor V4/images/characters/bf_legs.xml
+mods/VS Impostor V4/images/characters/blacklegs.png
+mods/VS Impostor V4/images/characters/blacklegs.xml
+mods/VS Impostor V4/images/characters/Reginald_Assets.png
+mods/VS Impostor V4/images/characters/Reginald_Assets.xml
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
+mods/VS Impostor V4/images/characters/biddle.png
+mods/VS Impostor V4/images/characters/biddle.xml
+mods/VS Impostor V4/images/characters/blackdk.png
+mods/VS Impostor V4/images/characters/blackdk.xml
+mods/VS Impostor V4/characters/dad.json
+mods/VS Impostor V4/characters/black.json
+mods/VS Impostor V4/images/characters/black.png
+mods/VS Impostor V4/images/characters/black.xml
 mods/songs/chewmate/Voices.ogg
 mods/songs/chewmate/voices.ogg
 mods/songs/chewmate/Inst.ogg

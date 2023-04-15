@@ -13,7 +13,8 @@ local followchars = true;
 local del = 0;
 local del2 = 0;
 function onCreate()
-
+makeLuaSprite('jerma', 'jerma', 0, 0)
+addLuaSprite('jerma')
 end
 
 

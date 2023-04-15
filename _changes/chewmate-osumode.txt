@@ -1,6 +1,9 @@
 mods/data/chewmate/chewmate-hard.json
 mods/data/chewmate/mod.txt
-mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS Impostor V4/stages/school.json
+mods/VS Impostor V4/stages/school.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/chewmate/Voices.ogg
 mods/songs/chewmate/voices.ogg
 mods/songs/chewmate/Inst.ogg

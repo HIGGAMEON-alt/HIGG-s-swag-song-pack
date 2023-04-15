@@ -15,7 +15,14 @@ local del2 = 0;
 
 
 function onCreate()
-   
+    makeLuaSprite('bg', '', 0, 0)
+    makeGraphic('bg', 5000, 5000, 'FFFFFF')
+    setScrollFactor('bg', 0, 0)
+    addLuaSprite('bg')
+
+    makeLuaSprite('toby', 'toby', 0, 0)
+    addLuaSprite('toby')
+    setProperty('toby.antialiasing', false)
 end
 
 

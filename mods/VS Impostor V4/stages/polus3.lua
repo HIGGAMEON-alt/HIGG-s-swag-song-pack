@@ -1,4 +1,7 @@
-
+--[[
+NOTE:Shaders were indeed originally included in this port but
+due to removing shaders for the sake of performance I will remove the shader code
+]]
 local u = false;
 local r = 0;
 local shot = false;
@@ -35,42 +38,15 @@ setProperty('lavaoverlay.scale.y', 1.5)
 setProperty('lavaoverlay.alpha', 0.7)
 setBlendMode('lavaoverlay', 'ADD')
 addLuaSprite('lavaoverlay', true)
-runHaxeCode([[
-    game.initLuaShader('heatWave');
-    shader0 = game.createRuntimeShader('heatWave');
-    game.camGame.setFilters([new ShaderFilter(shader0), new ShaderFilter(game.getLuaObject("temporaryShader").shader)]);
-    ]])
 end
 
-
-function onUpdate()
+function onUpdatePost()
     setProperty("gf.alpha", 0)
-    if shadersEnabled then
-    runHaxeCode([[
-    shader0.setFloat(iTime,]]..os.clock()..[[);
-    shader0.setInt(wideness, 2000000);
-    ]])
-    for i=1,#shaderList do
-    setShaderFloat(shaderList[i], 'time', os.clock())
-    setShaderFloat(shaderList[i], 'intensity',  0.1 + getProperty('shaderTween.x') * 5.5)
-    setShaderFloat(shaderList[i], 'initial',  1 +getProperty('shaderTween.x') * 5.5)
-    end
-    end
-function onSectionHit()
-if mustHitSection then
-    setProperty('defaultCamZoom',0.7)
-else
-    setProperty('defaultCamZoom',0.6)
-end
-end
-
-function onSongStart()
     if mustHitSection then
         setProperty('defaultCamZoom',0.7)
     else
         setProperty('defaultCamZoom',0.6)
     end
-end
 
 	if del > 0 then
 		del = del - 1
@@ -133,5 +109,4 @@ end
     else
         triggerEvent('Camera Follow Pos','','')
     end
-    
 end

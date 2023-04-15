@@ -13,6 +13,10 @@ mods/VS Impostor V4/images/characters/gfPixel.png
 mods/VS Impostor V4/images/characters/gfPixel.xml
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/stageassets/weeb/stars.png
+mods/VS Impostor V4/images/stageassets/weeb/weebStreet.png
+mods/VS Impostor V4/images/NOTE_assets_pixelated.png
+mods/VS Impostor V4/images/NOTE_assets_pixelated.xml
 mods/VS Impostor V4/images/sick.png
 mods/VS Impostor V4/images/good.png
 mods/VS Impostor V4/images/bad.png

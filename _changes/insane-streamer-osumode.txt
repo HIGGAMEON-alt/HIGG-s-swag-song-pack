@@ -1,6 +1,9 @@
 mods/data/insane-streamer/insane-streamer-hard.json
 mods/data/insane-streamer/mod.txt
-mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/VS Impostor V4/stages/jerma.json
+mods/VS Impostor V4/stages/jerma.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/insane-streamer/Voices.ogg
 mods/songs/insane-streamer/voices.ogg
 mods/songs/insane-streamer/Inst.ogg
