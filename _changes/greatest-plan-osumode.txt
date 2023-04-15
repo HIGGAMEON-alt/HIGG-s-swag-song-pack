@@ -1,5 +1,7 @@
 mods/data/greatest-plan/events.json
 mods/data/greatest-plan/greatest-plan-hard.json
+mods/data/greatest-plan/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/greatest-plan/Voices.ogg
 mods/songs/greatest-plan/voices.ogg
 mods/songs/greatest-plan/Inst.ogg

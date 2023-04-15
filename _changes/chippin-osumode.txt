@@ -1,5 +1,7 @@
 mods/data/chippin/chippin-hard.json
 mods/data/chippin/events.json
+mods/data/chippin/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/chippin/Voices.ogg
 mods/songs/chippin/voices.ogg
 mods/songs/chippin/Inst.ogg

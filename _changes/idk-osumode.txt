@@ -1,4 +1,6 @@
 mods/data/idk/idk-hard.json
+mods/data/idk/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/idk/Voices.ogg
 mods/songs/idk/voices.ogg
 mods/songs/idk/Inst.ogg

@@ -1,5 +1,10 @@
 mods/data/esculent/esculent-hard.json
 mods/data/esculent/events.json
+mods/data/esculent/mod.txt
+mods/VS Impostor V4/stages/esculent.json
+mods/VS Impostor V4/stages/esculent.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/esculent/Voices.ogg
 mods/songs/esculent/voices.ogg
 mods/songs/esculent/Inst.ogg

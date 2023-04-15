@@ -1,5 +1,7 @@
 mods/data/chipping/chipping-hard.json
 mods/data/chipping/events.json
+mods/data/chipping/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/chipping/Voices.ogg
 mods/songs/chipping/voices.ogg
 mods/songs/chipping/Inst.ogg

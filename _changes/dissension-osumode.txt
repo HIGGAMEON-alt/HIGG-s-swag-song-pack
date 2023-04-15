@@ -1,4 +1,8 @@
 mods/data/dissension/dissension-hard.json
+mods/data/dissension/mod.txt
+mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/JSONLIB.lua
+mods/VS Impostor V4/scripts/script.lua
 mods/songs/dissension/Voices.ogg
 mods/songs/dissension/voices.ogg
 mods/songs/dissension/Inst.ogg

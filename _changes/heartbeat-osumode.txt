@@ -1,5 +1,7 @@
 mods/data/heartbeat/events.json
 mods/data/heartbeat/heartbeat-hard.json
+mods/data/heartbeat/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/heartbeat/Voices.ogg
 mods/songs/heartbeat/voices.ogg
 mods/songs/heartbeat/Inst.ogg

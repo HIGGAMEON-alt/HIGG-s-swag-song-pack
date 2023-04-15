@@ -1,5 +1,7 @@
 mods/data/identity-crisis/events.json
 mods/data/identity-crisis/identity-crisis-hard.json
+mods/data/identity-crisis/mod.txt
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
 mods/songs/identity-crisis/Voices.ogg
 mods/songs/identity-crisis/voices.ogg
 mods/songs/identity-crisis/Inst.ogg
