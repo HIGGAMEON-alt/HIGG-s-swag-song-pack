@@ -24,7 +24,7 @@ function onCreate()
     realCamZoomie = true
     curZoom = getProperty('defaultCamZoom')
     setPropertyFromClass('ClientPrefs', 'camZooms', false)
-    json = dofile('localrepotest%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
+    json = dofile('HIGG-alt%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
     songPlaceHolder = json.parse(getTextFromFile('data/'..songName..'/'..songName..'-'..difficultyName..'.json'))
     SONG = songPlaceHolder.song
     SONGOTHERCHECK = runHaxeCode([=[
