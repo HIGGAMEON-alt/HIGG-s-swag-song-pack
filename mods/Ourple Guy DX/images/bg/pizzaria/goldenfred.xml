@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldenfred.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="poster idle0000" x="510" y="0" width="236" height="280"/>
+	<SubTexture name="poster idle0001" x="510" y="0" width="236" height="280"/>
+	<SubTexture name="poster idle0002" x="746" y="0" width="227" height="275" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0003" x="746" y="0" width="227" height="275" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0004" x="0" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0005" x="0" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0006" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0007" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0008" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0009" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0010" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0011" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0012" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster idle0013" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster10000" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10001" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10002" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10003" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10004" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10005" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10006" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10007" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10008" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10009" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10010" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10011" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10012" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster10013" x="0" y="0" width="170" height="220"/>
+	<SubTexture name="poster20000" x="170" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20001" x="170" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20002" x="170" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20003" x="170" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20004" x="340" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20005" x="340" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20006" x="170" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20007" x="170" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20008" x="340" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20009" x="340" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20010" x="340" y="0" width="170" height="220" frameX="-8" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20011" x="510" y="0" width="236" height="280"/>
+	<SubTexture name="poster20012" x="510" y="0" width="236" height="280"/>
+	<SubTexture name="poster20013" x="746" y="0" width="227" height="275" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20014" x="746" y="0" width="227" height="275" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20015" x="0" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20016" x="0" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20017" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20018" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20019" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20020" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20021" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20022" x="235" y="280" width="227" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20023" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+	<SubTexture name="poster20024" x="462" y="280" width="235" height="273" frameX="-1" frameY="0" frameWidth="236" frameHeight="280"/>
+</TextureAtlas>

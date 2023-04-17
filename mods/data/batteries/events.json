@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage",
+		"player1": "bf_ourple",
+		"player2": "cake",
+		"player3": null,
+		"events": [
+			[
+				124000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"3"
+					]
+				]
+			],
+			[
+				125333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"3"
+					]
+				]
+			],
+			[
+				193494.252873563,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-musicbox",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Batteries"
+	}
+}

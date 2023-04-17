@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+    <!-- Made using Maru Aseprite JSON to XML converter -->
+    <SubTexture name="tits idle00000" x="0" y="0" width="607" height="726"/>
+    <SubTexture name="tits idle00001" x="607" y="0" width="607" height="726"/>
+    <SubTexture name="tits idle00002" x="1214" y="0" width="607" height="726"/>
+    <SubTexture name="tits idle00003" x="0" y="726" width="607" height="726"/>
+    <SubTexture name="tits idle00004" x="607" y="726" width="607" height="726"/>
+    <SubTexture name="tits idle00005" x="607" y="726" width="607" height="726"/>
+    <SubTexture name="tits idle00006" x="1214" y="726" width="607" height="726"/>
+    <SubTexture name="tits idle00007" x="0" y="1452" width="607" height="726"/>
+    <SubTexture name="tits idle00008" x="607" y="1452" width="607" height="726"/>
+    <SubTexture name="tits idle00009" x="1214" y="1452" width="607" height="726"/>
+    <SubTexture name="tits idle00010" x="607" y="726" width="607" height="726"/>
+    <SubTexture name="tits idle00011" x="607" y="726" width="607" height="726"/>
+</TextureAtlas>

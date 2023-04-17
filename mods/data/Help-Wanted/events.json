@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "helpwantedstage",
+		"player1": "bf_ourple",
+		"player2": "stevenHP",
+		"player3": null,
+		"events": [
+			[
+				28800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.35",
+						"16"
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Alter Camera Bouncing",
+						"4",
+						"0.015"
+					]
+				]
+			],
+			[
+				54771.4285714286,
+				[
+					[
+						"Alter Camera Bouncing",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				54852.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pourage"
+					]
+				]
+			],
+			[
+				55714.2857142857,
+				[
+					[
+						"Change Scroll Speed",
+						"1.05",
+						"1"
+					]
+				]
+			],
+			[
+				58971.4285714286,
+				[
+					[
+						"Alter Camera Bouncing",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				82285.7142857142,
+				[
+					[
+						"Alter Camera Bouncing",
+						"4",
+						"0.010"
+					]
+				]
+			],
+			[
+				93257.1428571428,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"28.75"
+					]
+				]
+			],
+			[
+				104228.571428571,
+				[
+					[
+						"Alter Camera Bouncing",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Alter Camera Bouncing",
+						"2",
+						"0.013"
+					]
+				]
+			],
+			[
+				131625,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"5"
+					]
+				]
+			],
+			[
+				131657.142857143,
+				[
+					[
+						"Alter Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-musicbox",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Help Wanted"
+	}
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNAF 2 BG.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="0" y="0" width="1970" height="1407"/>
+	<SubTexture name="ioverlay0000" x="1970" y="0" width="1835" height="1407"/>
+</TextureAtlas>

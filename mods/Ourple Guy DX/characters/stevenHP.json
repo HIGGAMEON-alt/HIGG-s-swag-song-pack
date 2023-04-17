@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				85,
+				156
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				85,
+				156
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				85,
+				156
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "downmiss"
+		},
+		{
+			"offsets": [
+				85,
+				156
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upmiss"
+		},
+		{
+			"offsets": [
+				245,
+				-288
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "die",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				156
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				156
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				156
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 30,
+			"name": "leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				156
+			],
+			"anim": "singLEFTmiss",
+			"fps": 30,
+			"name": "rightmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/steven",
+	"position": [
+		-40,
+		260
+	],
+	"healthicon": "steven-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		229,
+		40,
+		2
+	],
+	"camera_position": [
+		-220,
+		60
+	],
+	"sing_duration": 6.7,
+	"scale": 1.5
+}

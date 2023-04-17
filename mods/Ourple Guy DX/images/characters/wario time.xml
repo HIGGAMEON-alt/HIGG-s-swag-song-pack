@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wario time.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Wario Down instance 10000" x="6" y="6" width="668" height="222" frameX="0" frameY="-329" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Down instance 10001" x="6" y="6" width="668" height="222" frameX="0" frameY="-329" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Down instance 10002" x="687" y="6" width="608" height="289" frameX="-30" frameY="-263" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Down instance 10003" x="687" y="6" width="608" height="289" frameX="-30" frameY="-263" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Down instance 10004" x="1308" y="6" width="488" height="413" frameX="-90" frameY="-56" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Down instance 10005" x="1809" y="6" width="431" height="464" frameX="-118" frameY="0" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Down instance 10006" x="1809" y="6" width="431" height="464" frameX="-118" frameY="0" frameWidth="668" frameHeight="552"/>
+	<SubTexture name="Wario Left instance 10000" x="2253" y="6" width="635" height="680" frameX="0" frameY="0" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Left instance 10001" x="2253" y="6" width="635" height="680" frameX="0" frameY="0" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Left instance 10002" x="2901" y="6" width="728" height="488" frameX="-44" frameY="-126" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Left instance 10003" x="2901" y="6" width="728" height="488" frameX="-44" frameY="-126" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Left instance 10004" x="6" y="699" width="575" height="439" frameX="-201" frameY="-159" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Left instance 10005" x="594" y="699" width="543" height="439" frameX="-231" frameY="-159" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Left instance 10006" x="594" y="699" width="543" height="439" frameX="-231" frameY="-159" frameWidth="776" frameHeight="680"/>
+	<SubTexture name="Wario Up instance 10000" x="1150" y="699" width="660" height="880" frameX="-88" frameY="0" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario Up instance 10001" x="1150" y="699" width="660" height="880" frameX="-88" frameY="0" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario Up instance 10002" x="1823" y="699" width="808" height="804" frameX="-10" frameY="-156" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario Up instance 10003" x="1823" y="699" width="808" height="804" frameX="-10" frameY="-156" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario Up instance 10004" x="2644" y="699" width="808" height="753" frameX="-10" frameY="-199" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario Up instance 10005" x="6" y="1592" width="829" height="720" frameX="0" frameY="-227" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario Up instance 10006" x="6" y="1592" width="829" height="720" frameX="0" frameY="-227" frameWidth="829" frameHeight="960"/>
+	<SubTexture name="Wario instance 10000" x="848" y="1592" width="559" height="353" frameX="-5" frameY="-122" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10001" x="848" y="1592" width="559" height="353" frameX="-5" frameY="-122" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10002" x="1420" y="1592" width="567" height="262" frameX="0" frameY="-209" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10003" x="1420" y="1592" width="567" height="262" frameX="0" frameY="-209" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10004" x="2000" y="1592" width="532" height="335" frameX="-9" frameY="-141" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10005" x="2000" y="1592" width="532" height="335" frameX="-9" frameY="-141" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10006" x="2545" y="1592" width="494" height="395" frameX="-30" frameY="-78" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10007" x="2545" y="1592" width="494" height="395" frameX="-30" frameY="-78" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10008" x="3052" y="1592" width="446" height="471" frameX="-60" frameY="0" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10009" x="3052" y="1592" width="446" height="471" frameX="-60" frameY="0" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10010" x="3052" y="1592" width="446" height="471" frameX="-60" frameY="0" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario instance 10011" x="3052" y="1592" width="446" height="471" frameX="-60" frameY="0" frameWidth="567" frameHeight="476"/>
+	<SubTexture name="Wario right instance 10000" x="6" y="2325" width="646" height="559" frameX="-22" frameY="0" frameWidth="668" frameHeight="559"/>
+	<SubTexture name="Wario right instance 10001" x="6" y="2325" width="646" height="559" frameX="-22" frameY="0" frameWidth="668" frameHeight="559"/>
+	<SubTexture name="Wario right instance 10002" x="665" y="2325" width="617" height="494" frameX="-1" frameY="-36" frameWidth="668" frameHeight="559"/>
+	<SubTexture name="Wario right instance 10003" x="665" y="2325" width="617" height="494" frameX="-1" frameY="-36" frameWidth="668" frameHeight="559"/>
+	<SubTexture name="Wario right instance 10004" x="1295" y="2325" width="564" height="494" frameX="-1" frameY="-36" frameWidth="668" frameHeight="559"/>
+	<SubTexture name="Wario right instance 10005" x="1872" y="2325" width="544" height="494" frameX="0" frameY="-36" frameWidth="668" frameHeight="559"/>
+	<SubTexture name="Wario right instance 10006" x="1872" y="2325" width="544" height="494" frameX="0" frameY="-36" frameWidth="668" frameHeight="559"/>
+</TextureAtlas>

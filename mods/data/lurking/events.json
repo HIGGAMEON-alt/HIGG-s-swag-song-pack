@@ -1,0 +1,349 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "bon",
+		"player1": "bf_ourple",
+		"player2": "bonnie",
+		"player3": null,
+		"events": [
+			[
+				8727.27272727273,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-0.046"
+					],
+					[
+						"Set Property",
+						"camHUD.visible",
+						"false"
+					]
+				]
+			],
+			[
+				9272.72727272727,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-0.19"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				9818.18181818182,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-0.415"
+					],
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				10363.6363636364,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-0.7439"
+					]
+				]
+			],
+			[
+				10909.0909090909,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-1.16"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				11454.5454545455,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-1.62"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-2.225"
+					]
+				]
+			],
+			[
+				12545.4545454545,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-2.88"
+					],
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				13090.9090909091,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-2.88"
+					],
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				13636.3636363636,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-3.476"
+					]
+				]
+			],
+			[
+				14181.8181818182,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-3.951"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				14727.2727272727,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-4.345"
+					]
+				]
+			],
+			[
+				15272.7272727273,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-4.654"
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				15818.1818181818,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					],
+					[
+						"Set Property",
+						"camGame.angle",
+						"-4.654"
+					]
+				]
+			],
+			[
+				16363.6363636364,
+				[
+					[
+						"Set Property",
+						"camGame.angle",
+						"-4.795"
+					],
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				16909.0909090909,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"false"
+					],
+					[
+						"Alter Visibility",
+						"camHUD",
+						"false"
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"true"
+					],
+					[
+						"Alter Visibility",
+						"camHUD",
+						"true"
+					],
+					[
+						"Set Property",
+						"boyfriend.color",
+						"16777215"
+					],
+					[
+						"Set Property",
+						"dad.color",
+						"16777215"
+					],
+					[
+						"Set Property",
+						"gf.color",
+						"16777215"
+					]
+				]
+			],
+			[
+				51818.1818181819,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"false"
+					]
+				]
+			],
+			[
+				52363.6363636364,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"true"
+					]
+				]
+			],
+			[
+				112909.090909091,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"false"
+					]
+				]
+			],
+			[
+				113454.545454545,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"true"
+					]
+				]
+			],
+			[
+				139148.863636364,
+				[
+					[
+						"Alter Visibility",
+						"camGame",
+						"false"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-stand",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Lurking"
+	}
+}

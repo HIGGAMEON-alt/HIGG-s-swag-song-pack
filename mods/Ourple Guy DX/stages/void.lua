@@ -403,6 +403,7 @@ function onUpdate(elapsed)
 				--debugPrint('removed spite note'..tostring(getPropertyFromGroup('notes', i, 'noteData') + 1))
 				removeFromGroup('notes', i)
 		end
+		if not oppMode then
 		if getPropertyFromGroup('notes', i, 'mustPress') and getPropertyFromGroup('notes', i, 'noteType') ~= 'Spite Note' then
 			setPropertyFromGroup('notes', i, 'noteType', curType)
 			if curType == 'GF Sing' then
@@ -418,6 +419,23 @@ function onUpdate(elapsed)
 				setProperty('boyfriend.hasMissAnimations', true)
 			end
 		end
+	else
+		if getPropertyFromGroup('notes', i, 'mustPress') == false and getPropertyFromGroup('notes', i, 'noteType') ~= 'Spite Note' then
+			setPropertyFromGroup('notes', i, 'noteType', curType)
+			if curType == 'GF Sing' then
+				setPropertyFromGroup('notes', i, 'gfNote', true)
+			else
+				setPropertyFromGroup('notes', i, 'gfNote', false)
+			end
+			if not default then
+				setPropertyFromGroup('notes', i, 'noAnimation', true)
+				setProperty('boyfriend.hasMissAnimations', false)
+			else
+				setPropertyFromGroup('notes', i, 'noAnimation', false)
+				setProperty('boyfriend.hasMissAnimations', true)
+			end
+		end
+	end
 	end
 	
 	for i = 0, getProperty('unspawnNotes.length')-1 do

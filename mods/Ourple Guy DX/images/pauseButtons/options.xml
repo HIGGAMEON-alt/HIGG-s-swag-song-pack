@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="options.png">
+    <!-- Made using Maru Aseprite JSON to XML converter -->
+    <SubTexture name="Idle00000" x="0" y="0" width="1920" height="1080"/>
+    <SubTexture name="Selected00000" x="1920" y="0" width="1920" height="1080"/>
+    <SubTexture name="Input00000" x="3840" y="0" width="1920" height="1080"/>
+    <SubTexture name="Input00001" x="0" y="1080" width="1920" height="1080"/>
+    <SubTexture name="Input00002" x="1920" y="1080" width="1920" height="1080"/>
+    <SubTexture name="Input00003" x="1920" y="0" width="1920" height="1080"/>
+    <SubTexture name="Input00004" x="1920" y="0" width="1920" height="1080"/>
+    <SubTexture name="Input00005" x="1920" y="0" width="1920" height="1080"/>
+</TextureAtlas>

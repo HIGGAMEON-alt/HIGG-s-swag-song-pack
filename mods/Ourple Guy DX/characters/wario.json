@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "garf",
+			"indices": [],
+			"name": "garf"
+		},
+		{
+			"offsets": [
+				70,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Wario instance 1"
+		},
+		{
+			"offsets": [
+				277,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Wario Left instance 1"
+		},
+		{
+			"offsets": [
+				127,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Wario Down instance 1"
+		},
+		{
+			"offsets": [
+				180,
+				472
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Wario Up instance 1"
+		},
+		{
+			"offsets": [
+				-31,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Wario right instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wario Time",
+	"position": [
+		30,
+		260
+	],
+	"healthicon": "freddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		106,
+		57,
+		14
+	],
+	"camera_position": [
+		-180,
+		-150
+	],
+	"sing_duration": 5.7,
+	"scale": 1
+}
