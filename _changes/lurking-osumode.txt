@@ -1,0 +1,16 @@
+mods/data/lurking/events.json
+mods/data/lurking/lurking-hard.json
+mods/data/lurking/mod.txt
+mods/data/lurking/script.lua
+mods/Ourple Guy DX/stages/bon.json
+mods/Ourple Guy DX/stages/bon.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Set Property.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/fonts/
+mods/songs/lurking/Voices.ogg
+mods/songs/lurking/voices.ogg
+mods/songs/lurking/Inst.ogg
+mods/songs/lurking/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/lore/events.json
+mods/data/lore/lore-easy.json
+mods/data/lore/lore-hard.json
+mods/data/lore/lore.json
+mods/data/lore/mod.txt
+mods/VS IMPOSTOR V5!!!!/stages/stage.json
+mods/VS IMPOSTOR V5!!!!/stages/stage.lua
+mods/VS IMPOSTOR V5!!!!/scripts/KadeUI.lua
+mods/songs/lore/Voices.ogg
+mods/songs/lore/voices.ogg
+mods/songs/lore/Inst.ogg
+mods/songs/lore/inst.ogg

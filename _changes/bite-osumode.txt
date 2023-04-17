@@ -1,0 +1,14 @@
+mods/data/bite/bite-hard.json
+mods/data/bite/mod.txt
+mods/Ourple Guy DX/stages/bite.json
+mods/Ourple Guy DX/stages/bite.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Object Play Animation.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/fonts/
+mods/songs/bite/Voices.ogg
+mods/songs/bite/voices.ogg
+mods/songs/bite/Inst.ogg
+mods/songs/bite/inst.ogg

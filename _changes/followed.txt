@@ -1,0 +1,32 @@
+mods/data/followed/events.json
+mods/data/followed/followed-hard.json
+mods/data/followed/mod.txt
+mods/data/followed/script.lua
+mods/Ourple Guy DX/characters/bf-pix.json
+mods/Ourple Guy DX/characters/shadowfred.json
+mods/Ourple Guy DX/stages/fred.json
+mods/Ourple Guy DX/stages/fred.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/shadowfred.png
+mods/Ourple Guy DX/images/characters/shadowfred.xml
+mods/Ourple Guy DX/custom_events/Decrease Alpha.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Flash Camera.lua
+mods/Ourple Guy DX/custom_events/Alarm.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/sounds/glitching.ogg
+mods/Ourple Guy DX/sounds/crushed.ogg
+mods/Ourple Guy DX/images/vignette.png
+mods/Ourple Guy DX/images/bg/eyes.png
+mods/Ourple Guy DX/images/bg/memories.png
+mods/Ourple Guy DX/images/bg/memories.xml
+mods/Ourple Guy DX/images/bg/eyes.xml
+mods/Ourple Guy DX/images/scanline.png
+mods/Ourple Guy DX/fonts/
+mods/songs/followed/Voices.ogg
+mods/songs/followed/voices.ogg
+mods/songs/followed/Inst.ogg
+mods/songs/followed/inst.ogg

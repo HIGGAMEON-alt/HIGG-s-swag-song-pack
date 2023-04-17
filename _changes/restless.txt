@@ -1,0 +1,21 @@
+mods/data/restless/mod.txt
+mods/data/restless/restless-hard.json
+mods/data/restless/script.lua
+mods/Ourple Guy DX/characters/cc.json
+mods/Ourple Guy DX/characters/shadowfred.json
+mods/Ourple Guy DX/stages/bon.json
+mods/Ourple Guy DX/stages/bon.lua
+mods/Ourple Guy DX/images/characters/crying-child.png
+mods/Ourple Guy DX/images/characters/crying-child.xml
+mods/Ourple Guy DX/images/characters/shadowfred.png
+mods/Ourple Guy DX/images/characters/shadowfred.xml
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/sounds/crushed.ogg
+mods/Ourple Guy DX/images/scanline.png
+mods/Ourple Guy DX/fonts/
+mods/songs/restless/Voices.ogg
+mods/songs/restless/voices.ogg
+mods/songs/restless/Inst.ogg
+mods/songs/restless/inst.ogg

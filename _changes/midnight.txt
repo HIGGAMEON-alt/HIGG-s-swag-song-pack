@@ -1,0 +1,29 @@
+mods/data/midnight/midnight-hard.json
+mods/data/midnight/mod.txt
+mods/Ourple Guy DX/characters/bf_ourple.json
+mods/Ourple Guy DX/characters/prange.json
+mods/Ourple Guy DX/characters/gf-stand.json
+mods/Ourple Guy DX/stages/midnight.json
+mods/Ourple Guy DX/stages/midnight.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/prange.png
+mods/Ourple Guy DX/images/characters/prange.xml
+mods/Ourple Guy DX/images/characters/gf-stand.png
+mods/Ourple Guy DX/images/characters/gf-stand.xml
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/midnight/back.png
+mods/Ourple Guy DX/images/bg/midnight/front.png
+mods/Ourple Guy DX/images/bg/midnight/green.png
+mods/Ourple Guy DX/images/bg/midnight/green.xml
+mods/Ourple Guy DX/images/bg/freddie.png
+mods/Ourple Guy DX/images/bg/freddie.xml
+mods/Ourple Guy DX/images/bg/midnight/rain.png
+mods/Ourple Guy DX/images/bg/midnight/rain.xml
+mods/Ourple Guy DX/fonts/
+mods/songs/midnight/Voices.ogg
+mods/songs/midnight/voices.ogg
+mods/songs/midnight/Inst.ogg
+mods/songs/midnight/inst.ogg

@@ -1,0 +1,13 @@
+mods/data/8-bit-comeback/8-bit-comeback-hard.json
+mods/data/8-bit-comeback/mod.txt
+mods/data/8-bit-comeback/script.lua
+mods/Ourple Guy DX/stages/guystage.json
+mods/Ourple Guy DX/stages/guystage.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/fonts/
+mods/songs/8-bit-comeback/Voices.ogg
+mods/songs/8-bit-comeback/voices.ogg
+mods/songs/8-bit-comeback/Inst.ogg
+mods/songs/8-bit-comeback/inst.ogg

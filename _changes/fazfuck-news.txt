@@ -1,0 +1,20 @@
+mods/data/fazfuck-news/fazfuck-news-hard.json
+mods/data/fazfuck-news/mod.txt
+mods/Ourple Guy DX/characters/taptap.json
+mods/Ourple Guy DX/characters/mang.json
+mods/Ourple Guy DX/stages/samm.json
+mods/Ourple Guy DX/stages/samm.lua
+mods/Ourple Guy DX/images/characters/taptap.png
+mods/Ourple Guy DX/images/characters/taptap.xml
+mods/Ourple Guy DX/images/characters/mang.png
+mods/Ourple Guy DX/images/characters/mang.xml
+mods/Ourple Guy DX/custom_events/Camera Zoom Speed.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/samm_room.png
+mods/Ourple Guy DX/fonts/
+mods/songs/fazfuck-news/Voices.ogg
+mods/songs/fazfuck-news/voices.ogg
+mods/songs/fazfuck-news/Inst.ogg
+mods/songs/fazfuck-news/inst.ogg

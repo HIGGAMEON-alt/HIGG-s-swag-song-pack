@@ -1,0 +1,26 @@
+mods/data/batteries/batteries-hard.json
+mods/data/batteries/events.json
+mods/data/batteries/mod.txt
+mods/data/batteries/script.lua
+mods/Ourple Guy DX/characters/bf_ourple.json
+mods/Ourple Guy DX/characters/cake.json
+mods/Ourple Guy DX/characters/gf-musicbox.json
+mods/Ourple Guy DX/stages/batteries.json
+mods/Ourple Guy DX/stages/batteries.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/cake.png
+mods/Ourple Guy DX/images/characters/cake.xml
+mods/Ourple Guy DX/images/characters/gf-musicbox.png
+mods/Ourple Guy DX/images/characters/gf-musicbox.xml
+mods/Ourple Guy DX/custom_notetypes/Special Sing.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/FNaFOffice2/FNaF_2_BG.png
+mods/Ourple Guy DX/images/bg/FNaFOffice2/FNaF_2_BG.xml
+mods/Ourple Guy DX/fonts/
+mods/songs/batteries/Voices.ogg
+mods/songs/batteries/voices.ogg
+mods/songs/batteries/Inst.ogg
+mods/songs/batteries/inst.ogg

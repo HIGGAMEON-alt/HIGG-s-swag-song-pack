@@ -1,0 +1,15 @@
+mods/data/showtime/mod.txt
+mods/data/showtime/showtime-hard.json
+mods/Ourple Guy DX/stages/showtime.json
+mods/Ourple Guy DX/stages/showtime.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Object Play Animation.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/sounds/glass.ogg
+mods/Ourple Guy DX/fonts/
+mods/songs/showtime/Voices.ogg
+mods/songs/showtime/voices.ogg
+mods/songs/showtime/Inst.ogg
+mods/songs/showtime/inst.ogg

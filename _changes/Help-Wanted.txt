@@ -1,0 +1,28 @@
+mods/data/help-wanted/events.json
+mods/Ourple Guy DX/characters/pourage.json
+mods/Ourple Guy DX/images/characters/pourage.png
+mods/Ourple Guy DX/images/characters/pourage.xml
+mods/data/help-wanted/help-wanted-hard.json
+mods/data/help-wanted/mod.txt
+mods/data/help-wanted/script.lua
+mods/Ourple Guy DX/characters/bf_ourple.json
+mods/Ourple Guy DX/characters/stevenHP.json
+mods/Ourple Guy DX/characters/gf-musicbox.json
+mods/Ourple Guy DX/stages/helpwantedstage.json
+mods/Ourple Guy DX/stages/helpwantedstage.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/steven.png
+mods/Ourple Guy DX/images/characters/steven.xml
+mods/Ourple Guy DX/images/characters/gf-musicbox.png
+mods/Ourple Guy DX/images/characters/gf-musicbox.xml
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/prize counter/Background.png
+mods/Ourple Guy DX/images/bg/prize counter/fence thingy idk.png
+mods/Ourple Guy DX/fonts/
+mods/songs/help-wanted/Voices.ogg
+mods/songs/help-wanted/voices.ogg
+mods/songs/help-wanted/Inst.ogg
+mods/songs/help-wanted/inst.ogg

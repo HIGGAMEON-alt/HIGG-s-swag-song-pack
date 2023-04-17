@@ -1,0 +1,19 @@
+mods/data/watchful/mod.txt
+mods/data/watchful/watchful-hard.json
+mods/Ourple Guy DX/characters/bf_ourple.json
+mods/Ourple Guy DX/characters/plushie.json
+mods/Ourple Guy DX/stages/oval.json
+mods/Ourple Guy DX/stages/oval.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/plushie.png
+mods/Ourple Guy DX/images/characters/plushie.xml
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/oval.png
+mods/Ourple Guy DX/fonts/
+mods/songs/watchful/Voices.ogg
+mods/songs/watchful/voices.ogg
+mods/songs/watchful/Inst.ogg
+mods/songs/watchful/inst.ogg

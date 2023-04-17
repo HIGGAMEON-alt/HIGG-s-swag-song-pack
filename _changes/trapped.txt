@@ -1,0 +1,16 @@
+mods/data/trapped/mod.txt
+mods/data/trapped/trapped-hard.json
+mods/Ourple Guy DX/characters/salvage.json
+mods/Ourple Guy DX/stages/fnaf3.json
+mods/Ourple Guy DX/stages/fnaf3.lua
+mods/Ourple Guy DX/images/characters/salvage.png
+mods/Ourple Guy DX/images/characters/salvage.xml
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/fnaf3.png
+mods/Ourple Guy DX/fonts/
+mods/songs/trapped/Voices.ogg
+mods/songs/trapped/voices.ogg
+mods/songs/trapped/Inst.ogg
+mods/songs/trapped/inst.ogg

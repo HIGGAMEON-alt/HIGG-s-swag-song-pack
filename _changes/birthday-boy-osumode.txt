@@ -1,0 +1,13 @@
+mods/data/birthday-boy/birthday-boy-hard.json
+mods/data/birthday-boy/mod.txt
+mods/data/birthday-boy/script.lua
+mods/Ourple Guy DX/stages/BBB.json
+mods/Ourple Guy DX/stages/BBB.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/fonts/
+mods/songs/birthday-boy/Voices.ogg
+mods/songs/birthday-boy/voices.ogg
+mods/songs/birthday-boy/Inst.ogg
+mods/songs/birthday-boy/inst.ogg

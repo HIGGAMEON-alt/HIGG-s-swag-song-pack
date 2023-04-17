@@ -1,0 +1,8 @@
+mods/data/miller/miller-hard.json
+mods/data/miller/peter.lua
+mods/data/miller/script.lua
+mods/data/miller/steven.lua
+mods/songs/miller/Voices.ogg
+mods/songs/miller/voices.ogg
+mods/songs/miller/Inst.ogg
+mods/songs/miller/inst.ogg

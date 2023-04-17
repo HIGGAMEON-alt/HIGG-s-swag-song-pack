@@ -1,0 +1,20 @@
+mods/data/followed/events.json
+mods/data/followed/followed-hard.json
+mods/data/followed/mod.txt
+mods/data/followed/script.lua
+mods/Ourple Guy DX/stages/fred.json
+mods/Ourple Guy DX/stages/fred.lua
+mods/Ourple Guy DX/custom_events/Decrease Alpha.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Flash Camera.lua
+mods/Ourple Guy DX/custom_events/Alarm.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/sounds/glitching.ogg
+mods/Ourple Guy DX/sounds/crushed.ogg
+mods/Ourple Guy DX/fonts/
+mods/songs/followed/Voices.ogg
+mods/songs/followed/voices.ogg
+mods/songs/followed/Inst.ogg
+mods/songs/followed/inst.ogg

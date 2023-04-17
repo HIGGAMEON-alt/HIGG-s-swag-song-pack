@@ -1,0 +1,12 @@
+mods/data/go-fish/go-fish-hard.json
+mods/data/go-fish/mod.txt
+mods/Ourple Guy DX/stages/omc.json
+mods/Ourple Guy DX/stages/omc.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/fonts/
+mods/songs/go-fish/Voices.ogg
+mods/songs/go-fish/voices.ogg
+mods/songs/go-fish/Inst.ogg
+mods/songs/go-fish/inst.ogg

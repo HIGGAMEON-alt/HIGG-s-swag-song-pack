@@ -1,0 +1,36 @@
+mods/data/terminated/mod.txt
+mods/data/terminated/script.lua
+mods/data/terminated/terminated-hard.json
+mods/Ourple Guy DX/characters/bf_ourple.json
+mods/Ourple Guy DX/characters/henryt.json
+mods/Ourple Guy DX/characters/gf-speaker.json
+mods/Ourple Guy DX/stages/henry.json
+mods/Ourple Guy DX/stages/henry.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/henryt.png
+mods/Ourple Guy DX/images/characters/henryt.xml
+mods/Ourple Guy DX/images/characters/gf-speaker.png
+mods/Ourple Guy DX/images/characters/gf-speaker.xml
+mods/Ourple Guy DX/characters/henry-pixel.json
+mods/Ourple Guy DX/images/characters/henry-pixel.png
+mods/Ourple Guy DX/images/characters/henry-pixel.xml
+mods/Ourple Guy DX/characters/bf-ourple-pixel.json
+mods/Ourple Guy DX/images/characters/ourple-bf-pixel.png
+mods/Ourple Guy DX/images/characters/ourple-bf-pixel.xml
+mods/Ourple Guy DX/custom_events/Decrease Alpha.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Flash Camera.lua
+mods/Ourple Guy DX/custom_events/Add Alpha.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/characters/henry-tv.png
+mods/Ourple Guy DX/images/characters/henry-tv.xml
+mods/Ourple Guy DX/images/bg/henry_bg.png
+mods/Ourple Guy DX/images/scanline.png
+mods/Ourple Guy DX/fonts/
+mods/songs/terminated/Voices.ogg
+mods/songs/terminated/voices.ogg
+mods/songs/terminated/Inst.ogg
+mods/songs/terminated/inst.ogg

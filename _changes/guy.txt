@@ -1,0 +1,25 @@
+mods/data/guy/events.json
+mods/data/guy/guy-hard.json
+mods/data/guy/mod.txt
+mods/data/guy/script.lua
+mods/Ourple Guy DX/characters/bf_ourple.json
+mods/Ourple Guy DX/characters/guy.json
+mods/Ourple Guy DX/characters/gf-speaker.json
+mods/Ourple Guy DX/stages/guystage.json
+mods/Ourple Guy DX/stages/guystage.lua
+mods/Ourple Guy DX/images/characters/bf_ourple.png
+mods/Ourple Guy DX/images/characters/bf_ourple.xml
+mods/Ourple Guy DX/images/characters/ourple.png
+mods/Ourple Guy DX/images/characters/ourple.xml
+mods/Ourple Guy DX/images/characters/gf-speaker.png
+mods/Ourple Guy DX/images/characters/gf-speaker.xml
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/hammer.png
+mods/Ourple Guy DX/images/bg/bckrom.png
+mods/Ourple Guy DX/fonts/
+mods/songs/guy/Voices.ogg
+mods/songs/guy/voices.ogg
+mods/songs/guy/Inst.ogg
+mods/songs/guy/inst.ogg

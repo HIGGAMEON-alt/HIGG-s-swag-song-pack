@@ -1,0 +1,23 @@
+mods/data/performance/mod.txt
+mods/data/performance/performance-hard.json
+mods/Ourple Guy DX/characters/fredbear.json
+mods/Ourple Guy DX/characters/spring.json
+mods/Ourple Guy DX/stages/stage0.json
+mods/Ourple Guy DX/stages/stage0.lua
+mods/Ourple Guy DX/images/characters/fredbear.png
+mods/Ourple Guy DX/images/characters/fredbear.xml
+mods/Ourple Guy DX/images/characters/spring.png
+mods/Ourple Guy DX/images/characters/spring.xml
+mods/Ourple Guy DX/characters/disgust.json
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/bg/stage0/showtime.png
+mods/Ourple Guy DX/images/bg/stage0/child1.png
+mods/Ourple Guy DX/images/bg/stage0/child2.png
+mods/Ourple Guy DX/fonts/
+mods/songs/performance/Voices.ogg
+mods/songs/performance/voices.ogg
+mods/songs/performance/Inst.ogg
+mods/songs/performance/inst.ogg
