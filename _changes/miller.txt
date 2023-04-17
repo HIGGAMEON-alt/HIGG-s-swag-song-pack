@@ -1,7 +1,58 @@
 mods/data/miller/miller-hard.json
+mods/data/miller/mod.txt
 mods/data/miller/peter.lua
 mods/data/miller/script.lua
 mods/data/miller/steven.lua
+mods/Ourple Guy DX/characters/jack.json
+mods/Ourple Guy DX/characters/henry.json
+mods/Ourple Guy DX/characters/dave.json
+mods/Ourple Guy DX/stages/void.json
+mods/Ourple Guy DX/stages/void.lua
+mods/Ourple Guy DX/images/characters/jack.png
+mods/Ourple Guy DX/images/characters/jack.xml
+mods/Ourple Guy DX/images/characters/henry.png
+mods/Ourple Guy DX/images/characters/henry.xml
+mods/Ourple Guy DX/images/characters/dave.png
+mods/Ourple Guy DX/images/characters/dave.xml
+mods/Ourple Guy DX/characters/jack-solo.json
+mods/Ourple Guy DX/custom_notetypes/Spite Note.lua
+mods/Ourple Guy DX/custom_events/Object Play Animation.lua
+mods/Ourple Guy DX/custom_events/Alter Visibility.lua
+mods/Ourple Guy DX/custom_events/Decrease Alpha.lua
+mods/Ourple Guy DX/custom_events/Flash Camera.lua
+mods/Ourple Guy DX/custom_events/Lower Bars.lua
+mods/Ourple Guy DX/custom_events/Add Alpha.lua
+mods/Ourple Guy DX/scripts/camFix.lua
+mods/Ourple Guy DX/scripts/Debug Mode.lua
+mods/Ourple Guy DX/scripts/script.lua
+mods/Ourple Guy DX/images/characters/peterk.png
+mods/Ourple Guy DX/images/characters/peterk.xml
+mods/Ourple Guy DX/images/characters/dee_Assets.png
+mods/Ourple Guy DX/images/characters/dee_Assets.xml
+mods/Ourple Guy DX/images/characters/steven.png
+mods/Ourple Guy DX/images/characters/steven.xml
+mods/Ourple Guy DX/images/spite/hit.png
+mods/Ourple Guy DX/images/heal.png
+mods/Ourple Guy DX/images/flashbacks.png
+mods/Ourple Guy DX/images/millerint.png
+mods/Ourple Guy DX/images/flesh.png
+mods/Ourple Guy DX/images/bounces.png
+mods/Ourple Guy DX/images/bounces.xml
+mods/Ourple Guy DX/images/spite/spite1.png
+mods/Ourple Guy DX/images/spite/spite2.png
+mods/Ourple Guy DX/images/spite/spite3.png
+mods/Ourple Guy DX/images/spite/spite4.png
+mods/Ourple Guy DX/images/flashbacks.xml
+mods/Ourple Guy DX/images/millerint.xml
+mods/Ourple Guy DX/images/spite/hint.png
+mods/Ourple Guy DX/images/ty.png
+mods/Ourple Guy DX/images/usuck.png
+mods/Ourple Guy DX/images/heal.xml
+mods/Ourple Guy DX/images/spite/hit.xml
+mods/Ourple Guy DX/sounds/dmg-spite.ogg
+mods/Ourple Guy DX/images/spite/spitenote_Assets.png
+mods/Ourple Guy DX/images/spite/spitenote_Assets.xml
+mods/Ourple Guy DX/fonts/
 mods/songs/miller/Voices.ogg
 mods/songs/miller/voices.ogg
 mods/songs/miller/Inst.ogg
