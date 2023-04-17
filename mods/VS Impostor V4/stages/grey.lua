@@ -13,11 +13,35 @@ local followchars = true;
 local del = 0;
 local del2 = 0;
 function onCreate()
+makeLuaSprite('bg', 'stageassets/airship/graybg', 0, 0)
+addLuaSprite('bg')
 
+makeAnimatedLuaSprite('theground!!!', 'stageassets/airship/grayglowy', 1930, 400)
+addAnimationByPrefix('theground!!!', 'bop', 'jar??', 24, true)
+addLuaSprite('theground!!!')
+playAnim('theground!!!', 'bop', true)
+
+makeAnimatedLuaSprite('crowd', 'stageassets/airship/grayblack', 240, 350)
+addAnimationByPrefix('crowd', 'bop', 'whoisthismf', 24, false)
+
+makeLuaSprite('lightoverlay', 'stageassets/airship/grayfg', 0, 0)
+addLuaSprite('lightoverlay', true)
+
+makeLuaSprite('lightoverlayM', 'stageassets/airship/graymultiply', 0, 0)
+addLuaSprite('lightoverlayM', true)
+setBlendMode('lightoverlayM', 'MULTIPLY')
+
+makeLuaSprite('lightoverlayM2', 'stageassets/airship/grayoverlay', 0, 0)
+addLuaSprite('lightoverlayM2', true)
+setProperty('lightoverlayM2.alpha', 0.4)
+setBlendMode('lightoverlayM2', 'MULTIPLY')
 end
 
-
-
+function onBeatHit()
+if curBeat % 2 == 0 then
+playAnim('crowd', 'bop', false)
+end
+end
 
 function onUpdate()
 	if del > 0 then

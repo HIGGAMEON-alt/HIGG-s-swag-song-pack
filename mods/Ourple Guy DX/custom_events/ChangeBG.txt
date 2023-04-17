@@ -1,0 +1,6 @@
+Value 1 = The New BG
+Value 2 = Set the OldBGName + all properties
+
+Example:
+Value 1 : newStage
+Value 2 : OGStage, foreground, background, lights

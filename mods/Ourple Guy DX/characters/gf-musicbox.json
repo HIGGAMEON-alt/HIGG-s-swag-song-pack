@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "cheer",
+			"indices": [],
+			"name": "cheer"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "sad",
+			"indices": [],
+			"name": "sad"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 15,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "tits idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 15,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "tits idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf-musicbox",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

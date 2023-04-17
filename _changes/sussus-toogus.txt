@@ -2,12 +2,9 @@ mods/data/sussus-toogus/events.json
 mods/data/sussus-toogus/mod.txt
 mods/data/sussus-toogus/sussus-toogus-hard.json
 mods/VS Impostor V4/characters/bf.json
-mods/VS Impostor V4/characters/crewmate.json
 mods/VS Impostor V4/characters/gf.json
 mods/VS Impostor V4/stages/toogus.json
 mods/VS Impostor V4/stages/toogus.lua
-mods/VS Impostor V4/images/characters/crewmate.png
-mods/VS Impostor V4/images/characters/crewmate.xml
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
 mods/VS Impostor V4/custom_events/HUD Fade.lua

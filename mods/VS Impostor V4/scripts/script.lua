@@ -19,6 +19,9 @@ local SONG = nil
 local stageData = nil
 local secondopp = false
 local player = nil
+local songPlaceHolder
+local json
+local realCamZoomie
 
 function onCreate()
     realCamZoomie = true
@@ -57,9 +60,8 @@ function onCreate()
     secondopp = false
     else
         secondopp = true
-        --makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
+        makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
     end
-    makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
 end
 
 --[[

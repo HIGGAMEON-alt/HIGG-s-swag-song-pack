@@ -1,43 +1,17 @@
 mods/data/rivals-old/mod.txt
 mods/data/rivals-old/rivals-old-hard.json
-mods/VS Impostor V4/characters/bf-pixel.json
-mods/VS Impostor V4/characters/tomongus.json
-mods/VS Impostor V4/characters/gf-pixel.json
-mods/VS Impostor V4/stages/school.json
-mods/VS Impostor V4/stages/school.lua
-mods/VS Impostor V4/images/characters/bfPixel.png
-mods/VS Impostor V4/images/characters/bfPixel.xml
-mods/VS Impostor V4/images/characters/tomongus.png
-mods/VS Impostor V4/images/characters/tomongus.xml
-mods/VS Impostor V4/images/characters/gfPixel.png
-mods/VS Impostor V4/images/characters/gfPixel.xml
-mods/VS Impostor V4/scripts/JSONLIB.lua
-mods/VS Impostor V4/scripts/script.lua
-mods/VS Impostor V4/images/stageassets/weeb/stars.png
-mods/VS Impostor V4/images/stageassets/weeb/weebStreet.png
-mods/VS Impostor V4/images/NOTE_assets_pixelated.png
-mods/VS Impostor V4/images/NOTE_assets_pixelated.xml
-mods/VS Impostor V4/images/sick.png
-mods/VS Impostor V4/images/good.png
-mods/VS Impostor V4/images/bad.png
-mods/VS Impostor V4/images/shit.png
-mods/VS Impostor V4/images/noteSplashes.png
-mods/VS Impostor V4/images/noteSplashes.xml
-mods/VS Impostor V4/images/characters/bf_legs.png
-mods/VS Impostor V4/images/characters/bf_legs.xml
-mods/VS Impostor V4/images/characters/blacklegs.png
-mods/VS Impostor V4/images/characters/blacklegs.xml
-mods/VS Impostor V4/images/characters/Reginald_Assets.png
-mods/VS Impostor V4/images/characters/Reginald_Assets.xml
-mods/VS Impostor V4/images/characters/Ellie_Assets.png
-mods/VS Impostor V4/images/characters/Ellie_Assets.xml
-mods/VS Impostor V4/images/characters/madgus.png
-mods/VS Impostor V4/images/characters/madgus.xml
-mods/VS Impostor V4/images/characters/biddle.png
-mods/VS Impostor V4/images/characters/biddle.xml
-mods/VS Impostor V4/images/characters/blackdk.png
-mods/VS Impostor V4/images/characters/blackdk.xml
-mods/VS Impostor V4/characters/dad.json
-mods/VS Impostor V4/characters/black.json
-mods/VS Impostor V4/images/characters/black.png
-mods/VS Impostor V4/images/characters/black.xml
+mods/VS Impostor V4 pixel/characters/bf-pixel.json
+mods/VS Impostor V4 pixel/characters/tomongus.json
+mods/VS Impostor V4 pixel/stages/school.json
+mods/VS Impostor V4 pixel/stages/school.lua
+mods/VS Impostor V4 pixel/images/characters/bfPixel.png
+mods/VS Impostor V4 pixel/images/characters/bfPixel.xml
+mods/VS Impostor V4 pixel/images/characters/tomongus.png
+mods/VS Impostor V4 pixel/images/characters/tomongus.xml
+mods/VS Impostor V4 pixel/scripts/script.lua
+mods/VS Impostor V4 pixel/images/stageassets/weeb/stars.png
+mods/VS Impostor V4 pixel/images/stageassets/weeb/weebStreet.png
+mods/VS Impostor V4 pixel/images/noteSplashes.png
+mods/VS Impostor V4 pixel/images/noteSplashes.xml
+mods/VS Impostor V4 pixel/images/NOTE_assets.png
+mods/VS Impostor V4 pixel/images/NOTE_assets.xml

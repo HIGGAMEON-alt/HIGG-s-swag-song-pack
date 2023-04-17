@@ -1,19 +1,10 @@
 mods/data/idk/idk-hard.json
 mods/data/idk/mod.txt
-mods/VS Impostor V4/characters/idkbf.json
-mods/VS Impostor V4/characters/idk.json
 mods/VS Impostor V4/characters/gf.json
-mods/VS Impostor V4/stages/idk.json
-mods/VS Impostor V4/stages/idk.lua
-mods/VS Impostor V4/images/characters/idkbf.png
-mods/VS Impostor V4/images/characters/idkbf.xml
-mods/VS Impostor V4/images/characters/idk.png
-mods/VS Impostor V4/images/characters/idk.xml
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
-mods/VS Impostor V4/images/toby.png
 mods/VS Impostor V4/images/sick.png
 mods/VS Impostor V4/images/good.png
 mods/VS Impostor V4/images/bad.png

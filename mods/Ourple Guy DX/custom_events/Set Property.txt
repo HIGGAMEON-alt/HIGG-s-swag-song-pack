@@ -1,0 +1,5 @@
+Lets you set a property to a diffrent value.
+
+1 = Lua property
+
+2 = What to set it to

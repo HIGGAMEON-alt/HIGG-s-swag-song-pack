@@ -1,4 +1,9 @@
 --[[
+NOTE: This was originaly meant to mimid the old Kade input system
+but it got worse and turned into Modding + input so yeah...
+]]
+
+--[[
 FNFOnline shit is weird fr fr
 how to make it detect image to download
 
@@ -53,6 +58,7 @@ end
     end
     
     function kadeSwitch()
+    setProperty('camZooming', true)
     setProperty('ratingsData[0].image', 'sick')
     setProperty('ratingsData[1].image', 'good')
     setProperty('ratingsData[2].image', 'bad')

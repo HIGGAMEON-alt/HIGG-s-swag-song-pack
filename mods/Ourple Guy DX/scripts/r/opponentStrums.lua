@@ -1,0 +1,10 @@
+function onCreatePost()
+    setPropertyFromGroup('notes', 0, 'scale.x', 0)
+    setPropertyFromGroup('notes', 0, 'scale.y', 0)
+    setPropertyFromGroup('notes', 1, 'scale.x', 0)
+    setPropertyFromGroup('notes', 1, 'scale.y', 0)
+    setPropertyFromGroup('notes', 2, 'scale.x', 0)
+    setPropertyFromGroup('notes', 2, 'scale.y', 0)
+    setPropertyFromGroup('notes', 3, 'scale.x', 0)
+    setPropertyFromGroup('notes', 3, 'scale.y', 0)
+end

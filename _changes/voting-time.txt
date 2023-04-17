@@ -11,10 +11,7 @@ mods/VS Impostor V4/images/characters/warchief.png
 mods/VS Impostor V4/images/characters/warchief.xml
 mods/VS Impostor V4/images/characters/jelqer.png
 mods/VS Impostor V4/images/characters/jelqer.xml
-mods/VS Impostor V4/characters/crewmate.json
 mods/VS Impostor V4/characters/gf.json
-mods/VS Impostor V4/images/characters/crewmate.png
-mods/VS Impostor V4/images/characters/crewmate.xml
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
 mods/VS Impostor V4/scripts/JSONLIB.lua

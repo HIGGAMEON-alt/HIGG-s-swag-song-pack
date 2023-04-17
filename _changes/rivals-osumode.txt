@@ -1,10 +1,9 @@
 mods/data/rivals/events.json
 mods/data/rivals/mod.txt
 mods/data/rivals/rivals-hard.json
-mods/VS Impostor V4/stages/school.json
-mods/VS Impostor V4/stages/school.lua
-mods/VS Impostor V4/scripts/JSONLIB.lua
-mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4 pixel/stages/school.json
+mods/VS Impostor V4 pixel/stages/school.lua
+mods/VS Impostor V4 pixel/scripts/script.lua
 mods/songs/rivals/Voices.ogg
 mods/songs/rivals/voices.ogg
 mods/songs/rivals/Inst.ogg

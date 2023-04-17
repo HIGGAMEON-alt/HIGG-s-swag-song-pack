@@ -1,6 +1,5 @@
 mods/data/rivals-old/mod.txt
 mods/data/rivals-old/rivals-old-hard.json
-mods/VS Impostor V4/stages/school.json
-mods/VS Impostor V4/stages/school.lua
-mods/VS Impostor V4/scripts/JSONLIB.lua
-mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4 pixel/stages/school.json
+mods/VS Impostor V4 pixel/stages/school.lua
+mods/VS Impostor V4 pixel/scripts/script.lua

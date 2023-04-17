@@ -14,6 +14,14 @@ mods/VS Impostor V4/images/characters/gfdead.png
 mods/VS Impostor V4/images/characters/gfdead.xml
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/stageassets/airship/graybg.png
+mods/VS Impostor V4/images/stageassets/airship/grayglowy.png
+mods/VS Impostor V4/images/stageassets/airship/grayglowy.xml
+mods/VS Impostor V4/images/stageassets/airship/grayblack.png
+mods/VS Impostor V4/images/stageassets/airship/grayblack.xml
+mods/VS Impostor V4/images/stageassets/airship/grayfg.png
+mods/VS Impostor V4/images/stageassets/airship/graymultiply.png
+mods/VS Impostor V4/images/stageassets/airship/grayoverlay.png
 mods/VS Impostor V4/images/sick.png
 mods/VS Impostor V4/images/good.png
 mods/VS Impostor V4/images/bad.png
