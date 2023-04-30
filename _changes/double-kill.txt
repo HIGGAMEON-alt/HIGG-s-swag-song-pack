@@ -3,6 +3,7 @@ mods/data/double-kill/double-kill-hard.json
 mods/data/double-kill/mod.txt
 mods/VS Impostor V4/characters/bf.json
 mods/VS Impostor V4/characters/whitedk.json
+mods/VS Impostor V4/characters/blackdk.json
 mods/VS Impostor V4/characters/gf.json
 mods/VS Impostor V4/stages/cargo.json
 mods/VS Impostor V4/stages/cargo.lua
