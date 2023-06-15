@@ -1,0 +1,35 @@
+mods/data/satanic-funkin/mod.txt
+mods/data/satanic-funkin/satanic-funkin-hard.json
+mods/data/satanic-funkin/satanic-funkin-hell.json
+mods/data/satanic-funkin/satanic-funkin-no-mechanics.json
+mods/data/satanic-funkin/script.lua
+mods/Indie-cross/stages/devilHall.json
+mods/Indie-cross/stages/devilHall.lua
+mods/Indie-cross/custom_notetypes/Devil Note.lua
+mods/Indie-cross/custom_events/Devil Dodge.lua
+mods/Indie-cross/scripts/cameraMovement.lua
+mods/Indie-cross/scripts/cameraShake.lua
+mods/Indie-cross/scripts/changeCountDown.lua
+mods/Indie-cross/scripts/changeGameOver.lua
+mods/Indie-cross/scripts/changeHealthBar.lua
+mods/Indie-cross/scripts/changeNoteSplash.lua
+mods/Indie-cross/scripts/creditsBox.lua
+mods/Indie-cross/scripts/customHUD.lua
+mods/Indie-cross/scripts/customIcons.lua
+mods/Indie-cross/scripts/cutscenes.lua
+mods/Indie-cross/scripts/darkenEffect.lua
+mods/Indie-cross/scripts/frameAnimation.lua
+mods/Indie-cross/scripts/Hell-Difficuty-IC.lua
+mods/Indie-cross/scripts/PiperStrickerScript.lua
+mods/Indie-cross/scripts/screenBeat.lua
+mods/Indie-cross/scripts/shaders.lua
+mods/Indie-cross/sounds/cup/burnSound.ogg
+mods/Indie-cross/sounds/cup/CupHurt.ogg
+mods/Indie-cross/sounds/bendy/whoosh.ogg
+mods/Indie-cross/sounds/cup/CupDeath.ogg
+mods/Indie-cross/sounds/cup/select.ogg
+mods/Indie-cross/sounds/bendy/inked.ogg
+mods/songs/satanic-funkin/Voices.ogg
+mods/songs/satanic-funkin/voices.ogg
+mods/songs/satanic-funkin/Inst.ogg
+mods/songs/satanic-funkin/inst.ogg

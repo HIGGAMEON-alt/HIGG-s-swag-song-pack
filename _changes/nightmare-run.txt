@@ -1,0 +1,11 @@
+mods/data/nightmare-run/nightmare-run-hard.json
+mods/data/nightmare-run/nightmare-run-hell.json
+mods/data/nightmare-run/nightmare-run-no-mechanics.json
+mods/data/nightmare-run/script.lua
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/nightmare-run/Voices.ogg
+mods/songs/nightmare-run/voices.ogg
+mods/songs/nightmare-run/Inst.ogg
+mods/songs/nightmare-run/inst.ogg

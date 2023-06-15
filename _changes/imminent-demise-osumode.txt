@@ -1,0 +1,9 @@
+mods/data/imminent-demise/events.json
+mods/data/imminent-demise/imminent-demise-hard.json
+mods/data/imminent-demise/imminent-demise-hell.json
+mods/data/imminent-demise/imminent-demise-no-mechanics.json
+mods/data/imminent-demise/script.lua
+mods/songs/imminent-demise/Voices.ogg
+mods/songs/imminent-demise/voices.ogg
+mods/songs/imminent-demise/Inst.ogg
+mods/songs/imminent-demise/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/despair/changeNotes.lua
+mods/data/despair/despair-hard.json
+mods/data/despair/despair-hell.json
+mods/data/despair/despair-no-mechanics.json
+mods/data/despair/events.json
+mods/data/despair/intro.lua
+mods/data/despair/Jumpscare.lua
+mods/data/despair/script.lua
+mods/songs/despair/Voices.ogg
+mods/songs/despair/voices.ogg
+mods/songs/despair/Inst.ogg
+mods/songs/despair/inst.ogg
