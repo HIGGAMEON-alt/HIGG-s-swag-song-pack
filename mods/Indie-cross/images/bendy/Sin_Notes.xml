@@ -83,3 +83,4 @@
 	<SubTexture name="DUp alone0008" x="2180" y="2067" width="332" height="396" frameX="0" frameY="-6" frameWidth="332" frameHeight="402"/>
 	<SubTexture name="DUp alone0009" x="2522" y="2067" width="309" height="388" frameX="-7" frameY="0" frameWidth="332" frameHeight="402"/>
 </TextureAtlas>
+
