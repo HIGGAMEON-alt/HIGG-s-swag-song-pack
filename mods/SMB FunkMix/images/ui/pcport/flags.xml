@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flags.png">
+<SubTexture name="null0000" x="0" y="0" width="8" height="8"/>
+<SubTexture name="xbox0000" x="9" y="0" width="8" height="8"/>
+<SubTexture name="minus0000" x="18" y="0" width="8" height="8"/>
+<SubTexture name="plus0000" x="27" y="0" width="8" height="8"/>
+<SubTexture name="check0000" x="36" y="0" width="8" height="8"/>
+<SubTexture name="crown0000" x="45" y="0" width="8" height="8"/>
+</TextureAtlas>

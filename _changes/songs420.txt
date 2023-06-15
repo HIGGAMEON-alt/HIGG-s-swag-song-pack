@@ -1,3 +1,4 @@
 mods/weeks/Ourple Guy DX.json
+mods/weeks/SMB.  Funk Mix.json
 mods/weeks/Vs Impostor V5.json
 mods/weeks/VS Impostor.json

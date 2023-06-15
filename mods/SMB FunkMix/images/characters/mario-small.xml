@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario-small.png">
+<!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+<SubTexture name="idle0" x="0" y="0" width="30" height="27"/>
+<SubTexture name="idle1" x="30" y="0" width="30" height="27"/>
+<SubTexture name="idle2" x="60" y="0" width="30" height="27"/>
+<SubTexture name="idle3" x="60" y="0" width="30" height="27"/>
+<SubTexture name="idle4" x="60" y="0" width="30" height="27"/>
+<SubTexture name="idle5" x="60" y="0" width="30" height="27"/>
+<SubTexture name="left0" x="90" y="0" width="30" height="27"/>
+<SubTexture name="left1" x="120" y="0" width="30" height="27"/>
+<SubTexture name="down0" x="0" y="27" width="30" height="27"/>
+<SubTexture name="down1" x="30" y="27" width="30" height="27"/>
+<SubTexture name="up0" x="60" y="27" width="30" height="27"/>
+<SubTexture name="up1" x="90" y="27" width="30" height="27"/>
+<SubTexture name="right0" x="120" y="27" width="30" height="27"/>
+<SubTexture name="right1" x="0" y="54" width="30" height="27"/>
+<SubTexture name="missLeft0" x="30" y="54" width="30" height="27"/>
+<SubTexture name="missLeft1" x="60" y="54" width="30" height="27"/>
+<SubTexture name="missDown0" x="90" y="54" width="30" height="27"/>
+<SubTexture name="missDown1" x="120" y="54" width="30" height="27"/>
+<SubTexture name="missUp0" x="0" y="81" width="30" height="27"/>
+<SubTexture name="missUp1" x="30" y="81" width="30" height="27"/>
+<SubTexture name="missRight0" x="60" y="81" width="30" height="27"/>
+<SubTexture name="missRight1" x="90" y="81" width="30" height="27"/>
+<SubTexture name="hey0" x="120" y="81" width="30" height="27"/>
+<SubTexture name="hey1" x="0" y="108" width="30" height="27"/>
+<SubTexture name="hey2" x="30" y="108" width="30" height="27"/>
+<SubTexture name="hurt0" x="60" y="108" width="30" height="27"/>
+<SubTexture name="hurt1" x="90" y="108" width="30" height="27"/>
+<SubTexture name="hurt2" x="120" y="108" width="30" height="27"/>
+<SubTexture name="hurt3" x="90" y="108" width="30" height="27"/>
+<SubTexture name="hurt4" x="120" y="108" width="30" height="27"/>
+<SubTexture name="hurt5" x="90" y="108" width="30" height="27"/>
+<SubTexture name="hurt6" x="120" y="108" width="30" height="27"/>
+<SubTexture name="hurt7" x="90" y="108" width="30" height="27"/>
+<SubTexture name="hurt8" x="120" y="108" width="30" height="27"/>
+<SubTexture name="scared0" x="0" y="135" width="30" height="27"/>
+<SubTexture name="scared1" x="30" y="135" width="30" height="27"/>
+<SubTexture name="run0" x="60" y="135" width="30" height="27"/>
+<SubTexture name="run1" x="90" y="135" width="30" height="27"/>
+<SubTexture name="run2" x="120" y="135" width="30" height="27"/>
+<SubTexture name="skid0" x="0" y="162" width="30" height="27"/>
+<SubTexture name="jump0" x="30" y="162" width="30" height="27"/>
+<SubTexture name="crouch0" x="60" y="162" width="30" height="27"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+mods/data/lethal-lava-lair-b-side/lethal-lava-lair-b-side-classic.json
+mods/data/lethal-lava-lair-b-side/lethal-lava-lair-b-side-hard.json
+mods/data/lethal-lava-lair-b-side/lethal-lava-lair-b-side-script.lua
+mods/data/lethal-lava-lair-b-side/lethal-lava-lair-b-side-superstar.json
+mods/songs/lethal-lava-lair-b-side/Voices.ogg
+mods/songs/lethal-lava-lair-b-side/voices.ogg
+mods/songs/lethal-lava-lair-b-side/Inst.ogg
+mods/songs/lethal-lava-lair-b-side/inst.ogg

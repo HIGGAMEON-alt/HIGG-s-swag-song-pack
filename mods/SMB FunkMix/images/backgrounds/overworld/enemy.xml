@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="enemy.png">
+<SubTexture name="goomba0000" x="0" y="0" width="24" height="24" frameX="0" frameY="0" frameWidth="24" frameHeight="24" />
+<SubTexture name="goomba0001" x="24" y="0" width="24" height="24" frameX="0" frameY="0" frameWidth="24" frameHeight="24" />
+<SubTexture name="koopaGreen0000" x="48" y="0" width="24" height="24" frameX="0" frameY="0" frameWidth="24" frameHeight="24" />
+<SubTexture name="koopaGreen0001" x="72" y="0" width="24" height="24" frameX="0" frameY="0" frameWidth="24" frameHeight="24" />
+<SubTexture name="koopaRed0000" x="96" y="0" width="24" height="24" frameX="0" frameY="0" frameWidth="24" frameHeight="24" />
+<SubTexture name="koopaRed0001" x="120" y="0" width="24" height="24" frameX="0" frameY="0" frameWidth="24" frameHeight="24" />
+</TextureAtlas>

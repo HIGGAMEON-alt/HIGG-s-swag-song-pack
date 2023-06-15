@@ -1,0 +1,13 @@
+mods/data/tyrant-easy/Disclaimer.lua
+mods/data/tyrant-easy/SMB3 Hud.lua
+mods/data/tyrant-easy/tyrant-easy-classic.json
+mods/data/tyrant-easy/tyrant-easy-hard.json
+mods/data/tyrant-easy/tyrant-easy-script.lua
+mods/data/tyrant-easy/tyrant-easy-superstar.json
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/tyrant-easy/Voices.ogg
+mods/songs/tyrant-easy/voices.ogg
+mods/songs/tyrant-easy/Inst.ogg
+mods/songs/tyrant-easy/inst.ogg

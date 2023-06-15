@@ -1,0 +1,6 @@
+Like Change Character, but is used for the Power-Up
+System and only works with BF.
+
+Value 1: New BF prefix
+Value 2: Power-Up State
+(0 = Small, 1 = Normal, 2 = Fire)

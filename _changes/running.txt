@@ -1,0 +1,15 @@
+mods/data/running/BOTHSING.lua
+mods/data/running/Close Lyrics.lua
+mods/data/running/events.json
+mods/data/running/Flash Camera Black.lua
+mods/data/running/Lyrics.lua
+mods/data/running/Red Flash Camera.lua
+mods/data/running/running-classic.json
+mods/data/running/running-script.lua
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/running/Voices.ogg
+mods/songs/running/voices.ogg
+mods/songs/running/Inst.ogg
+mods/songs/running/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/funk-mix/funk-mix-classic.json
+mods/data/funk-mix/funk-mix-hard.json
+mods/data/funk-mix/funk-mix-superstar.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml

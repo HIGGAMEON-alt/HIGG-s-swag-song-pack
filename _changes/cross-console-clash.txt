@@ -1,0 +1,63 @@
+mods/data/cross-console-clash/boyfriend2.lua
+mods/data/cross-console-clash/cross-console-clash-classic.json
+mods/data/cross-console-clash/cross-console-clash-hard.json
+mods/data/cross-console-clash/cross-console-clash-script.lua
+mods/data/cross-console-clash/cross-console-clash-superstar.json
+mods/data/cross-console-clash/dad2.lua
+mods/data/cross-console-clash/Hidden Chart.lua
+mods/data/cross-console-clash/mod.txt
+mods/data/cross-console-clash/Sonic Note Hud.lua
+mods/SMB FunkMix/characters/mario-ccc.json
+mods/SMB FunkMix/characters/sonic.json
+mods/SMB FunkMix/stages/sonic.json
+mods/SMB FunkMix/stages/sonic.lua
+mods/SMB FunkMix/images/characters/mario-ccc.png
+mods/SMB FunkMix/images/characters/mario-ccc.xml
+mods/SMB FunkMix/images/characters/sonic.png
+mods/SMB FunkMix/images/characters/sonic.xml
+mods/SMB FunkMix/custom_notetypes/2 Player Note.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/characters/luigi-ccc.png
+mods/SMB FunkMix/images/characters/luigi-ccc.xml
+mods/SMB FunkMix/images/characters/tails.png
+mods/SMB FunkMix/images/characters/tails.xml
+mods/SMB FunkMix/images/ui/sonic/score.png
+mods/SMB FunkMix/images/ui/sonic/score.xml
+mods/SMB FunkMix/images/backgrounds/sonic/water.png
+mods/SMB FunkMix/images/backgrounds/sonic/water.xml
+mods/SMB FunkMix/images/backgrounds/sonic/bg.png
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/cross-console-clash/Voices.ogg
+mods/songs/cross-console-clash/voices.ogg
+mods/songs/cross-console-clash/Inst.ogg
+mods/songs/cross-console-clash/inst.ogg

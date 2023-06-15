@@ -1,0 +1,31 @@
+mods/data/game-over/events.json
+mods/data/game-over/game-over-hell.json
+mods/data/game-over/game-over-script.lua
+mods/data/game-over/game-over-superstar.json
+mods/data/game-over/game-over.json
+mods/data/game-over/mod.txt
+mods/data/game-over/Swap Note Strums.lua
+mods/SMB FunkMix/stages/pcport.json
+mods/SMB FunkMix/stages/pcport.lua
+mods/SMB FunkMix/custom_events/Pixel Cam Shake.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/break-pcport.ogg
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/songs/game-over/Voices.ogg
+mods/songs/game-over/voices.ogg
+mods/songs/game-over/Inst.ogg
+mods/songs/game-over/inst.ogg

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_bf_nes.png">
+<SubTexture name="M BF Idle0000" x="0" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0001" x="0" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0002" x="312" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0003" x="312" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0004" x="624" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0005" x="624" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0006" x="936" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0007" x="936" y="0" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0008" x="0" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0009" x="0" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0010" x="312" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0011" x="312" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0012" x="624" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Idle0013" x="624" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Hey00000" x="936" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Hey00001" x="936" y="312" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Hey00002" x="0" y="624" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Hey00003" x="0" y="624" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Hey00004" x="312" y="624" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+<SubTexture name="M BF Hey00005" x="312" y="624" width="312" height="312" frameX="0" frameY="0" frameWidth="312" frameHeight="312" />
+</TextureAtlas>

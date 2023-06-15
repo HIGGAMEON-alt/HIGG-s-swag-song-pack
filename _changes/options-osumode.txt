@@ -1,0 +1,5 @@
+mods/data/options/options-classic.json
+mods/data/options/options-hard.json
+mods/data/options/options-superstar.json
+mods/songs/options/Inst.ogg
+mods/songs/options/inst.ogg

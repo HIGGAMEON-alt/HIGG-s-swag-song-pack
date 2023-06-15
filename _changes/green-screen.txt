@@ -1,0 +1,51 @@
+mods/data/green-screen/green-screen-classic.json
+mods/data/green-screen/green-screen-hard.json
+mods/data/green-screen/green-screen-script.lua
+mods/data/green-screen/green-screen-superstar.json
+mods/data/green-screen/mod.txt
+mods/SMB FunkMix/characters/bf-camera.json
+mods/SMB FunkMix/characters/him.json
+mods/SMB FunkMix/stages/camera.json
+mods/SMB FunkMix/stages/camera.lua
+mods/SMB FunkMix/images/characters/camera/bf-camera.png
+mods/SMB FunkMix/images/characters/camera/bf-camera.xml
+mods/SMB FunkMix/images/characters/camera/him.png
+mods/SMB FunkMix/images/characters/camera/him.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/characters/camera/fade.png
+mods/SMB FunkMix/images/characters/camera/fade.xml
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/green-screen/Voices.ogg
+mods/songs/green-screen/voices.ogg
+mods/songs/green-screen/Inst.ogg
+mods/songs/green-screen/inst.ogg

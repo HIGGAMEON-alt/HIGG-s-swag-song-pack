@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-smb2.png">
+<SubTexture name="idle0000" x="0" y="0" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="idle0001" x="56" y="0" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="idle0002" x="112" y="0" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="idle0003" x="168" y="0" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="idle0004" x="0" y="56" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="idle0005" x="56" y="56" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="idle0006" x="112" y="56" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="left00000" x="168" y="56" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="left00001" x="0" y="112" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="left00002" x="56" y="112" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="up00000" x="112" y="112" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="up00001" x="168" y="112" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="up00002" x="0" y="168" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="down00000" x="56" y="168" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="down00001" x="112" y="168" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="down00002" x="168" y="168" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="right00000" x="0" y="224" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="right00001" x="56" y="224" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="right00002" x="112" y="224" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="hey0000" x="168" y="224" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="hey0001" x="0" y="280" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="hey0002" x="56" y="280" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="run0000" x="112" y="280" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="run0001" x="168" y="280" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="run0002" x="0" y="336" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="run0003" x="56" y="336" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+<SubTexture name="skid0000" x="112" y="336" width="56" height="56" frameX="3" frameY="30" frameWidth="26" frameHeight="26" />
+</TextureAtlas>
+
+
+
+

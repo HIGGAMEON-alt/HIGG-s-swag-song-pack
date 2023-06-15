@@ -1,0 +1,70 @@
+mods/data/hear-its-cry/hear-its-cry-classic.json
+mods/data/hear-its-cry/hear-its-cry-script.lua
+mods/data/hear-its-cry/mod.txt
+mods/data/hear-its-cry/SMB3 Hud.lua
+mods/SMB FunkMix/characters/bf-smb3-bw.json
+mods/SMB FunkMix/characters/mario.json
+mods/SMB FunkMix/stages/sky.json
+mods/SMB FunkMix/stages/sky.lua
+mods/SMB FunkMix/images/characters/marioMix/bf-bw.png
+mods/SMB FunkMix/images/characters/marioMix/bf-bw.xml
+mods/SMB FunkMix/images/characters/mario.png
+mods/SMB FunkMix/images/characters/mario.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/ui/smb3/overlay.png
+mods/SMB FunkMix/images/ui/smb3/overlay-flip.png
+mods/SMB FunkMix/images/ui/smb3/number.png
+mods/SMB FunkMix/images/ui/smb3/number.xml
+mods/SMB FunkMix/images/ui/smb3/hp.png
+mods/SMB FunkMix/images/backgrounds/sky/skyNight.png
+mods/SMB FunkMix/images/backgrounds/sky/stars.png
+mods/SMB FunkMix/images/backgrounds/sky/skyDay.png
+mods/SMB FunkMix/images/backgrounds/sky/bonus.png
+mods/SMB FunkMix/images/backgrounds/sky/bgClouds.png
+mods/SMB FunkMix/images/backgrounds/sky/coins1.png
+mods/SMB FunkMix/images/backgrounds/sky/coins1.xml
+mods/SMB FunkMix/images/backgrounds/sky/coins2.png
+mods/SMB FunkMix/images/backgrounds/sky/coins2.xml
+mods/SMB FunkMix/images/backgrounds/sky/cloudsCoOp.png
+mods/SMB FunkMix/images/backgrounds/sky/cloudsCoOpAnim.png
+mods/SMB FunkMix/images/backgrounds/sky/cloudsCoOpAnim.xml
+mods/SMB FunkMix/images/backgrounds/sky/clouds.png
+mods/SMB FunkMix/images/backgrounds/sky/cloudsAnim.png
+mods/SMB FunkMix/images/backgrounds/sky/cloudsAnim.xml
+mods/SMB FunkMix/images/backgrounds/sky/starsOld.png
+mods/SMB FunkMix/images/backgrounds/sky/bonus-bros.png
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/hear-its-cry/Voices.ogg
+mods/songs/hear-its-cry/voices.ogg
+mods/songs/hear-its-cry/Inst.ogg
+mods/songs/hear-its-cry/inst.ogg

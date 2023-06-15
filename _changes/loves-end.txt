@@ -1,0 +1,15 @@
+mods/data/loves-end/events.json
+mods/data/loves-end/loves-end-classic.json
+mods/data/loves-end/loves-end-hard.json
+mods/data/loves-end/loves-end-script.lua
+mods/data/loves-end/loves-end-superstar.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/loves-end/Voices.ogg
+mods/songs/loves-end/voices.ogg
+mods/songs/loves-end/Inst.ogg
+mods/songs/loves-end/inst.ogg

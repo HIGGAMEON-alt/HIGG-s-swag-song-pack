@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="note0idle0000" x="0" y="0" width="19" height="19"/>
+<SubTexture name="note1idle0000" x="19" y="0" width="19" height="19"/>
+<SubTexture name="note2idle0000" x="38" y="0" width="19" height="19"/>
+<SubTexture name="note3idle0000" x="57" y="0" width="19" height="19"/>
+
+<SubTexture name="note0press0000" x="0" y="19" width="19" height="19"/>
+<SubTexture name="note0press0001" x="0" y="38" width="19" height="19"/>
+<SubTexture name="note1press0000" x="19" y="19" width="19" height="19"/>
+<SubTexture name="note1press0001" x="19" y="38" width="19" height="19"/>
+<SubTexture name="note2press0000" x="38" y="19" width="19" height="19"/>
+<SubTexture name="note2press0001" x="38" y="38" width="19" height="19"/>
+<SubTexture name="note3press0000" x="57" y="19" width="19" height="19"/>
+<SubTexture name="note3press0001" x="57" y="38" width="19" height="19"/>
+
+<SubTexture name="note0hit0000" x="0" y="38" width="19" height="19"/>
+<SubTexture name="note0hit0001" x="0" y="57" width="19" height="19"/>
+<SubTexture name="note0hit0002" x="0" y="76" width="19" height="19"/>
+<SubTexture name="note0hit0003" x="0" y="95" width="19" height="19"/>
+<SubTexture name="note0hit0004" x="0" y="114" width="19" height="19"/>
+<SubTexture name="note0hit0005" x="0" y="0" width="19" height="19"/>
+
+<SubTexture name="note1hit0000" x="19" y="38" width="19" height="19"/>
+<SubTexture name="note1hit0001" x="19" y="57" width="19" height="19"/>
+<SubTexture name="note1hit0002" x="19" y="76" width="19" height="19"/>
+<SubTexture name="note1hit0003" x="19" y="95" width="19" height="19"/>
+<SubTexture name="note1hit0004" x="19" y="114" width="19" height="19"/>
+<SubTexture name="note1hit0005" x="19" y="0" width="19" height="19"/>
+
+<SubTexture name="note2hit0000" x="38" y="38" width="19" height="19"/>
+<SubTexture name="note2hit0001" x="38" y="57" width="19" height="19"/>
+<SubTexture name="note2hit0002" x="38" y="76" width="19" height="19"/>
+<SubTexture name="note2hit0003" x="38" y="95" width="19" height="19"/>
+<SubTexture name="note2hit0004" x="38" y="114" width="19" height="19"/>
+<SubTexture name="note2hit0005" x="38" y="0" width="19" height="19"/>
+
+<SubTexture name="note3hit0000" x="57" y="38" width="19" height="19"/>
+<SubTexture name="note3hit0001" x="57" y="57" width="19" height="19"/>
+<SubTexture name="note3hit0002" x="57" y="76" width="19" height="19"/>
+<SubTexture name="note3hit0003" x="57" y="95" width="19" height="19"/>
+<SubTexture name="note3hit0004" x="57" y="114" width="19" height="19"/>
+<SubTexture name="note3hit0005" x="57" y="0" width="19" height="19"/>
+</TextureAtlas>

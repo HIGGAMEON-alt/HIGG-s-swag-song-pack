@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Luigi Idle",
+	"image": "Menu_Luigi",
+	"position": [
+		22,
+		-44
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

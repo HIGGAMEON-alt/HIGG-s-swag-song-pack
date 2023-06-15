@@ -1,0 +1,6 @@
+mods/data/vague-memories/vague-memories-classic.json
+mods/data/vague-memories/vague-memories-hard.json
+mods/data/vague-memories/vague-memories-script.lua
+mods/data/vague-memories/vague-memories-superstar.json
+mods/songs/vague-memories/Inst.ogg
+mods/songs/vague-memories/inst.ogg

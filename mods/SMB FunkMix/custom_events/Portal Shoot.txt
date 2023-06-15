@@ -1,0 +1,11 @@
+Causes a portal to be shot directing
+a bridge away from or into view.
+
+Value 1: Shooter (BF or Dad)
+Dad creates portals to direct a bridge
+to block your view, while BF removes
+the bridge.
+
+Value 2: Direction (v and h)
+The value 'v' controls the vertical bridge
+while 'h' controls the horizontal bridge.

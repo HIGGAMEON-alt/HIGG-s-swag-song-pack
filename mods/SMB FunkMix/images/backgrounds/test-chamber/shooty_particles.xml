@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shooty_particles.png">
+<SubTexture name="shoot0000" x="0" y="0" width="288" height="36" frameX="0" frameY="0" frameWidth="288" frameHeight="36" />
+<SubTexture name="shoot0001" x="288" y="0" width="288" height="36" frameX="0" frameY="0" frameWidth="288" frameHeight="36" />
+<SubTexture name="shoot0002" x="576" y="0" width="288" height="36" frameX="0" frameY="0" frameWidth="288" frameHeight="36" />
+<SubTexture name="shoot0003" x="0" y="36" width="288" height="36" frameX="0" frameY="0" frameWidth="288" frameHeight="36" />
+<SubTexture name="shoot0004" x="288" y="36" width="288" height="36" frameX="0" frameY="0" frameWidth="288" frameHeight="36" />
+<SubTexture name="shoot0005" x="576" y="36" width="288" height="36" frameX="0" frameY="0" frameWidth="288" frameHeight="36" />
+</TextureAtlas>

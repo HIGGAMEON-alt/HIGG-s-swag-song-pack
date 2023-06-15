@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario-fake.png">
+<!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+<SubTexture name="idle0" x="0" y="0" width="48" height="48"/>
+<SubTexture name="idle1" x="48" y="0" width="48" height="48"/>
+<SubTexture name="idle2" x="96" y="0" width="48" height="48"/>
+<SubTexture name="idle3" x="144" y="0" width="48" height="48"/>
+<SubTexture name="left0" x="0" y="48" width="48" height="48"/>
+<SubTexture name="left1" x="48" y="48" width="48" height="48"/>
+<SubTexture name="down0" x="96" y="48" width="48" height="48"/>
+<SubTexture name="down1" x="144" y="48" width="48" height="48"/>
+<SubTexture name="up0" x="0" y="96" width="48" height="48"/>
+<SubTexture name="up1" x="48" y="96" width="48" height="48"/>
+<SubTexture name="right0" x="96" y="96" width="48" height="48"/>
+<SubTexture name="right1" x="144" y="96" width="48" height="48"/>
+<SubTexture name="transition0" x="96" y="0" width="48" height="48"/>
+<SubTexture name="transition1" x="0" y="144" width="48" height="48"/>
+<SubTexture name="transition2" x="48" y="144" width="48" height="48"/>
+<SubTexture name="transition3" x="96" y="144" width="48" height="48"/>
+</TextureAtlas>

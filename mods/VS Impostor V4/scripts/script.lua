@@ -20,14 +20,14 @@ local stageData = nil
 local secondopp = false
 local player = nil
 local songPlaceHolder
-local json
 local realCamZoomie
+local json
 
-function onCreate()
+function onCreatePost()
     realCamZoomie = true
     curZoom = getProperty('defaultCamZoom')
-    setPropertyFromClass('ClientPrefs', 'camZooms', false)
-    json = dofile('HIGG-alt%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
+    --setPropertyFromClass('ClientPrefs', 'camZooms', false)
+    json = dofile('HIGGAMEON-alt%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
     songPlaceHolder = json.parse(getTextFromFile('data/'..songName..'/'..songName..'-'..difficultyName..'.json'))
     SONG = songPlaceHolder.song
     SONGOTHERCHECK = runHaxeCode([=[
@@ -60,7 +60,7 @@ function onCreate()
     secondopp = false
     else
         secondopp = true
-        makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
+        makeChar('blackdk', 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
     end
 end
 

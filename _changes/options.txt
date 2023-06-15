@@ -1,0 +1,11 @@
+mods/data/options/options-classic.json
+mods/data/options/options-hard.json
+mods/data/options/options-superstar.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/options/Inst.ogg
+mods/songs/options/inst.ogg

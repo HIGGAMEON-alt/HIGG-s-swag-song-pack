@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 60,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "jump",
+			"fps": 30,
+			"name": "jump0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/advance/pcport/mx-angry",
+	"position": [
+		45.5,
+		16.5
+	],
+	"healthicon": "mx-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		9,
+		4
+	],
+	"camera_position": [
+		-320,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

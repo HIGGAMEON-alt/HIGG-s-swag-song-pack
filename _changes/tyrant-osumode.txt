@@ -1,0 +1,11 @@
+mods/data/tyrant/Disclaimer.lua
+mods/data/tyrant/modchart.lua
+mods/data/tyrant/SMB3 Hud.lua
+mods/data/tyrant/tyrant-classic.json
+mods/data/tyrant/tyrant-hard.json
+mods/data/tyrant/tyrant-script.lua
+mods/data/tyrant/tyrant-superstar.json
+mods/songs/tyrant/Voices.ogg
+mods/songs/tyrant/voices.ogg
+mods/songs/tyrant/Inst.ogg
+mods/songs/tyrant/inst.ogg

@@ -1,0 +1,49 @@
+mods/data/star-colors/mod.txt
+mods/data/star-colors/star-colors-classic.json
+mods/data/star-colors/star-colors-hard.json
+mods/data/star-colors/star-colors-script.lua
+mods/data/star-colors/star-colors-superstar.json
+mods/SMB FunkMix/characters/mario-star.json
+mods/SMB FunkMix/stages/star.json
+mods/SMB FunkMix/stages/star.lua
+mods/SMB FunkMix/images/characters/advance/mario-star.png
+mods/SMB FunkMix/images/characters/advance/mario-star.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/backgrounds/star/sky.png
+mods/SMB FunkMix/images/backgrounds/star/background.png
+mods/SMB FunkMix/images/backgrounds/star/ground.png
+mods/SMB FunkMix/images/backgrounds/star/blocks.png
+mods/SMB FunkMix/images/backgrounds/star/blocks.xml
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/star-colors/Inst.ogg
+mods/songs/star-colors/inst.ogg

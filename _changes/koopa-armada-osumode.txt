@@ -1,0 +1,32 @@
+mods/data/koopa-armada/events.json
+mods/data/koopa-armada/GF2.lua
+mods/data/koopa-armada/koopa-armada-classic.json
+mods/data/koopa-armada/koopa-armada-hard.json
+mods/data/koopa-armada/koopa-armada-script.lua
+mods/data/koopa-armada/koopa-armada-superstar.json
+mods/data/koopa-armada/mod.txt
+mods/data/koopa-armada/Showtime.lua
+mods/SMB FunkMix/stages/airship.json
+mods/SMB FunkMix/stages/airship.lua
+mods/SMB FunkMix/custom_events/Screen Rumble.lua
+mods/SMB FunkMix/custom_events/Blaster Bro Shoot.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/songs/koopa-armada/Voices.ogg
+mods/songs/koopa-armada/voices.ogg
+mods/songs/koopa-armada/Inst.ogg
+mods/songs/koopa-armada/inst.ogg

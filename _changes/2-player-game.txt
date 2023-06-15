@@ -1,0 +1,11 @@
+mods/data/2-player-game/2-player-game-classic.json
+mods/data/2-player-game/2-player-game-hard.json
+mods/data/2-player-game/2-player-game-script.lua
+mods/data/2-player-game/2-player-game-superstar.json
+mods/characters/bf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/songs/2-player-game/Voices.ogg
+mods/songs/2-player-game/voices.ogg
+mods/songs/2-player-game/Inst.ogg
+mods/songs/2-player-game/inst.ogg

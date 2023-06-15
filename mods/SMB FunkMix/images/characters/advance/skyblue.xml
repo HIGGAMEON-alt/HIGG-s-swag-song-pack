@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skyblue.png">
+	<SubTexture name="idle0000" x="0" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="idle0001" x="28" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="idle0002" x="58" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="idle0003" x="86" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="up0000" x="116" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="up0001" x="146" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="up0002" x="175" y="0" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="left0000" x="0" y="35" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="left0001" x="30" y="35" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="left0002" x="59" y="35" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="down0000" x="89" y="35" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="down0001" x="118" y="35" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="down0002" x="147" y="35" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+	<SubTexture name="right0001" x="1" y="69" width="28" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="37"/>
+</TextureAtlas>

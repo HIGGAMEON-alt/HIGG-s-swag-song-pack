@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="health.png">
+<SubTexture name="full0000" x="0" y="0" width="6" height="8"/>
+<SubTexture name="full0001" x="7" y="0" width="6" height="8"/>
+<SubTexture name="empty0000" x="14" y="0" width="6" height="8"/>
+</TextureAtlas>

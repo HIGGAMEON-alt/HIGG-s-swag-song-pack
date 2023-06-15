@@ -1,0 +1,72 @@
+mods/data/hammered/events.json
+mods/data/hammered/hammered-classic.json
+mods/data/hammered/hammered-hard.json
+mods/data/hammered/hammered-script.lua
+mods/data/hammered/hammered-superstar.json
+mods/data/hammered/mod.txt
+mods/data/hammered/SMB3 Hud.lua
+mods/SMB FunkMix/characters/bf-smb3.json
+mods/SMB FunkMix/characters/mario-transformer.json
+mods/SMB FunkMix/stages/blocks.json
+mods/SMB FunkMix/stages/blocks.lua
+mods/SMB FunkMix/images/characters/advance/smb3/bf.png
+mods/SMB FunkMix/images/characters/advance/smb3/bf.xml
+mods/SMB FunkMix/images/characters/advance/smb3/mario-transformer.png
+mods/SMB FunkMix/images/characters/advance/smb3/mario-transformer.xml
+mods/SMB FunkMix/custom_events/Set Cam Zoom.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/characters/advance/smb3/mario-hammer.png
+mods/SMB FunkMix/images/characters/advance/smb3/mario-hammer.xml
+mods/SMB FunkMix/characters/mario-hammer.json
+mods/SMB FunkMix/images/ui/smb3/overlay.png
+mods/SMB FunkMix/images/ui/smb3/overlay-flip.png
+mods/SMB FunkMix/images/ui/smb3/number.png
+mods/SMB FunkMix/images/ui/smb3/number.xml
+mods/SMB FunkMix/images/ui/smb3/hp.png
+mods/SMB FunkMix/images/backgrounds/blocks/sky.png
+mods/SMB FunkMix/images/backgrounds/blocks/skyH.png
+mods/SMB FunkMix/images/backgrounds/blocks/skyHalt.png
+mods/SMB FunkMix/images/backgrounds/blocks/clouds.png
+mods/SMB FunkMix/images/backgrounds/blocks/cloudsH.png
+mods/SMB FunkMix/images/backgrounds/blocks/title3.png
+mods/SMB FunkMix/images/backgrounds/blocks/title3.xml
+mods/SMB FunkMix/images/backgrounds/blocks/clouds2.png
+mods/SMB FunkMix/images/backgrounds/blocks/background.png
+mods/SMB FunkMix/images/backgrounds/blocks/ground.png
+mods/SMB FunkMix/images/backgrounds/blocks/players.png
+mods/SMB FunkMix/images/backgrounds/blocks/curtains.png
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/hammered/Voices.ogg
+mods/songs/hammered/voices.ogg
+mods/songs/hammered/Inst.ogg
+mods/songs/hammered/inst.ogg

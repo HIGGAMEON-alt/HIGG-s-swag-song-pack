@@ -1,0 +1,289 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "overworld",
+		"player1": "bf",
+		"player2": "sonic",
+		"player3": null,
+		"events": [
+			[
+				10465.1162790698,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				14651.1627906977,
+				[
+					[
+						"Camera Set Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				16744.1860465116,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18837.2093023256,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				19534.8837209302,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23023.2558139535,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				23720.9302325581,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25116.2790697674,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27209.3023255814,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				27906.976744186,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31395.3488372093,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				32093.0232558139,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45348.8372093023,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				46046.511627907,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49534.8837209302,
+				[
+					[
+						"Camera Set Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				50232.5581395349,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52325.5813953489,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				56511.6279069768,
+				[
+					[
+						"Camera Set Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				57209.3023255814,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60697.6744186047,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				61395.3488372093,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63052.3255813954,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				63313.9534883721,
+				[
+					[
+						"Camera Set Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				63837.2093023256,
+				[
+					[
+						"Camera Set Target",
+						"boyfriend",
+						""
+					]
+				]
+			],
+			[
+				64883.7209302326,
+				[
+					[
+						"Camera Set Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				65581.3953488373,
+				[
+					[
+						"Camera Set Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65930.2325581396,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 172,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Vine Depths Zone"
+	}
+}

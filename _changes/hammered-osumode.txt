@@ -1,0 +1,30 @@
+mods/data/hammered/events.json
+mods/data/hammered/hammered-classic.json
+mods/data/hammered/hammered-hard.json
+mods/data/hammered/hammered-script.lua
+mods/data/hammered/hammered-superstar.json
+mods/data/hammered/mod.txt
+mods/data/hammered/SMB3 Hud.lua
+mods/SMB FunkMix/stages/blocks.json
+mods/SMB FunkMix/stages/blocks.lua
+mods/SMB FunkMix/custom_events/Set Cam Zoom.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/songs/hammered/Voices.ogg
+mods/songs/hammered/voices.ogg
+mods/songs/hammered/Inst.ogg
+mods/songs/hammered/inst.ogg

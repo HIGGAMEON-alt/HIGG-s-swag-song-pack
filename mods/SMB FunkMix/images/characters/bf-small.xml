@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-small.png">
+<!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+<SubTexture name="idle0" x="0" y="0" width="28" height="26"/>
+<SubTexture name="idle1" x="28" y="0" width="28" height="26"/>
+<SubTexture name="idle2" x="56" y="0" width="28" height="26"/>
+<SubTexture name="idle3" x="84" y="0" width="28" height="26"/>
+<SubTexture name="idle4" x="112" y="0" width="28" height="26"/>
+<SubTexture name="left0" x="140" y="0" width="28" height="26"/>
+<SubTexture name="left1" x="168" y="0" width="28" height="26"/>
+<SubTexture name="left2" x="0" y="26" width="28" height="26"/>
+<SubTexture name="down0" x="28" y="26" width="28" height="26"/>
+<SubTexture name="down1" x="56" y="26" width="28" height="26"/>
+<SubTexture name="down2" x="84" y="26" width="28" height="26"/>
+<SubTexture name="up0" x="112" y="26" width="28" height="26"/>
+<SubTexture name="up1" x="140" y="26" width="28" height="26"/>
+<SubTexture name="up2" x="168" y="26" width="28" height="26"/>
+<SubTexture name="right0" x="0" y="52" width="28" height="26"/>
+<SubTexture name="right1" x="28" y="52" width="28" height="26"/>
+<SubTexture name="right2" x="28" y="52" width="28" height="26"/>
+<SubTexture name="hey0" x="56" y="52" width="28" height="26"/>
+<SubTexture name="hey1" x="84" y="52" width="28" height="26"/>
+<SubTexture name="hey2" x="112" y="52" width="28" height="26"/>
+<SubTexture name="scared0" x="140" y="52" width="28" height="26"/>
+<SubTexture name="scared1" x="168" y="52" width="28" height="26"/>
+<SubTexture name="dodge0" x="0" y="78" width="28" height="26"/>
+<SubTexture name="dodge1" x="28" y="78" width="28" height="26"/>
+<SubTexture name="run0" x="56" y="78" width="28" height="26"/>
+<SubTexture name="run1" x="84" y="78" width="28" height="26"/>
+<SubTexture name="run2" x="112" y="78" width="28" height="26"/>
+<SubTexture name="run3" x="84" y="78" width="28" height="26"/>
+<SubTexture name="skid0" x="140" y="78" width="28" height="26"/>
+<SubTexture name="jump0" x="168" y="78" width="28" height="26"/>
+</TextureAtlas>

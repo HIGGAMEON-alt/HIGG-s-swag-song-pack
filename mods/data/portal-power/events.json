@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "test-chamber",
+		"player1": "bf-portal",
+		"player2": "mario-portal",
+		"player3": null,
+		"events": [
+			[
+				14538.4615384615,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"v"
+					]
+				]
+			],
+			[
+				21923.0769230769,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"v"
+					]
+				]
+			],
+			[
+				29307.6923076923,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"h"
+					]
+				]
+			],
+			[
+				36692.3076923077,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"h"
+					]
+				]
+			],
+			[
+				38538.4615384615,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"v"
+					]
+				]
+			],
+			[
+				40384.6153846154,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"h"
+					]
+				]
+			],
+			[
+				42230.7692307692,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"v"
+					]
+				]
+			],
+			[
+				44076.9230769231,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"h"
+					]
+				]
+			],
+			[
+				45923.0769230769,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"v"
+					]
+				]
+			],
+			[
+				47769.2307692308,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"h"
+					]
+				]
+			],
+			[
+				49615.3846153846,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"v"
+					]
+				]
+			],
+			[
+				51461.5384615385,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"h"
+					]
+				]
+			],
+			[
+				53076.9230769231,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"v"
+					]
+				]
+			],
+			[
+				56769.2307692308,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"h"
+					]
+				]
+			],
+			[
+				60461.5384615384,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"v"
+					]
+				]
+			],
+			[
+				64153.8461538461,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"h"
+					]
+				]
+			],
+			[
+				73615.3846153846,
+				[
+					[
+						"Portal Shoot",
+						"dad",
+						"v"
+					]
+				]
+			],
+			[
+				88384.6153846153,
+				[
+					[
+						"Portal Shoot",
+						"bf",
+						"v"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes/mari0",
+		"validScore": false,
+		"gfVersion": "gf-portal",
+		"bpm": 130,
+		"arrowSkin": "mari0/NOTE_assets",
+		"needsVoices": true,
+		"song": "Portal Power"
+	}
+}

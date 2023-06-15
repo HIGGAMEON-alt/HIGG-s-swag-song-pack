@@ -1,0 +1,8 @@
+mods/data/bullet-time/bullet-time-classic.json
+mods/data/bullet-time/bullet-time-hard.json
+mods/data/bullet-time/bullet-time-script.lua
+mods/data/bullet-time/bullet-time-superstar.json
+mods/songs/bullet-time/Voices.ogg
+mods/songs/bullet-time/voices.ogg
+mods/songs/bullet-time/Inst.ogg
+mods/songs/bullet-time/inst.ogg

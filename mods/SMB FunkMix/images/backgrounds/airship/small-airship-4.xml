@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="small-airship-4.png">
+<SubTexture name="idle0000" x="0" y="0" width="176" height="80"/>
+<SubTexture name="idle0001" x="0" y="80" width="176" height="80"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sky",
+		"player1": "bf",
+		"player2": "mario",
+		"player3": null,
+		"events": [
+			[
+				12400,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes/pixel",
+		"validScore": false,
+		"gfVersion": "luigi",
+		"bpm": 150,
+		"arrowSkin": "pixel/NOTE_assets",
+		"needsVoices": true,
+		"song": "Co-op"
+	}
+}

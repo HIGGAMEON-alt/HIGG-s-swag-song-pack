@@ -1,0 +1,27 @@
+mods/data/bricks-and-lifts-b-side/bricks-and-lifts-b-side-classic.json
+mods/data/bricks-and-lifts-b-side/bricks-and-lifts-b-side-hard.json
+mods/data/bricks-and-lifts-b-side/bricks-and-lifts-b-side-script.lua
+mods/data/bricks-and-lifts-b-side/bricks-and-lifts-b-side-superstar.json
+mods/data/bricks-and-lifts-b-side/mod.txt
+mods/SMB FunkMix/stages/underground.json
+mods/SMB FunkMix/stages/underground.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/songs/bricks-and-lifts-b-side/Voices.ogg
+mods/songs/bricks-and-lifts-b-side/voices.ogg
+mods/songs/bricks-and-lifts-b-side/Inst.ogg
+mods/songs/bricks-and-lifts-b-side/inst.ogg

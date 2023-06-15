@@ -1,0 +1,66 @@
+mods/data/destruction-dance/destruction-dance-classic.json
+mods/data/destruction-dance/destruction-dance-hard.json
+mods/data/destruction-dance/destruction-dance-script.lua
+mods/data/destruction-dance/destruction-dance-superstar.json
+mods/data/destruction-dance/mod.txt
+mods/data/destruction-dance/Waluigi Time.lua
+mods/SMB FunkMix/characters/spike.json
+mods/SMB FunkMix/stages/wrecking-crew.json
+mods/SMB FunkMix/stages/wrecking-crew.lua
+mods/SMB FunkMix/images/characters/spike.png
+mods/SMB FunkMix/images/characters/spike.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/characters/waluigi.png
+mods/SMB FunkMix/images/characters/waluigi.xml
+mods/SMB FunkMix/characters/waluigi.json
+mods/SMB FunkMix/images/characters/bf-dead.png
+mods/SMB FunkMix/images/gradient.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/bomb-wah.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/wrecking-crew.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/sky.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/level.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/background.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/ground.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/wrecking-crew-wah.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/sky-wah.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/level-wah.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/background-wah.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/ground-wah.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/bg.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/bomb.png
+mods/SMB FunkMix/images/backgrounds/wrecking-crew/bomb.xml
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/destruction-dance/Voices.ogg
+mods/songs/destruction-dance/voices.ogg
+mods/songs/destruction-dance/Inst.ogg
+mods/songs/destruction-dance/inst.ogg

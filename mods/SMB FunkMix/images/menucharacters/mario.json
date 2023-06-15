@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "M Mario Idle",
+	"position": [
+		30,
+		40
+	],
+	"scale": 1,
+	"image": "Menu_Mario",
+	"flipX": true
+}

@@ -1,0 +1,17 @@
+mods/data/cutscene/cutscene-0.json
+mods/data/cutscene/cutscene-1.json
+mods/data/cutscene/cutscene-2.json
+mods/data/cutscene/cutscene-3.json
+mods/data/cutscene/cutscene-4.json
+mods/data/cutscene/cutscene-5.json
+mods/data/cutscene/cutscene-6.json
+mods/data/cutscene/cutscene-7.json
+mods/data/cutscene/cutscene-classic.json
+mods/data/cutscene/cutscene-hard.json
+mods/data/cutscene/cutscene-superstar.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml

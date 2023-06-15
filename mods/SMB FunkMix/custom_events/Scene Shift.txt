@@ -1,0 +1,5 @@
+Shifts the scene based on
+animations in object.
+
+-- Currently only used in
+Hyperactive Starblaze. --

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rankings.png">
+<SubTexture name="suck0000" x="0" y="0" width="8" height="8"/>
+<SubTexture name="shit0000" x="9" y="0" width="8" height="8"/>
+<SubTexture name="bad0000" x="18" y="0" width="8" height="8"/>
+<SubTexture name="bruh0000" x="27" y="0" width="8" height="8"/>
+<SubTexture name="meh0000" x="36" y="0" width="8" height="8"/>
+<SubTexture name="nice0000" x="45" y="0" width="8" height="8"/>
+<SubTexture name="good0000" x="54" y="0" width="8" height="8"/>
+<SubTexture name="great0000" x="63" y="0" width="8" height="8"/>
+<SubTexture name="sick0000" x="72" y="0" width="8" height="8"/>
+<SubTexture name="perfect0000" x="81" y="0" width="8" height="8"/>
+</TextureAtlas>

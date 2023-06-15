@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "snow",
+		"player1": "bf",
+		"player2": "bros-mario",
+		"player3": null,
+		"events": [
+			[
+				134857.142857143,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes/pixel",
+		"validScore": false,
+		"gfVersion": "luigi",
+		"bpm": 105,
+		"arrowSkin": "pixel/NOTE_assets",
+		"needsVoices": false,
+		"song": "Snowy Plains"
+	}
+}

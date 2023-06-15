@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fade.png">
+<SubTexture name="in0000" x="0" y="0" width="124" height="76"/>
+<SubTexture name="in0001" x="124" y="0" width="124" height="76"/>
+<SubTexture name="in0002" x="0" y="76" width="124" height="76"/>
+<SubTexture name="in0003" x="124" y="76" width="124" height="76"/>
+<SubTexture name="in0004" x="0" y="152" width="124" height="76"/>
+
+<SubTexture name="out0000" x="0" y="152" width="124" height="76"/>
+<SubTexture name="out0001" x="124" y="76" width="124" height="76"/>
+<SubTexture name="out0002" x="0" y="76" width="124" height="76"/>
+<SubTexture name="out0003" x="124" y="0" width="124" height="76"/>
+<SubTexture name="out0004" x="0" y="0" width="124" height="76"/>
+</TextureAtlas>

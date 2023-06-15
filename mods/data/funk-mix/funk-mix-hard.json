@@ -1,0 +1,27 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "mario",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			}
+		],
+		"gfVersion": "gf",
+		"events": [],
+		"player3": null,
+		"song": "Funk Mix",
+		"stage": "funk-mix-menu",
+		"validScore": false,
+		"needsVoices": false,
+		"speed": 1.6,
+		"bpm": 150
+	}
+}

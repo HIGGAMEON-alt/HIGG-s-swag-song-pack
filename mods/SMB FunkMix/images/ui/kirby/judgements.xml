@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="judgements.png">
+<SubTexture name="3up0000" x="0" y="0" width="24" height="7" frameHeight="8"/>
+<SubTexture name="1up0000" x="0" y="8" width="24" height="7" frameHeight="8"/>
+<SubTexture name="sick0000" x="0" y="16" width="24" height="8"/>
+<SubTexture name="good0000" x="0" y="24" width="24" height="8"/>
+<SubTexture name="bad0000" x="0" y="32" width="24" height="8"/>
+<SubTexture name="shit0000" x="0" y="40" width="24" height="8"/>
+<SubTexture name="miss0000" x="0" y="48" width="24" height="8"/>
+</TextureAtlas>

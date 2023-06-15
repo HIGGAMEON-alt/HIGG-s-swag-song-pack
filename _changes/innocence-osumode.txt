@@ -1,0 +1,4 @@
+mods/data/innocence/innocence-classic.json
+mods/data/innocence/innocence-script.lua
+mods/songs/innocence/Inst.ogg
+mods/songs/innocence/inst.ogg

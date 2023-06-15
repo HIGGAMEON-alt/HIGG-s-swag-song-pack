@@ -1,0 +1,3 @@
+mods/data/funk-mix/funk-mix-classic.json
+mods/data/funk-mix/funk-mix-hard.json
+mods/data/funk-mix/funk-mix-superstar.json

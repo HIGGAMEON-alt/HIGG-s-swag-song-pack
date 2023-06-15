@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="door.png">
+<SubTexture name="closed0000" x="0" y="0" width="16" height="32"/>
+<SubTexture name="open0000" x="16" y="0" width="16" height="32"/>
+<SubTexture name="open0001" x="32" y="0" width="16" height="32"/>
+</TextureAtlas>

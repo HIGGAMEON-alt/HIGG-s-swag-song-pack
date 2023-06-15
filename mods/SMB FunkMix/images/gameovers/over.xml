@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="over.png">
+<SubTexture name="none0" x="0" y="0" width="432" height="48"/>
+<SubTexture name="none1" x="0" y="0" width="432" height="48"/>
+<SubTexture name="none2" x="0" y="0" width="432" height="48"/>
+<SubTexture name="none3" x="0" y="0" width="432" height="48"/>
+<SubTexture name="none4" x="0" y="0" width="432" height="48"/>
+<SubTexture name="none5" x="0" y="0" width="432" height="48"/>
+<SubTexture name="text0" x="0" y="48" width="432" height="48"/>
+<SubTexture name="select0" x="0" y="0" width="432" height="48"/>
+<SubTexture name="select1" x="0" y="48" width="432" height="48"/>
+</TextureAtlas>

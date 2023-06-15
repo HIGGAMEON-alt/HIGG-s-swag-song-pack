@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="thumbnails.png">
+	<SubTexture name="idle0000" x="0" y="0" width="46" height="46"/>
+	<SubTexture name="idle0001" x="46" y="0" width="46" height="46"/>
+	<SubTexture name="idle0002" x="0" y="46" width="46" height="46"/>
+	<SubTexture name="idle0003" x="46" y="46" width="46" height="46"/>
+	<SubTexture name="idle0004" x="0" y="92" width="46" height="46"/>
+	<SubTexture name="idle0005" x="46" y="92" width="46" height="46"/>
+	<SubTexture name="idle0006" x="0" y="138" width="46" height="46"/>
+	<SubTexture name="idle0007" x="46" y="138" width="46" height="46"/>
+	<SubTexture name="idle0008" x="0" y="184" width="46" height="46"/>
+	<SubTexture name="idle0009" x="46" y="184" width="46" height="46"/>
+	<SubTexture name="idle0010" x="0" y="230" width="46" height="46"/>
+</TextureAtlas>

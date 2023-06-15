@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deluxe.png">
+	<SubTexture name="write0000" x="0" y="0" width="80" height="28"/>
+	<SubTexture name="write0001" x="0" y="28" width="80" height="28"/>
+	<SubTexture name="write0002" x="0" y="56" width="80" height="28"/>
+	<SubTexture name="write0003" x="0" y="84" width="80" height="28"/>
+	<SubTexture name="write0004" x="0" y="112" width="80" height="28"/>
+	<SubTexture name="write0005" x="0" y="140" width="80" height="28"/>
+	<SubTexture name="write0006" x="0" y="168" width="80" height="28"/>
+	<SubTexture name="write0007" x="0" y="196" width="80" height="28"/>
+	<SubTexture name="write0008" x="0" y="224" width="80" height="28"/>
+	<SubTexture name="write0009" x="0" y="252" width="80" height="28"/>
+	<SubTexture name="write0010" x="0" y="280" width="80" height="28"/>
+	<SubTexture name="write0011" x="0" y="308" width="80" height="28"/>
+	<SubTexture name="write0012" x="0" y="336" width="80" height="28"/>
+	<SubTexture name="write0013" x="0" y="364" width="80" height="28"/>
+	<SubTexture name="write0014" x="0" y="392" width="80" height="28"/>
+	<SubTexture name="write0015" x="0" y="420" width="80" height="28"/>
+	<SubTexture name="write0016" x="0" y="448" width="80" height="28"/>
+	<SubTexture name="write0017" x="0" y="476" width="80" height="28"/>
+	<SubTexture name="write0018" x="0" y="504" width="80" height="28"/>
+</TextureAtlas>

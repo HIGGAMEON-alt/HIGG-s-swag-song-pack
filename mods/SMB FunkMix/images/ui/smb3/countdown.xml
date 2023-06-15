@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="countdown.png">
+<SubTexture name="three0000" x="0" y="0" width="33" height="17"/>
+<SubTexture name="three0001" x="0" y="17" width="33" height="17"/>
+<SubTexture name="three0002" x="0" y="34" width="33" height="17"/>
+<SubTexture name="three0003" x="0" y="51" width="33" height="17"/>
+<SubTexture name="two0000" x="33" y="0" width="33" height="17"/>
+<SubTexture name="two0001" x="33" y="17" width="33" height="17"/>
+<SubTexture name="two0002" x="33" y="34" width="33" height="17"/>
+<SubTexture name="two0003" x="33" y="51" width="33" height="17"/>
+<SubTexture name="one0000" x="66" y="0" width="33" height="17"/>
+<SubTexture name="one0001" x="66" y="17" width="33" height="17"/>
+<SubTexture name="one0002" x="66" y="34" width="33" height="17"/>
+<SubTexture name="one0003" x="66" y="51" width="33" height="17"/>
+<SubTexture name="go0000" x="99" y="0" width="33" height="17"/>
+<SubTexture name="go0001" x="99" y="17" width="33" height="17"/>
+<SubTexture name="go0002" x="99" y="34" width="33" height="17"/>
+<SubTexture name="go0003" x="99" y="51" width="33" height="17"/>
+</TextureAtlas>

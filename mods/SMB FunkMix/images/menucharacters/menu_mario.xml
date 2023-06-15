@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_mario.png">
+<SubTexture name="M Mario Idle0000" x="0" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0001" x="0" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0002" x="256" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0003" x="256" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0004" x="512" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0005" x="512" y="0" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0006" x="0" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0007" x="0" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0008" x="256" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0009" x="256" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0010" x="256" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0011" x="256" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0012" x="256" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+<SubTexture name="M Mario Idle0013" x="256" y="384" width="256" height="384" frameX="0" frameY="0" frameWidth="256" frameHeight="384" />
+</TextureAtlas>

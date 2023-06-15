@@ -1,0 +1,5 @@
+Shakes the screen up and
+down for a set time.
+
+Value 1: Intensity
+Value 2: Duration

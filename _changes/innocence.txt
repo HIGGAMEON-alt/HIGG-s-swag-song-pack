@@ -1,0 +1,7 @@
+mods/data/innocence/innocence-classic.json
+mods/data/innocence/innocence-script.lua
+mods/characters/gf.json
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/innocence/Inst.ogg
+mods/songs/innocence/inst.ogg

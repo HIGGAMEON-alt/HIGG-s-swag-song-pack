@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="door.png">
+<SubTexture name="closed0000" x="0" y="0" width="16" height="32"/>
+<SubTexture name="open10000" x="16" y="0" width="16" height="32"/>
+<SubTexture name="open10001" x="32" y="0" width="16" height="32"/>
+<SubTexture name="open20000" x="48" y="0" width="16" height="32"/>
+<SubTexture name="open20001" x="64" y="0" width="16" height="32"/>
+<SubTexture name="open30000" x="80" y="0" width="16" height="32"/>
+<SubTexture name="open30001" x="96" y="0" width="16" height="32"/>
+<SubTexture name="open40000" x="112" y="0" width="16" height="32"/>
+<SubTexture name="open40001" x="128" y="0" width="16" height="32"/>
+<SubTexture name="open50000" x="144" y="0" width="16" height="32"/>
+<SubTexture name="open50001" x="160" y="0" width="16" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,54 @@
+mods/data/bricks-and-lifts/bricks-and-lifts-classic.json
+mods/data/bricks-and-lifts/bricks-and-lifts-hard.json
+mods/data/bricks-and-lifts/bricks-and-lifts-script.lua
+mods/data/bricks-and-lifts/bricks-and-lifts-superstar.json
+mods/data/bricks-and-lifts/mod.txt
+mods/SMB FunkMix/characters/mario.json
+mods/SMB FunkMix/stages/underground.json
+mods/SMB FunkMix/stages/underground.lua
+mods/SMB FunkMix/images/characters/mario.png
+mods/SMB FunkMix/images/characters/mario.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/backgrounds/underground/background.png
+mods/SMB FunkMix/images/backgrounds/underground/background.xml
+mods/SMB FunkMix/images/backgrounds/underground/groundAnim.png
+mods/SMB FunkMix/images/backgrounds/underground/groundAnim.xml
+mods/SMB FunkMix/images/backgrounds/underground/bricks.png
+mods/SMB FunkMix/images/backgrounds/underground/bricksWide.png
+mods/SMB FunkMix/images/backgrounds/underground/bricksLongWide.png
+mods/SMB FunkMix/images/backgrounds/underground/bricksLong.png
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/bricks-and-lifts/Voices.ogg
+mods/songs/bricks-and-lifts/voices.ogg
+mods/songs/bricks-and-lifts/Inst.ogg
+mods/songs/bricks-and-lifts/inst.ogg

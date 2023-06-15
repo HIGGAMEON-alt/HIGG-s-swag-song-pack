@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg.png">
+<SubTexture name="noon0000" x="0" y="0" width="160" height="120"/>
+<SubTexture name="noon0001" x="160" y="0" width="160" height="120"/>
+<SubTexture name="noon0002" x="320" y="0" width="160" height="120"/>
+<SubTexture name="noon0003" x="480" y="0" width="160" height="120"/>
+<SubTexture name="day0000" x="0" y="120" width="160" height="120"/>
+<SubTexture name="day0001" x="160" y="120" width="160" height="120"/>
+<SubTexture name="day0002" x="320" y="120" width="160" height="120"/>
+<SubTexture name="day0003" x="480" y="120" width="160" height="120"/>
+<SubTexture name="preset0000" x="0" y="240" width="160" height="120"/>
+<SubTexture name="preset0001" x="160" y="240" width="160" height="120"/>
+<SubTexture name="preset0002" x="320" y="240" width="160" height="120"/>
+<SubTexture name="preset0003" x="480" y="240" width="160" height="120"/>
+<SubTexture name="sunset0000" x="0" y="360" width="160" height="120"/>
+<SubTexture name="sunset0001" x="160" y="360" width="160" height="120"/>
+<SubTexture name="sunset0002" x="320" y="360" width="160" height="120"/>
+<SubTexture name="sunset0003" x="480" y="360" width="160" height="120"/>
+<SubTexture name="night0000" x="0" y="480" width="160" height="120"/>
+<SubTexture name="night0001" x="160" y="480" width="160" height="120"/>
+<SubTexture name="night0002" x="320" y="480" width="160" height="120"/>
+<SubTexture name="night0003" x="480" y="480" width="160" height="120"/>
+<SubTexture name="midnight0000" x="0" y="600" width="160" height="120"/>
+<SubTexture name="midnight0001" x="160" y="600" width="160" height="120"/>
+<SubTexture name="midnight0002" x="320" y="600" width="160" height="120"/>
+<SubTexture name="midnight0003" x="480" y="600" width="160" height="120"/>
+</TextureAtlas>

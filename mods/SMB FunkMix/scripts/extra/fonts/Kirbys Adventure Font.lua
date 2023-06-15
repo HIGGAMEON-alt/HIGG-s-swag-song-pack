@@ -1,0 +1,11 @@
+function onCreatePost()
+	setTextFont("timeTxt", "kirbys-adventure.ttf")
+	setTextSize("timeTxt", 24)
+	setTextFont("botplayTxt", "kirbys-adventure.ttf")
+	setTextSize("botplayTxt", 24)
+	setProperty("botplayTxt.x", getProperty("botplayTxt.x") - 8)
+	setTextFont("scoreTxt", "kirbys-adventure.ttf")
+	setTextSize("scoreTxt", 16)
+	setTextFont("JukeBoxText", "kirbys-adventure.ttf")
+	setTextFont("JukeBoxSubText", "kirbys-adventure.ttf")
+end

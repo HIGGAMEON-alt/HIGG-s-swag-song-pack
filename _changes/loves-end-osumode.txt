@@ -1,0 +1,9 @@
+mods/data/loves-end/events.json
+mods/data/loves-end/loves-end-classic.json
+mods/data/loves-end/loves-end-hard.json
+mods/data/loves-end/loves-end-script.lua
+mods/data/loves-end/loves-end-superstar.json
+mods/songs/loves-end/Voices.ogg
+mods/songs/loves-end/voices.ogg
+mods/songs/loves-end/Inst.ogg
+mods/songs/loves-end/inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Mario left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Mario up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Mario right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/advance/mario-chase",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario-fire",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		49,
+		32
+	],
+	"camera_position": [
+		-150,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

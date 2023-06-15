@@ -1,0 +1,14 @@
+mods/data/co-op/co-op-classic.json
+mods/data/co-op/co-op-hard.json
+mods/data/co-op/co-op-script.lua
+mods/data/co-op/co-op-superstar.json
+mods/data/co-op/events.json
+mods/data/co-op/GF2.lua
+mods/data/co-op/Luigi Icon.lua
+mods/characters/bf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/songs/co-op/Voices.ogg
+mods/songs/co-op/voices.ogg
+mods/songs/co-op/Inst.ogg
+mods/songs/co-op/inst.ogg

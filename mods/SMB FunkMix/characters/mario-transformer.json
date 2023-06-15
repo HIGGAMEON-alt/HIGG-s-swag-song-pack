@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hammered",
+			"fps": 24,
+			"name": "hammered",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "tyrant",
+			"fps": 24,
+			"name": "tyrant",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/advance/smb3/mario-transformer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		49,
+		32
+	],
+	"camera_position": [
+		-200,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

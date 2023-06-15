@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario-transformer.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="idle0" x="0" y="0" width="48" height="48"/>
+  <SubTexture name="idle1" x="48" y="0" width="48" height="48"/>
+  <SubTexture name="idle2" x="96" y="0" width="48" height="48"/>
+  <SubTexture name="idle3" x="144" y="0" width="48" height="48"/>
+  <SubTexture name="hammered0" x="144" y="0" width="48" height="48"/>
+  <SubTexture name="hammered1" x="144" y="0" width="48" height="48"/>
+  <SubTexture name="hammered2" x="0" y="48" width="48" height="48"/>
+  <SubTexture name="hammered3" x="0" y="48" width="48" height="48"/>
+  <SubTexture name="hammered4" x="48" y="48" width="48" height="48"/>
+  <SubTexture name="hammered5" x="48" y="48" width="48" height="48"/>
+  <SubTexture name="hammered6" x="48" y="48" width="48" height="48"/>
+  <SubTexture name="hammered7" x="96" y="48" width="48" height="48"/>
+  <SubTexture name="hammered8" x="96" y="48" width="48" height="48"/>
+  <SubTexture name="hammered9" x="144" y="48" width="48" height="48"/>
+  <SubTexture name="hammered10" x="144" y="48" width="48" height="48"/>
+  <SubTexture name="hammered11" x="0" y="96" width="48" height="48"/>
+  <SubTexture name="hammered12" x="0" y="96" width="48" height="48"/>
+  <SubTexture name="hammered13" x="48" y="96" width="48" height="48"/>
+  <SubTexture name="hammered14" x="96" y="96" width="48" height="48"/>
+  <SubTexture name="hammered15" x="96" y="96" width="48" height="48"/>
+  <SubTexture name="hammered16" x="144" y="96" width="48" height="48"/>
+  <SubTexture name="hammered17" x="144" y="96" width="48" height="48"/>
+  <SubTexture name="hammered18" x="0" y="144" width="48" height="48"/>
+  <SubTexture name="hammered19" x="0" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant0" x="144" y="0" width="48" height="48"/>
+  <SubTexture name="tyrant1" x="144" y="0" width="48" height="48"/>
+  <SubTexture name="tyrant2" x="0" y="48" width="48" height="48"/>
+  <SubTexture name="tyrant3" x="0" y="48" width="48" height="48"/>
+  <SubTexture name="tyrant4" x="48" y="48" width="48" height="48"/>
+  <SubTexture name="tyrant5" x="48" y="48" width="48" height="48"/>
+  <SubTexture name="tyrant6" x="48" y="48" width="48" height="48"/>
+  <SubTexture name="tyrant7" x="48" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant8" x="48" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant9" x="96" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant10" x="96" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant11" x="144" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant12" x="144" y="144" width="48" height="48"/>
+  <SubTexture name="tyrant13" x="0" y="192" width="48" height="48"/>
+  <SubTexture name="tyrant14" x="48" y="192" width="48" height="48"/>
+  <SubTexture name="tyrant15" x="48" y="192" width="48" height="48"/>
+  <SubTexture name="tyrant16" x="96" y="192" width="48" height="48"/>
+  <SubTexture name="tyrant17" x="96" y="192" width="48" height="48"/>
+  <SubTexture name="tyrant18" x="144" y="192" width="48" height="48"/>
+  <SubTexture name="tyrant19" x="144" y="192" width="48" height="48"/>
+</TextureAtlas>

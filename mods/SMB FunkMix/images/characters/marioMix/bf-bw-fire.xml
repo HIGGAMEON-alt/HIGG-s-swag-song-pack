@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-bw.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="idle0" x="0" y="0" width="24" height="24"/>
+  <SubTexture name="idle1" x="24" y="0" width="24" height="24"/>
+  <SubTexture name="idle2" x="48" y="0" width="24" height="24"/>
+  <SubTexture name="idle3" x="72" y="0" width="24" height="24"/>
+  <SubTexture name="left0" x="0" y="24" width="24" height="24"/>
+  <SubTexture name="left1" x="24" y="24" width="24" height="24"/>
+  <SubTexture name="down0" x="48" y="24" width="24" height="24"/>
+  <SubTexture name="down1" x="72" y="24" width="24" height="24"/>
+  <SubTexture name="up0" x="0" y="48" width="24" height="24"/>
+  <SubTexture name="up1" x="24" y="48" width="24" height="24"/>
+  <SubTexture name="right0" x="48" y="48" width="24" height="24"/>
+  <SubTexture name="right1" x="72" y="48" width="24" height="24"/>
+  <SubTexture name="missLeft0" x="0" y="72" width="24" height="24"/>
+  <SubTexture name="missLeft1" x="24" y="72" width="24" height="24"/>
+  <SubTexture name="missDown0" x="48" y="72" width="24" height="24"/>
+  <SubTexture name="missDown1" x="72" y="72" width="24" height="24"/>
+  <SubTexture name="missUp0" x="0" y="96" width="24" height="24"/>
+  <SubTexture name="missUp1" x="24" y="96" width="24" height="24"/>
+  <SubTexture name="missRight0" x="48" y="96" width="24" height="24"/>
+  <SubTexture name="missRight1" x="72" y="96" width="24" height="24"/>
+  <SubTexture name="hey0" x="0" y="120" width="24" height="24"/>
+  <SubTexture name="hey1" x="24" y="120" width="24" height="24"/>
+</TextureAtlas>

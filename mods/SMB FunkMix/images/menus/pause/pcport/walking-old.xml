@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="walking.png">
+<SubTexture name="walk0000" x="0" y="0" width="16" height="16"/>
+<SubTexture name="walk0001" x="0" y="0" width="16" height="16"/>
+<SubTexture name="walk0002" x="16" y="0" width="16" height="16"/>
+<SubTexture name="walk0003" x="32" y="0" width="16" height="16"/>
+</TextureAtlas>

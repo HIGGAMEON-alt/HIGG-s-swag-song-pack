@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="metaKnight.png">
+<SubTexture name="idle0000" x="0" y="0" width="48" height="48"/>
+<SubTexture name="idle0001" x="48" y="0" width="48" height="48"/>
+<SubTexture name="idle0002" x="96" y="0" width="48" height="48"/>
+<SubTexture name="idle0003" x="144" y="0" width="48" height="48"/>
+<SubTexture name="idle0004" x="144" y="0" width="48" height="48"/>
+<SubTexture name="idle0005" x="144" y="0" width="48" height="48"/>
+<SubTexture name="left0000" x="0" y="48" width="48" height="48"/>
+<SubTexture name="left0001" x="48" y="48" width="48" height="48"/>
+<SubTexture name="left0002" x="48" y="48" width="48" height="48"/>
+<SubTexture name="down0000" x="96" y="48" width="48" height="48"/>
+<SubTexture name="down0001" x="144" y="48" width="48" height="48"/>
+<SubTexture name="down0002" x="144" y="48" width="48" height="48"/>
+<SubTexture name="up0000" x="0" y="96" width="48" height="48"/>
+<SubTexture name="up0001" x="48" y="96" width="48" height="48"/>
+<SubTexture name="up0002" x="48" y="96" width="48" height="48"/>
+<SubTexture name="right0000" x="96" y="96" width="48" height="48"/>
+<SubTexture name="right0001" x="144" y="96" width="48" height="48"/>
+<SubTexture name="right0002" x="144" y="96" width="48" height="48"/>
+<SubTexture name="enter0000" x="96" y="192" width="48" height="48"/>
+<SubTexture name="enter0001" x="48" y="192" width="48" height="48"/>
+<SubTexture name="enter0002" x="0" y="192" width="48" height="48"/>
+<SubTexture name="enter0003" x="144" y="144" width="48" height="48"/>
+<SubTexture name="enter0004" x="96" y="144" width="48" height="48"/>
+<SubTexture name="enter0005" x="48" y="144" width="48" height="48"/>
+<SubTexture name="enter0006" x="0" y="144" width="48" height="48"/>
+<SubTexture name="exit0000" x="0" y="144" width="48" height="48"/>
+<SubTexture name="exit0001" x="48" y="144" width="48" height="48"/>
+<SubTexture name="exit0002" x="96" y="144" width="48" height="48"/>
+<SubTexture name="exit0003" x="144" y="144" width="48" height="48"/>
+<SubTexture name="exit0004" x="0" y="192" width="48" height="48"/>
+<SubTexture name="exit0005" x="48" y="192" width="48" height="48"/>
+<SubTexture name="exit0006" x="96" y="192" width="48" height="48"/>
+<SubTexture name="spin0000" x="144" y="192" width="48" height="48"/>
+<SubTexture name="spin0001" x="0" y="240" width="48" height="48"/>
+<SubTexture name="spinBounce0000" x="48" y="240" width="48" height="48"/>
+<SubTexture name="spinBounce0001" x="96" y="240" width="48" height="48"/>
+<SubTexture name="spinBounce0002" x="48" y="240" width="48" height="48"/>
+</TextureAtlas>

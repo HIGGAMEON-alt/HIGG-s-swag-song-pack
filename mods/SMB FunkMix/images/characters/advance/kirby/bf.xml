@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.png">
+<SubTexture name="idle0000" x="0" y="0" width="33" height="32"/>
+<SubTexture name="idle0001" x="33" y="0" width="33" height="32"/>
+<SubTexture name="idle0002" x="66" y="0" width="33" height="32"/>
+<SubTexture name="idle0003" x="99" y="0" width="33" height="32"/>
+<SubTexture name="idle0004" x="0" y="32" width="33" height="32"/>
+<SubTexture name="idle0005" x="0" y="32" width="33" height="32"/>
+<SubTexture name="idle0006" x="0" y="32" width="33" height="32"/>
+<SubTexture name="left0000" x="33" y="32" width="33" height="32"/>
+<SubTexture name="left0001" x="66" y="32" width="33" height="32"/>
+<SubTexture name="left0002" x="66" y="32" width="33" height="32"/>
+<SubTexture name="down0000" x="99" y="32" width="33" height="32"/>
+<SubTexture name="down0001" x="0" y="64" width="33" height="32"/>
+<SubTexture name="down0002" x="0" y="64" width="33" height="32"/>
+<SubTexture name="up0000" x="33" y="64" width="33" height="32"/>
+<SubTexture name="up0001" x="66" y="64" width="33" height="32"/>
+<SubTexture name="up0002" x="66" y="64" width="33" height="32"/>
+<SubTexture name="right0000" x="99" y="64" width="33" height="32"/>
+<SubTexture name="right0001" x="0" y="96" width="33" height="32"/>
+<SubTexture name="right0002" x="0" y="96" width="33" height="32"/>
+<SubTexture name="missLeft0000" x="33" y="96" width="33" height="32"/>
+<SubTexture name="missLeft0001" x="66" y="96" width="33" height="32"/>
+<SubTexture name="missDown0000" x="99" y="96" width="33" height="32"/>
+<SubTexture name="missDown0001" x="0" y="128" width="33" height="32"/>
+<SubTexture name="missUp0000" x="33" y="128" width="33" height="32"/>
+<SubTexture name="missUp0001" x="66" y="128" width="33" height="32"/>
+<SubTexture name="missRight0000" x="99" y="128" width="33" height="32"/>
+<SubTexture name="missRight0001" x="0" y="160" width="33" height="32"/>
+<SubTexture name="hey0000" x="33" y="160" width="33" height="32"/>
+<SubTexture name="hey0001" x="66" y="160" width="33" height="32"/>
+<SubTexture name="hey0002" x="99" y="160" width="33" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"song": {
+		"sectionLengths": [],
+		"player1": "boyfriend",
+		"player2": "wart",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "gf",
+		"events": [],
+		"player3": null,
+		"song": "Dream Machine",
+		"stage": "wart",
+		"validScore": true,
+		"needsVoices": true,
+		"sections": 0,
+		"speed": 2.8,
+		"bpm": 155
+	}
+}

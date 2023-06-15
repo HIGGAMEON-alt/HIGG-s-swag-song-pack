@@ -1,0 +1,66 @@
+mods/data/hyperactive-starblaze/events.json
+mods/data/hyperactive-starblaze/Food Notes.lua
+mods/data/hyperactive-starblaze/hyperactive-starblaze-classic.json
+mods/data/hyperactive-starblaze/hyperactive-starblaze-hard.json
+mods/data/hyperactive-starblaze/hyperactive-starblaze-script.lua
+mods/data/hyperactive-starblaze/hyperactive-starblaze-superstar.json
+mods/data/hyperactive-starblaze/Kirby Note Hud.lua
+mods/data/hyperactive-starblaze/mod.txt
+mods/data/hyperactive-starblaze/Scene Shifter.lua
+mods/SMB FunkMix/characters/bf-kirby.json
+mods/SMB FunkMix/characters/kirby.json
+mods/SMB FunkMix/characters/metaKnight.json
+mods/SMB FunkMix/stages/vegetable-valley.json
+mods/SMB FunkMix/stages/vegetable-valley.lua
+mods/SMB FunkMix/images/characters/advance/kirby/bf.png
+mods/SMB FunkMix/images/characters/advance/kirby/bf.xml
+mods/SMB FunkMix/images/characters/advance/kirby/kirby.png
+mods/SMB FunkMix/images/characters/advance/kirby/kirby.xml
+mods/SMB FunkMix/images/characters/advance/kirby/metaKnight.png
+mods/SMB FunkMix/images/characters/advance/kirby/metaKnight.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/images/gameovers/kirby/border.png
+mods/SMB FunkMix/images/ui/kirby/number-big.png
+mods/SMB FunkMix/images/ui/kirby/number-big.xml
+mods/SMB FunkMix/images/ui/kirby/health.png
+mods/SMB FunkMix/images/ui/kirby/health.xml
+mods/SMB FunkMix/images/ui/kirby/hp.png
+mods/SMB FunkMix/images/ui/kirby/number-small.png
+mods/SMB FunkMix/images/ui/kirby/number-small.xml
+mods/SMB FunkMix/images/backgrounds/vegetable-valley/stage.png
+mods/SMB FunkMix/images/backgrounds/vegetable-valley/stage.xml
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/hyperactive-starblaze/Voices.ogg
+mods/songs/hyperactive-starblaze/voices.ogg
+mods/songs/hyperactive-starblaze/Inst.ogg
+mods/songs/hyperactive-starblaze/inst.ogg

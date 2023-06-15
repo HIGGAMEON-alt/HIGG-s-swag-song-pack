@@ -1,0 +1,30 @@
+mods/data/snowy-plains/events.json
+mods/data/snowy-plains/GF2.lua
+mods/data/snowy-plains/Luigi Icon.lua
+mods/data/snowy-plains/mod.txt
+mods/data/snowy-plains/snowy-plains-classic.json
+mods/data/snowy-plains/snowy-plains-hard.json
+mods/data/snowy-plains/snowy-plains-script.lua
+mods/data/snowy-plains/snowy-plains-superstar.json
+mods/SMB FunkMix/stages/snow.json
+mods/SMB FunkMix/stages/snow.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/songs/snowy-plains/Voices.ogg
+mods/songs/snowy-plains/voices.ogg
+mods/songs/snowy-plains/Inst.ogg
+mods/songs/snowy-plains/inst.ogg

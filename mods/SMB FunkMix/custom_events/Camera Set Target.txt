@@ -1,0 +1,4 @@
+Manually sets the camera to a selected
+character.
+Value 1: Target can either be "boyfriend" or "dad".
+If left blank, it works the same as Camera Follow Pos.

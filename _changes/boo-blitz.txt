@@ -1,0 +1,58 @@
+mods/data/boo-blitz/boo-blitz-classic.json
+mods/data/boo-blitz/boo-blitz-hard.json
+mods/data/boo-blitz/boo-blitz-script.lua
+mods/data/boo-blitz/boo-blitz-superstar.json
+mods/data/boo-blitz/mod.txt
+mods/data/boo-blitz/Platformer Controls.lua
+mods/SMB FunkMix/characters/big-boo.json
+mods/SMB FunkMix/stages/ghost.json
+mods/SMB FunkMix/stages/ghost.lua
+mods/SMB FunkMix/images/characters/big-boo.png
+mods/SMB FunkMix/images/characters/big-boo.xml
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/sounds/missnote.ogg
+mods/SMB FunkMix/images/backgrounds/ghost/fireball.png
+mods/SMB FunkMix/images/backgrounds/ghost/fireball.xml
+mods/SMB FunkMix/images/backgrounds/ghost/bg.png
+mods/SMB FunkMix/images/backgrounds/ghost/ghost.png
+mods/SMB FunkMix/images/backgrounds/ghost/ghost.xml
+mods/SMB FunkMix/images/backgrounds/ghost/sky.png
+mods/SMB FunkMix/images/backgrounds/ghost/background.png
+mods/SMB FunkMix/images/backgrounds/ghost/background.xml
+mods/SMB FunkMix/images/backgrounds/ghost/ground.png
+mods/SMB FunkMix/images/backgrounds/ghost/foreground.png
+mods/SMB FunkMix/images/ui/pixel/overlay.png
+mods/SMB FunkMix/images/ui/sonic/overlay-ccc.png
+mods/SMB FunkMix/images/ui/sonic/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay.png
+mods/SMB FunkMix/images/ui/kirby/overlay-flip.png
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/images/ui/sonic/countdown.png
+mods/SMB FunkMix/images/ui/sonic/countdown.xml
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/SMB FunkMix/images/ui/pixel/lifeCount.png
+mods/SMB FunkMix/images/characters/bf.png
+mods/SMB FunkMix/images/characters/bf.xml
+mods/SMB FunkMix/images/characters/gf.png
+mods/SMB FunkMix/images/characters/gf.xml
+mods/SMB FunkMix/characters/boyfriend.json
+mods/SMB FunkMix/characters/girlfriend.json
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.png
+mods/SMB FunkMix/images/noteSplashes/pixel-hurt.xml
+mods/songs/boo-blitz/Voices.ogg
+mods/songs/boo-blitz/voices.ogg
+mods/songs/boo-blitz/Inst.ogg
+mods/songs/boo-blitz/inst.ogg

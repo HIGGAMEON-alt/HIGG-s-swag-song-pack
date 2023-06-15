@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				90
+			],
+			"anim": "laugh1",
+			"fps": 30,
+			"name": "laugh1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				90
+			],
+			"anim": "laugh2",
+			"fps": 30,
+			"name": "laugh2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				90
+			],
+			"anim": "laugh3",
+			"fps": 30,
+			"name": "laugh3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/advance/pcport/marionear",
+	"position": [
+		46,
+		6
+	],
+	"healthicon": "mario-near",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		9,
+		4
+	],
+	"camera_position": [
+		-320,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

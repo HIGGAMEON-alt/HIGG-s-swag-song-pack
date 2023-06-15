@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-portal.png">
+<!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+<SubTexture name="dancing0" x="32" y="0" width="32" height="32"/>
+<SubTexture name="dancing1" x="64" y="0" width="32" height="32"/>
+<SubTexture name="dancing2" x="64" y="0" width="32" height="32"/>
+<SubTexture name="dancing3" x="0" y="0" width="32" height="32"/>
+<SubTexture name="dancing4" x="96" y="0" width="32" height="32"/>
+<SubTexture name="dancing5" x="128" y="0" width="32" height="32"/>
+<SubTexture name="dancing6" x="128" y="0" width="32" height="32"/>
+<SubTexture name="dancing7" x="0" y="0" width="32" height="32"/>
+<SubTexture name="miss0" x="0" y="32" width="32" height="32"/>
+<SubTexture name="miss1" x="32" y="32" width="32" height="32"/>
+<SubTexture name="miss2" x="0" y="32" width="32" height="32"/>
+<SubTexture name="miss3" x="32" y="32" width="32" height="32"/>
+<SubTexture name="hey0" x="64" y="32" width="32" height="32"/>
+<SubTexture name="hey1" x="96" y="32" width="32" height="32"/>
+<SubTexture name="hey2" x="128" y="32" width="32" height="32"/>
+<SubTexture name="hey3" x="0" y="64" width="32" height="32"/>
+<SubTexture name="hey4" x="32" y="64" width="32" height="32"/>
+<SubTexture name="hey5" x="64" y="64" width="32" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+mods/data/dream-machine/dream-machine-classic.json
+mods/data/dream-machine/dream-machine-script.lua
+mods/songs/dream-machine/Voices.ogg
+mods/songs/dream-machine/voices.ogg
+mods/songs/dream-machine/Inst.ogg
+mods/songs/dream-machine/inst.ogg

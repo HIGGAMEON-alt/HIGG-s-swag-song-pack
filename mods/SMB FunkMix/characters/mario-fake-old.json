@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "transition",
+			"fps": 30,
+			"name": "transition",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/advance/pcport/mariofake",
+	"position": [
+		46,
+		6.5
+	],
+	"healthicon": "mario-fake",
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		46,
+		36
+	],
+	"camera_position": [
+		-300,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

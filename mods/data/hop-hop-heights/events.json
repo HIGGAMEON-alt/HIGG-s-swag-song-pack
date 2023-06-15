@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "athletic",
+		"player1": "bf",
+		"player2": "bob-omb",
+		"player3": null,
+		"events": [
+			[
+				84857.1428571429,
+				[
+					[
+						"Screen Rumble",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes/pixel",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "lostlevels/NOTE_assets",
+		"needsVoices": true,
+		"song": "Hop-Hop Heights"
+	}
+}

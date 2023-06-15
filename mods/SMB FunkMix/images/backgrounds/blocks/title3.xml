@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="title3.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="logo0" x="0" y="0" width="480" height="320"/>
+  <SubTexture name="logo1" x="480" y="0" width="480" height="320"/>
+  <SubTexture name="logo2" x="0" y="320" width="480" height="320"/>
+  <SubTexture name="logo3" x="480" y="0" width="480" height="320"/>
+  <SubTexture name="logo4" x="0" y="0" width="480" height="320"/>
+  <SubTexture name="logo5" x="480" y="320" width="480" height="320"/>
+</TextureAtlas>

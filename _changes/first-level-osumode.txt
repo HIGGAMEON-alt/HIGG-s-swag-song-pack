@@ -1,0 +1,27 @@
+mods/data/first-level/first-level-classic.json
+mods/data/first-level/first-level-hard.json
+mods/data/first-level/first-level-script.lua
+mods/data/first-level/first-level-superstar.json
+mods/data/first-level/mod.txt
+mods/SMB FunkMix/stages/smm.json
+mods/SMB FunkMix/stages/smm.lua
+mods/SMB FunkMix/scripts/Difficulty System.lua
+mods/SMB FunkMix/scripts/Fun System.lua
+mods/SMB FunkMix/scripts/Hud Overhaul.lua
+mods/SMB FunkMix/scripts/Life System.lua
+mods/SMB FunkMix/scripts/Miscellaneous Fixes.lua
+mods/SMB FunkMix/scripts/Save Data.lua
+mods/SMB FunkMix/scripts/Window Changer.lua
+mods/SMB FunkMix/fonts/smb1.ttf
+mods/SMB FunkMix/fonts/pixel_smaller.ttf
+mods/SMB FunkMix/fonts/smb2LL.ttf
+mods/SMB FunkMix/sounds/sonic_countdown.ogg
+mods/SMB FunkMix/sounds/sonic_countdownend.ogg
+mods/SMB FunkMix/sounds/coin.ogg
+mods/SMB FunkMix/sounds/pause.ogg
+mods/SMB FunkMix/sounds/countdown.ogg
+mods/SMB FunkMix/sounds/countdownend.ogg
+mods/songs/first-level/Voices.ogg
+mods/songs/first-level/voices.ogg
+mods/songs/first-level/Inst.ogg
+mods/songs/first-level/inst.ogg
