@@ -1,0 +1,17 @@
+mods/data/sleeptalk/events.json
+mods/data/sleeptalk/mod.txt
+mods/data/sleeptalk/script.lua
+mods/data/sleeptalk/sleeptalk-hard.json
+mods/data/sleeptalk/sleeptalk.json
+mods/data/sleeptalk/videoscript.lua
+mods/Twinsomnia/stages/bedroom-sleeptalk.json
+mods/Twinsomnia/stages/bedroom-sleeptalk.lua
+mods/Twinsomnia/custom_events/Stage Switch.lua
+mods/Twinsomnia/custom_events/Set Cam Zoom.lua
+mods/Twinsomnia/scripts/Debug_Keys.lua
+mods/Twinsomnia/scripts/iconboopy.lua
+mods/Twinsomnia/scripts/noteMoveOnPress.lua
+mods/songs/sleeptalk/Voices.ogg
+mods/songs/sleeptalk/voices.ogg
+mods/songs/sleeptalk/Inst.ogg
+mods/songs/sleeptalk/inst.ogg

@@ -1,0 +1,42 @@
+mods/data/power-hour/events.json
+mods/Twinsomnia/characters/big cocaine.json
+mods/Twinsomnia/images/characters/ass_crack.png
+mods/Twinsomnia/images/characters/ass_crack.xml
+mods/Twinsomnia/characters/big boyle.json
+mods/Twinsomnia/images/characters/big_boyle.png
+mods/Twinsomnia/images/characters/big_boyle.xml
+mods/Twinsomnia/characters/shitstain sleepy.json
+mods/Twinsomnia/images/characters/the_one_in_powerhour.png
+mods/Twinsomnia/images/characters/the_one_in_powerhour.xml
+mods/Twinsomnia/characters/shitstain end.json
+mods/data/power-hour/mod.txt
+mods/data/power-hour/power-hour-hard.json
+mods/data/power-hour/power-hour.json
+mods/data/power-hour/script.lua
+mods/data/power-hour/video.lua
+mods/Twinsomnia/characters/shitstain powerhour.json
+mods/Twinsomnia/characters/big goyle.json
+mods/Twinsomnia/stages/bedroom-power.json
+mods/Twinsomnia/stages/bedroom-power.lua
+mods/Twinsomnia/images/characters/the_one_in_roughhouse.png
+mods/Twinsomnia/images/characters/the_one_in_roughhouse.xml
+mods/Twinsomnia/images/characters/big_goyle.png
+mods/Twinsomnia/images/characters/big_goyle.xml
+mods/Twinsomnia/custom_events/Kaboom.lua
+mods/Twinsomnia/custom_events/Set Cam Zoom.lua
+mods/Twinsomnia/custom_events/Cam Boom Speed.lua
+mods/Twinsomnia/scripts/Debug_Keys.lua
+mods/Twinsomnia/scripts/iconboopy.lua
+mods/Twinsomnia/scripts/noteMoveOnPress.lua
+mods/Twinsomnia/images/bedroom/brownd.png
+mods/Twinsomnia/images/bedroom/bedroom_backdrop.png
+mods/Twinsomnia/images/bedroom/bed.png
+mods/Twinsomnia/images/bedroom/bedside_table.png
+mods/Twinsomnia/images/bedroom/bedside_table.xml
+mods/Twinsomnia/images/bedroom/lamp.png
+mods/Twinsomnia/images/bedroom/the_cool_star_thing.png
+mods/Twinsomnia/images/bedroom/the_cool_star_thing.xml
+mods/songs/power-hour/Voices.ogg
+mods/songs/power-hour/voices.ogg
+mods/songs/power-hour/Inst.ogg
+mods/songs/power-hour/inst.ogg

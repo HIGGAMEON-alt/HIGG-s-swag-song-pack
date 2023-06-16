@@ -1,0 +1,16 @@
+mods/data/boogieman/boogieman-hard.json
+mods/data/boogieman/boogieman.json
+mods/data/boogieman/events.json
+mods/data/boogieman/mod.txt
+mods/data/boogieman/script.lua
+mods/Twinsomnia/stages/bedroom-booger.json
+mods/Twinsomnia/stages/bedroom-booger.lua
+mods/Twinsomnia/custom_events/karaokelyrics.lua
+mods/Twinsomnia/custom_events/Opponent Fade.lua
+mods/Twinsomnia/scripts/Debug_Keys.lua
+mods/Twinsomnia/scripts/iconboopy.lua
+mods/Twinsomnia/scripts/noteMoveOnPress.lua
+mods/songs/boogieman/Voices.ogg
+mods/songs/boogieman/voices.ogg
+mods/songs/boogieman/Inst.ogg
+mods/songs/boogieman/inst.ogg

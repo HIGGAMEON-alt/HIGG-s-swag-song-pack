@@ -1,0 +1,18 @@
+mods/data/power-hour/events.json
+mods/data/power-hour/mod.txt
+mods/data/power-hour/power-hour-hard.json
+mods/data/power-hour/power-hour.json
+mods/data/power-hour/script.lua
+mods/data/power-hour/video.lua
+mods/Twinsomnia/stages/bedroom-power.json
+mods/Twinsomnia/stages/bedroom-power.lua
+mods/Twinsomnia/custom_events/Kaboom.lua
+mods/Twinsomnia/custom_events/Set Cam Zoom.lua
+mods/Twinsomnia/custom_events/Cam Boom Speed.lua
+mods/Twinsomnia/scripts/Debug_Keys.lua
+mods/Twinsomnia/scripts/iconboopy.lua
+mods/Twinsomnia/scripts/noteMoveOnPress.lua
+mods/songs/power-hour/Voices.ogg
+mods/songs/power-hour/voices.ogg
+mods/songs/power-hour/Inst.ogg
+mods/songs/power-hour/inst.ogg

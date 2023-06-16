@@ -1,0 +1,48 @@
+mods/data/sleeptalk/events.json
+mods/Twinsomnia/characters/lil goyle.json
+mods/Twinsomnia/images/characters/goyle.png
+mods/Twinsomnia/images/characters/goyle.xml
+mods/Twinsomnia/characters/shitstain sleeptalk surprise.json
+mods/Twinsomnia/images/characters/the_other_other_one_in_sleeptalk.png
+mods/Twinsomnia/images/characters/the_other_other_one_in_sleeptalk.xml
+mods/Twinsomnia/characters/shitstain sleeptalk2.json
+mods/Twinsomnia/images/characters/the_other_one_in_sleeptalk.png
+mods/Twinsomnia/images/characters/the_other_one_in_sleeptalk.xml
+mods/data/sleeptalk/mod.txt
+mods/data/sleeptalk/script.lua
+mods/data/sleeptalk/sleeptalk-hard.json
+mods/data/sleeptalk/sleeptalk.json
+mods/data/sleeptalk/videoscript.lua
+mods/Twinsomnia/characters/shitstain sleeptalk.json
+mods/Twinsomnia/characters/gird.json
+mods/Twinsomnia/characters/lil boyle metronomo.json
+mods/Twinsomnia/stages/bedroom-sleeptalk.json
+mods/Twinsomnia/stages/bedroom-sleeptalk.lua
+mods/Twinsomnia/images/characters/the_one_in_sleeptalk.png
+mods/Twinsomnia/images/characters/the_one_in_sleeptalk.xml
+mods/Twinsomnia/images/characters/gird.png
+mods/Twinsomnia/images/characters/gird.xml
+mods/Twinsomnia/images/characters/boyp_metronomo.png
+mods/Twinsomnia/images/characters/boyp_metronomo.xml
+mods/Twinsomnia/custom_events/Stage Switch.lua
+mods/Twinsomnia/custom_events/Set Cam Zoom.lua
+mods/Twinsomnia/scripts/Debug_Keys.lua
+mods/Twinsomnia/scripts/iconboopy.lua
+mods/Twinsomnia/scripts/noteMoveOnPress.lua
+mods/Twinsomnia/images/bedroom/bedroom_backdrop.png
+mods/Twinsomnia/images/bedroom/bed.png
+mods/Twinsomnia/images/bedroom/bedside_table.png
+mods/Twinsomnia/images/bedroom/bedside_table.xml
+mods/Twinsomnia/images/bedroom/lamp.png
+mods/Twinsomnia/images/bedroom/the_cool_star_thing.png
+mods/Twinsomnia/images/bedroom/the_cool_star_thing.xml
+mods/Twinsomnia/images/bedroom/bedroom_backdrop_dark.png
+mods/Twinsomnia/images/bedroom/bed_dark.png
+mods/Twinsomnia/images/bedroom/bedside_table_dark.png
+mods/Twinsomnia/images/bedroom/bedside_table_dark.xml
+mods/Twinsomnia/images/bedroom/lamp_dark.png
+mods/Twinsomnia/images/bedroom/stars_dark.png
+mods/songs/sleeptalk/Voices.ogg
+mods/songs/sleeptalk/voices.ogg
+mods/songs/sleeptalk/Inst.ogg
+mods/songs/sleeptalk/inst.ogg
