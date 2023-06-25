@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				10449.4382022472,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				45505.6179775281,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				68426.9662921348,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				95393.2584269664,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					],
+					[
+						"Change Notes",
+						"boyfriend",
+						"notes/KAPI_assets"
+					],
+					[
+						"Change Splashes",
+						"notes/splashes/kapiSplashes",
+						""
+					]
+				]
+			],
+			[
+				122359.550561798,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				144185.393258427,
+				[
+					[
+						"Change Notes",
+						"boyfriend",
+						"NOTE_assets"
+					],
+					[
+						"Change Splashes",
+						"noteSplashes",
+						""
+					]
+				]
+			],
+			[
+				146292.134831461,
+				[
+					[
+						"Play Animation",
+						"yasiri",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

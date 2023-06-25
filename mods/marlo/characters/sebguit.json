@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				153,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-32,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightguitar"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "guitar idle"
+		},
+		{
+			"offsets": [
+				31,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upguitar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "guitardown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sebastianguit",
+	"position": [
+		20,
+		50
+	],
+	"healthicon": "sebas",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		72,
+		216
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

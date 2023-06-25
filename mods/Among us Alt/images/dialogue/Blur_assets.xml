@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Blur_assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="406" height="406" frameX="-3" frameY="-13" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0001" x="0" y="0" width="406" height="406" frameX="-3" frameY="-13" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0002" x="406" y="0" width="405" height="410" frameX="-5" frameY="-9" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0003" x="811" y="0" width="401" height="419" frameX="-5" frameY="0" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0004" x="811" y="0" width="401" height="419" frameX="-5" frameY="0" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0005" x="1212" y="0" width="400" height="419" frameX="-2" frameY="0" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0006" x="1212" y="0" width="400" height="419" frameX="-2" frameY="0" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="blue0007" x="1612" y="0" width="401" height="415" frameX="0" frameY="-4" frameWidth="410" frameHeight="419"/>
+	<SubTexture name="ha0000" x="2013" y="0" width="406" height="406" frameX="-358" frameY="-123" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0001" x="2013" y="0" width="406" height="406" frameX="-358" frameY="-123" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0002" x="2419" y="0" width="405" height="410" frameX="-360" frameY="-119" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0003" x="2824" y="0" width="401" height="419" frameX="-360" frameY="-110" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0004" x="2824" y="0" width="401" height="419" frameX="-360" frameY="-110" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0005" x="3225" y="0" width="400" height="419" frameX="-357" frameY="-110" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0006" x="3225" y="0" width="400" height="419" frameX="-357" frameY="-110" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="ha0007" x="0" y="419" width="756" height="529" frameX="0" frameY="0" frameWidth="765" frameHeight="529"/>
+	<SubTexture name="hmm0000" x="756" y="419" width="406" height="472" frameX="-3" frameY="-13" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0001" x="756" y="419" width="406" height="472" frameX="-3" frameY="-13" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0002" x="1162" y="419" width="404" height="476" frameX="-5" frameY="-9" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0003" x="1566" y="419" width="401" height="479" frameX="-5" frameY="0" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0004" x="1566" y="419" width="401" height="479" frameX="-5" frameY="0" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0005" x="1967" y="419" width="400" height="478" frameX="-2" frameY="0" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0006" x="1967" y="419" width="400" height="478" frameX="-2" frameY="0" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="hmm0007" x="2367" y="419" width="402" height="476" frameX="0" frameY="-4" frameWidth="409" frameHeight="485"/>
+	<SubTexture name="wut0000" x="2769" y="419" width="433" height="406" frameX="-3" frameY="-13" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0001" x="2769" y="419" width="433" height="406" frameX="-3" frameY="-13" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0002" x="3202" y="419" width="431" height="410" frameX="-5" frameY="-9" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0003" x="3633" y="419" width="427" height="419" frameX="-5" frameY="0" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0004" x="3633" y="419" width="427" height="419" frameX="-5" frameY="0" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0005" x="0" y="948" width="426" height="419" frameX="-2" frameY="0" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0006" x="0" y="948" width="426" height="419" frameX="-2" frameY="0" frameWidth="436" frameHeight="419"/>
+	<SubTexture name="wut0007" x="426" y="948" width="427" height="415" frameX="0" frameY="-4" frameWidth="436" frameHeight="419"/>
+</TextureAtlas>

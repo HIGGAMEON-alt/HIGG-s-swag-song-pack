@@ -1,0 +1,26 @@
+mods/data/ballistic-remix/ballistic-remix-easy.json
+mods/data/ballistic-remix/ballistic-remix-hard.json
+mods/data/ballistic-remix/ballistic-remix.json
+mods/data/ballistic-remix/events.json
+mods/data/ballistic-remix/mod.txt
+mods/data/ballistic-remix/script.lua
+mods/Whitty/characters/whitbonkers.json
+mods/Whitty/characters/gf_JUICY.json
+mods/Whitty/stages/alley-balls.json
+mods/Whitty/stages/alley-balls.lua
+mods/Whitty/images/characters/WhittyCrazy.png
+mods/Whitty/images/characters/WhittyCrazy.xml
+mods/Whitty/images/characters/ovaries.png
+mods/Whitty/images/characters/ovaries.xml
+mods/Whitty/custom_events/Set Cam Zoom.lua
+mods/Whitty/scripts/charDance.lua
+mods/Whitty/scripts/hideDaMidScroll.lua
+mods/Whitty/scripts/Kade_Engine_Complex_Accuracy.lua
+mods/Whitty/scripts/versionLock.lua
+mods/Whitty/images/BallisticBackground.png
+mods/Whitty/images/BallisticBackground.xml
+mods/Whitty/images/thefunnyeffect.png
+mods/songs/ballistic-remix/Voices.ogg
+mods/songs/ballistic-remix/voices.ogg
+mods/songs/ballistic-remix/Inst.ogg
+mods/songs/ballistic-remix/inst.ogg

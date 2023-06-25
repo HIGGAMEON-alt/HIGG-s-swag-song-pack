@@ -1,0 +1,24 @@
+mods/data/peoples/events.json
+mods/data/peoples/mod.txt
+mods/data/peoples/peoples-easy.json
+mods/marlo/characters/bf unicode.json
+mods/marlo/characters/peopler.json
+mods/marlo/characters/gfmissing.json
+mods/marlo/stages/peopel.json
+mods/marlo/stages/peopel.lua
+mods/marlo/images/characters/bf peopel.png
+mods/marlo/images/characters/bf peopel.xml
+mods/marlo/images/characters/peopler.png
+mods/marlo/images/characters/peopler.xml
+mods/marlo/images/characters/gf missing.png
+mods/marlo/images/characters/gf missing.xml
+mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/opponentnotes.lua
+mods/marlo/scripts/playernotes.lua
+mods/marlo/images/crowdpeoples.png
+mods/marlo/images/crowdpeoples.xml
+mods/marlo/images/peoples background.png
+mods/songs/peoples/Voices.ogg
+mods/songs/peoples/voices.ogg
+mods/songs/peoples/Inst.ogg
+mods/songs/peoples/inst.ogg

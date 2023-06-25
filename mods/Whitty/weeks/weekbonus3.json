@@ -1,0 +1,31 @@
+{
+	"storyName": "Low Rise",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekbonus2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Low-Rise",
+			"White",
+			[
+				26,
+				213,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Low Rise"
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonjid idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-34
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				-156
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "spindash",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sebastian",
+	"position": [
+		-60,
+		100
+	],
+	"healthicon": "sebas",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		72,
+		216
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,19 @@
+mods/data/hungry-(hq)/events.json
+mods/data/hungry-(hq)/hungry-(hq)-easy.json
+mods/data/hungry-(hq)/hungry-(hq)-hard.json
+mods/data/hungry-(hq)/hungry-(hq).json
+mods/data/hungry-(hq)/mod.txt
+mods/data/hungry-(hq)/script.lua
+mods/Whitty/stages/hungry-hqr.json
+mods/Whitty/stages/hungry-hqr.lua
+mods/Whitty/custom_events/cccep11.lua
+mods/Whitty/custom_events/Set Cam Zoom.lua
+mods/Whitty/custom_events/gagaboobs.lua
+mods/Whitty/scripts/charDance.lua
+mods/Whitty/scripts/hideDaMidScroll.lua
+mods/Whitty/scripts/Kade_Engine_Complex_Accuracy.lua
+mods/Whitty/scripts/versionLock.lua
+mods/songs/hungry-(hq)/Voices.ogg
+mods/songs/hungry-(hq)/voices.ogg
+mods/songs/hungry-(hq)/Inst.ogg
+mods/songs/hungry-(hq)/inst.ogg

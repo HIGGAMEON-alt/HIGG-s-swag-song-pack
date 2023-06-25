@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blomperfire.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blomrfire0000" x="0" y="0" width="600" height="57" pivotX="0" pivotY="0"/>
+	<SubTexture name="blomrfire0001" x="0" y="0" width="600" height="57"/>
+	<SubTexture name="blomrfire0002" x="0" y="0" width="600" height="57"/>
+	<SubTexture name="blomrfire0003" x="0" y="57" width="600" height="57"/>
+	<SubTexture name="blomrfire0004" x="0" y="57" width="600" height="57"/>
+	<SubTexture name="blomrfire0005" x="0" y="57" width="600" height="57"/>
+	<SubTexture name="blomrfire0006" x="0" y="114" width="600" height="57"/>
+	<SubTexture name="blomrfire0007" x="0" y="114" width="600" height="57"/>
+	<SubTexture name="blomrfire0008" x="0" y="114" width="600" height="57"/>
+	<SubTexture name="blomrfire0009" x="0" y="171" width="600" height="57"/>
+	<SubTexture name="blomrfire0010" x="0" y="171" width="600" height="57"/>
+	<SubTexture name="blomrfire0011" x="0" y="171" width="600" height="57"/>
+</TextureAtlas>

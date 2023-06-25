@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="breadhead.png">
+<SubTexture name="breadhead idle0000" x="608" y="0" width="604" height="878" frameX="-132" frameY="-30" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="breadhead idle0001" x="617" y="880" width="623" height="871" frameX="-113" frameY="-37" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="breadhead idle0002" x="1816" y="0" width="622" height="869" frameX="-114" frameY="-39" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="breadhead idle0003" x="0" y="880" width="617" height="872" frameX="-119" frameY="-36" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="breadhead idle0004" x="1212" y="0" width="604" height="878" frameX="-132" frameY="-30" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="breadhead idle0005" x="0" y="0" width="608" height="880" frameX="-128" frameY="-28" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

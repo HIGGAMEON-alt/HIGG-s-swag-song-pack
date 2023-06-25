@@ -1,0 +1,45 @@
+mods/data/sussus-horsus/CutScne.lua
+mods/data/sussus-horsus/DoubleGhostNote.lua
+mods/data/sussus-horsus/mod.txt
+mods/data/sussus-horsus/scripts.lua
+mods/data/sussus-horsus/smoothcam.lua
+mods/data/sussus-horsus/sussus-horsus-hard.json
+mods/Among us Alt/characters/horsebf.json
+mods/Among us Alt/characters/Horsemungus.json
+mods/Among us Alt/characters/horsegf.json
+mods/Among us Alt/stages/horse.json
+mods/Among us Alt/stages/horse.lua
+mods/Among us Alt/images/characters/horsebf.png
+mods/Among us Alt/images/characters/horsebf.xml
+mods/Among us Alt/images/characters/Horsemungus.png
+mods/Among us Alt/images/characters/Horsemungus.xml
+mods/Among us Alt/images/characters/horsegf.png
+mods/Among us Alt/images/characters/horsegf.xml
+mods/Among us Alt/characters/BFBF.json
+mods/Among us Alt/images/characters/BFBFBF.png
+mods/Among us Alt/images/characters/BFBFBF.xml
+mods/Among us Alt/characters/horsegfyay.json
+mods/Among us Alt/characters/BFBFBFBF.json
+mods/Among us Alt/images/characters/BFBFBFBF.png
+mods/Among us Alt/images/characters/BFBFBFBF.xml
+mods/Among us Alt/custom_events/Cam Boom Speed.lua
+mods/Among us Alt/custom_events/Flash_Camera.lua
+mods/Among us Alt/custom_events/0CS-camZoom.lua
+mods/Among us Alt/custom_events/Cinematics.lua
+mods/Among us Alt/custom_events/Cam Zoom Tween.lua
+mods/Among us Alt/custom_events/Cinematics_Little.lua
+mods/Among us Alt/scripts/deathscript.lua
+mods/Among us Alt/images/horse/horse1.png
+mods/Among us Alt/images/horse/wtiis.png
+mods/Among us Alt/images/BG/horse/floor.png
+mods/Among us Alt/images/BG/horse/weed.png
+mods/Among us Alt/images/BG/horse/back.png
+mods/Among us Alt/images/BG/horse/Mountain.png
+mods/Among us Alt/images/BG/horse/sky.png
+mods/Among us Alt/images/BG/horse/bghorse.png
+mods/Among us Alt/images/BG/horse/bghorse.xml
+mods/Among us Alt/images/timeBar.png
+mods/songs/sussus-horsus/Voices.ogg
+mods/songs/sussus-horsus/voices.ogg
+mods/songs/sussus-horsus/Inst.ogg
+mods/songs/sussus-horsus/inst.ogg

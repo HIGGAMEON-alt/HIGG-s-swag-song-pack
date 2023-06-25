@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ding.png">
+<SubTexture name="ding idle0000" x="0" y="0" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0001" x="1120" y="0" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0002" x="1120" y="630" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0003" x="0" y="630" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0004" x="0" y="1260" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0005" x="1120" y="1260" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0006" x="2240" y="0" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0007" x="2240" y="630" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0008" x="2240" y="1260" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+<SubTexture name="ding idle0009" x="0" y="1890" width="1120" height="630" frameX="0" frameY="0" frameWidth="1120" frameHeight="630" />
+</TextureAtlas>

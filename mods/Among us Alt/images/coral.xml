@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coral.png">
+<SubTexture name="coral idle0000" x="0" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral idle0001" x="958" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral idle0002" x="0" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral idle0003" x="958" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral idle0004" x="0" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0000" x="958" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0001" x="1916" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0002" x="1916" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0003" x="1916" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0004" x="0" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0005" x="0" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0006" x="0" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0007" x="0" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0008" x="958" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="coral RkaWkr0009" x="1916" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+</TextureAtlas>

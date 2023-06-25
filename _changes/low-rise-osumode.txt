@@ -1,0 +1,16 @@
+mods/data/low-rise/events.json
+mods/data/low-rise/low-rise-easy.json
+mods/data/low-rise/low-rise-hard.json
+mods/data/low-rise/low-rise.json
+mods/data/low-rise/mod.txt
+mods/Whitty/stages/better.json
+mods/Whitty/stages/better.lua
+mods/Whitty/custom_events/Set Cam Zoom.lua
+mods/Whitty/scripts/charDance.lua
+mods/Whitty/scripts/hideDaMidScroll.lua
+mods/Whitty/scripts/Kade_Engine_Complex_Accuracy.lua
+mods/Whitty/scripts/versionLock.lua
+mods/songs/low-rise/Voices.ogg
+mods/songs/low-rise/voices.ogg
+mods/songs/low-rise/Inst.ogg
+mods/songs/low-rise/inst.ogg

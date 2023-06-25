@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "marlo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "marlo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "marlo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "marlo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "luitch danceEnd",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "luitch dances"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/luitch_back",
+	"position": [
+		20,
+		350
+	],
+	"healthicon": "lou itch",
+	"flip_x": true,
+	"healthbar_colors": [
+		248,
+		200,
+		152
+	],
+	"camera_position": [
+		-250,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

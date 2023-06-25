@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sebastianguit.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="guitar idle0000" x="0" y="0" width="565" height="789" pivotX="-83.8" pivotY="-12.5" frameX="-2" frameY="-10" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0001" x="0" y="0" width="565" height="789" frameX="-2" frameY="-10" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0002" x="565" y="0" width="558" height="793" frameX="-3" frameY="-6" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0003" x="565" y="0" width="558" height="793" frameX="-3" frameY="-6" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0004" x="1123" y="0" width="555" height="798" frameX="-1" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0005" x="1123" y="0" width="555" height="798" frameX="-1" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0006" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0007" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0008" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0009" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0010" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0011" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0012" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0013" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitar idle0014" x="1678" y="0" width="554" height="798" frameX="0" frameY="0" frameWidth="567" frameHeight="799"/>
+	<SubTexture name="guitardown0000" x="2232" y="0" width="603" height="757" pivotX="11" pivotY="2" frameX="-4" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0001" x="2232" y="0" width="603" height="757" frameX="-4" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0002" x="2835" y="0" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0003" x="2835" y="0" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0004" x="3432" y="0" width="599" height="742" frameX="0" frameY="0" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0005" x="0" y="798" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0006" x="0" y="798" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0007" x="0" y="798" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0008" x="0" y="798" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="guitardown0009" x="0" y="798" width="597" height="740" frameX="-2" frameY="-2" frameWidth="607" frameHeight="759"/>
+	<SubTexture name="leftguitar0000" x="597" y="798" width="778" height="795" pivotX="8.8" pivotY="3.3"/>
+	<SubTexture name="leftguitar0001" x="597" y="798" width="778" height="795"/>
+	<SubTexture name="leftguitar0002" x="1375" y="798" width="770" height="792" frameX="-8" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0003" x="1375" y="798" width="770" height="792" frameX="-8" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0004" x="2145" y="798" width="769" height="792" frameX="-9" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0005" x="2145" y="798" width="769" height="792" frameX="-9" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0006" x="2914" y="798" width="767" height="792" frameX="-11" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0007" x="2914" y="798" width="767" height="792" frameX="-11" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0008" x="2914" y="798" width="767" height="792" frameX="-11" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0009" x="2914" y="798" width="767" height="792" frameX="-11" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="leftguitar0010" x="2914" y="798" width="767" height="792" frameX="-11" frameY="-3" frameWidth="778" frameHeight="795"/>
+	<SubTexture name="rightguitar0000" x="0" y="1593" width="565" height="782" pivotX="0.1" pivotY="0"/>
+	<SubTexture name="rightguitar0001" x="0" y="1593" width="565" height="782"/>
+	<SubTexture name="rightguitar0002" x="565" y="1593" width="557" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0003" x="565" y="1593" width="557" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0004" x="1122" y="1593" width="557" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0005" x="1679" y="1593" width="556" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0006" x="1679" y="1593" width="556" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0007" x="1679" y="1593" width="556" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0008" x="1679" y="1593" width="556" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="rightguitar0009" x="1679" y="1593" width="556" height="782" frameX="0" frameY="0" frameWidth="565" frameHeight="782"/>
+	<SubTexture name="upguitar0000" x="2235" y="1593" width="657" height="815" pivotX="83.1" pivotY="34.8"/>
+	<SubTexture name="upguitar0001" x="2235" y="1593" width="657" height="815"/>
+	<SubTexture name="upguitar0002" x="2892" y="1593" width="647" height="807" frameX="-6" frameY="-8" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0003" x="2892" y="1593" width="647" height="807" frameX="-6" frameY="-8" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0004" x="0" y="2408" width="644" height="803" frameX="-9" frameY="-12" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0005" x="0" y="2408" width="644" height="803" frameX="-9" frameY="-12" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0006" x="644" y="2408" width="646" height="803" frameX="-7" frameY="-12" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0007" x="644" y="2408" width="646" height="803" frameX="-7" frameY="-12" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0008" x="644" y="2408" width="646" height="803" frameX="-7" frameY="-12" frameWidth="657" frameHeight="815"/>
+	<SubTexture name="upguitar0009" x="644" y="2408" width="646" height="803" frameX="-7" frameY="-12" frameWidth="657" frameHeight="815"/>
+</TextureAtlas>

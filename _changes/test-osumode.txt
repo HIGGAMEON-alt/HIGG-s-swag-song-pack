@@ -1,0 +1,2 @@
+mods/data/test/DoubleGhostNote.lua
+mods/data/test/test.json

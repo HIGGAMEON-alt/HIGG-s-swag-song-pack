@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mario idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "maro lefte",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-98
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mario right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				198
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mario jamp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				89
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/man from sex",
+	"position": [
+		20,
+		350
+	],
+	"healthicon": "mro",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		208,
+		192
+	],
+	"camera_position": [
+		10,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,33 @@
+mods/data/sebastian-hard/events.json
+mods/marlo/characters/deadsebas2.json
+mods/marlo/images/characters/fucked up in the sebastian.png
+mods/marlo/images/characters/fucked up in the sebastian.xml
+mods/marlo/characters/sebguit.json
+mods/marlo/images/characters/sebastianguit.png
+mods/marlo/images/characters/sebastianguit.xml
+mods/marlo/characters/sebastian.json
+mods/marlo/images/characters/sebastian.png
+mods/marlo/images/characters/sebastian.xml
+mods/data/sebastian-hard/mod.txt
+mods/data/sebastian-hard/script.lua
+mods/data/sebastian-hard/sebastian-hard.json
+mods/marlo/characters/bf pixel art.json
+mods/marlo/characters/deadsebas.json
+mods/marlo/stages/sebastian.json
+mods/marlo/stages/sebastian.lua
+mods/marlo/images/characters/BOYFRIEND-8BIT.png
+mods/marlo/images/characters/BOYFRIEND-8BIT.xml
+mods/marlo/custom_events/guitar.lua
+mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/opponentnotes.lua
+mods/marlo/scripts/playernotes.lua
+mods/marlo/images/zad.png
+mods/marlo/images/zad.xml
+mods/marlo/images/iGrave.png
+mods/marlo/images/sega.png
+mods/marlo/images/genesis smile.png
+mods/marlo/images/cool.png
+mods/marlo/images/sebas ground.png
+mods/marlo/images/fisherpricedontsueme.png
+mods/songs/sebastian-hard/Inst.ogg
+mods/songs/sebastian-hard/inst.ogg

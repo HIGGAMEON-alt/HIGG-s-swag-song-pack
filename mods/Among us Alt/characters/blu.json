@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				281,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blueleft"
+		},
+		{
+			"offsets": [
+				10,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bluedown"
+		},
+		{
+			"offsets": [
+				136,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blueup"
+		},
+		{
+			"offsets": [
+				-1,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blueright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bluedle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				60
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss blueleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss blueright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				26
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss bluedown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				89
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss blueup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blue_asses",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "blue-app",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		400,
+		-70
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

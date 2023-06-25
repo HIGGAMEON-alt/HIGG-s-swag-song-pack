@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blue_asses.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue dead confr0000" x="0" y="0" width="539" height="456"/>
+	<SubTexture name="blue dead confr0001" x="539" y="0" width="539" height="456"/>
+	<SubTexture name="blue dead loop0000" x="1078" y="0" width="436" height="451"/>
+	<SubTexture name="blue dies0000" x="1514" y="0" width="483" height="527" frameX="-198" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0001" x="1514" y="0" width="483" height="527" frameX="-198" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0002" x="1514" y="0" width="483" height="527" frameX="-198" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0003" x="1997" y="0" width="486" height="532" frameX="-198" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0004" x="1997" y="0" width="486" height="532" frameX="-198" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0005" x="2483" y="0" width="488" height="527" frameX="-195" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0006" x="2971" y="0" width="492" height="527" frameX="-184" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0007" x="3463" y="0" width="487" height="527" frameX="-196" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0008" x="3950" y="0" width="491" height="527" frameX="-188" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0009" x="2483" y="0" width="488" height="527" frameX="-195" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0010" x="4441" y="0" width="492" height="527" frameX="-184" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0011" x="3463" y="0" width="487" height="527" frameX="-196" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0012" x="3950" y="0" width="491" height="527" frameX="-188" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0013" x="2483" y="0" width="488" height="527" frameX="-195" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0014" x="4441" y="0" width="492" height="527" frameX="-184" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0015" x="4933" y="0" width="468" height="521" frameX="-196" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0016" x="5401" y="0" width="453" height="501" frameX="-152" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0017" x="5854" y="0" width="486" height="484" frameX="-127" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0018" x="6340" y="0" width="515" height="490" frameX="-87" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0019" x="6855" y="0" width="592" height="519" frameX="-21" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0020" x="7447" y="0" width="599" height="525" frameX="-6" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0021" x="0" y="532" width="610" height="517" frameX="-3" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0022" x="610" y="532" width="602" height="513" frameX="0" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0023" x="1212" y="532" width="612" height="512" frameX="-1" frameY="0" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0024" x="1824" y="532" width="672" height="357" frameX="-210" frameY="-100" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0025" x="2496" y="532" width="424" height="351" frameX="-200" frameY="-112" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0026" x="2920" y="532" width="424" height="318" frameX="-200" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0027" x="3344" y="532" width="434" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0028" x="3778" y="532" width="436" height="318" frameX="-202" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0029" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0030" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0031" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0032" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0033" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0034" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0035" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0036" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0037" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0038" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0039" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0040" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0041" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0042" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0043" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0044" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0045" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0046" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0047" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0048" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0049" x="4214" y="532" width="436" height="318" frameX="-201" frameY="-145" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0050" x="4650" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0051" x="4650" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0052" x="5086" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0053" x="5086" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0054" x="5522" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0055" x="5522" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0056" x="5958" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0057" x="5958" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0058" x="6394" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0059" x="6394" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0060" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0061" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0062" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0063" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0064" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0065" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0066" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0067" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0068" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0069" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0070" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0071" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0072" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0073" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0074" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0075" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0076" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0077" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0078" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="blue dies0079" x="6830" y="532" width="436" height="451" frameX="-201" frameY="-12" frameWidth="882" frameHeight="532"/>
+	<SubTexture name="bluedle0000" x="7266" y="532" width="486" height="524" frameX="0" frameY="-16" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0001" x="7266" y="532" width="486" height="524" frameX="0" frameY="-16" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0002" x="0" y="1056" width="491" height="525" frameX="0" frameY="-5" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0003" x="0" y="1056" width="491" height="525" frameX="0" frameY="-5" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0004" x="491" y="1056" width="490" height="526" frameX="0" frameY="-1" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0005" x="491" y="1056" width="490" height="526" frameX="0" frameY="-1" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0006" x="981" y="1056" width="485" height="526" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0007" x="981" y="1056" width="485" height="526" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0008" x="1466" y="1056" width="483" height="527" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0009" x="1466" y="1056" width="483" height="527" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0010" x="1466" y="1056" width="483" height="527" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0011" x="1466" y="1056" width="483" height="527" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0012" x="1466" y="1056" width="483" height="527" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedle0013" x="1466" y="1056" width="483" height="527" frameX="0" frameY="0" frameWidth="491" frameHeight="540"/>
+	<SubTexture name="bluedown0000" x="1949" y="1056" width="489" height="495" frameX="0" frameY="-10" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0001" x="2438" y="1056" width="489" height="495" frameX="0" frameY="-10" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0002" x="2927" y="1056" width="492" height="509"/>
+	<SubTexture name="bluedown0003" x="3419" y="1056" width="492" height="509"/>
+	<SubTexture name="bluedown0004" x="3911" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0005" x="4403" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0006" x="3911" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0007" x="4403" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0008" x="3911" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0009" x="4403" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0010" x="3911" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0011" x="4403" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0012" x="3911" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="bluedown0013" x="4403" y="1056" width="492" height="505" frameX="0" frameY="-4" frameWidth="492" frameHeight="509"/>
+	<SubTexture name="blueleft0000" x="4895" y="1056" width="619" height="492" frameX="0" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0001" x="5514" y="1056" width="619" height="492" frameX="0" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0002" x="6133" y="1056" width="609" height="492" frameX="-19" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0003" x="6742" y="1056" width="609" height="492" frameX="-19" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0004" x="7351" y="1056" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0005" x="0" y="1583" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0006" x="7351" y="1056" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0007" x="0" y="1583" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0008" x="7351" y="1056" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0009" x="0" y="1583" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0010" x="7351" y="1056" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0011" x="0" y="1583" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0012" x="7351" y="1056" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueleft0013" x="0" y="1583" width="609" height="492" frameX="-18" frameY="0" frameWidth="628" frameHeight="492"/>
+	<SubTexture name="blueright0000" x="609" y="1583" width="551" height="463" frameX="-11" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0001" x="609" y="1583" width="551" height="463" frameX="-11" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0002" x="1160" y="1583" width="552" height="463" frameX="0" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0003" x="1160" y="1583" width="552" height="463" frameX="0" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0004" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0005" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0006" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0007" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0008" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0009" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueright0010" x="1712" y="1583" width="554" height="463" frameX="-1" frameY="0" frameWidth="562" frameHeight="463"/>
+	<SubTexture name="blueup0000" x="2266" y="1583" width="549" height="481" frameX="0" frameY="0" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0001" x="2815" y="1583" width="549" height="481" frameX="0" frameY="0" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0002" x="3364" y="1583" width="551" height="491" frameX="-1" frameY="-16" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0003" x="3915" y="1583" width="551" height="491" frameX="-1" frameY="-16" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0004" x="4466" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0005" x="5015" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0006" x="4466" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0007" x="5015" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0008" x="4466" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0009" x="5015" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0010" x="4466" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0011" x="5015" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0012" x="4466" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="blueup0013" x="5015" y="1583" width="549" height="492" frameX="-1" frameY="-10" frameWidth="552" frameHeight="507"/>
+	<SubTexture name="miss bluedown 0000" x="5564" y="1583" width="492" height="503" frameX="-1" frameY="-68" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0001" x="6056" y="1583" width="504" height="551" frameX="-3" frameY="0" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0002" x="6056" y="1583" width="504" height="551" frameX="-3" frameY="0" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0003" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0004" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0005" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0006" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0007" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0008" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0009" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0010" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0011" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0012" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0013" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0014" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0015" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0016" x="6560" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0017" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss bluedown 0018" x="7064" y="1583" width="504" height="542" frameX="0" frameY="-8" frameWidth="507" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0000" x="7568" y="1583" width="588" height="483" frameX="0" frameY="-85" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0001" x="0" y="2134" width="588" height="571" frameX="-18" frameY="0" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0002" x="0" y="2134" width="588" height="571" frameX="-18" frameY="0" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0003" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0004" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0005" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0006" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0007" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0008" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0009" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0010" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0011" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0012" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0013" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0014" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0015" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0016" x="588" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0017" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueleft 0018" x="1175" y="2134" width="587" height="565" frameX="-15" frameY="-6" frameWidth="606" frameHeight="571"/>
+	<SubTexture name="miss blueright0000" x="1762" y="2134" width="537" height="463" frameX="-20" frameY="-30" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0001" x="2299" y="2134" width="532" height="493" frameX="0" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0002" x="2299" y="2134" width="532" height="493" frameX="0" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0003" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0004" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0005" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0006" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0007" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0008" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0009" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0010" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0011" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0012" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0013" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0014" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0015" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0016" x="2831" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0017" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueright0018" x="3367" y="2134" width="536" height="493" frameX="-5" frameY="0" frameWidth="557" frameHeight="493"/>
+	<SubTexture name="miss blueup 0000" x="3903" y="2134" width="549" height="481" frameX="0" frameY="-70" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0001" x="4452" y="2134" width="549" height="557" frameX="-1" frameY="-16" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0002" x="4452" y="2134" width="549" height="557" frameX="-1" frameY="-16" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0003" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0004" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0005" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0006" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0007" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0008" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0009" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0010" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0011" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0012" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0013" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0014" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0015" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0016" x="5001" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0017" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+	<SubTexture name="miss blueup 0018" x="5550" y="2134" width="549" height="572" frameX="-1" frameY="0" frameWidth="550" frameHeight="573"/>
+</TextureAtlas>

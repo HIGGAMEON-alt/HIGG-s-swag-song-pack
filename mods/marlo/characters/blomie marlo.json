@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "marlo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "marlo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "marlo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "marlo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "marlo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				204
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "die",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-31
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "marlo start",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/blomer marlo",
+	"position": [
+		20,
+		350
+	],
+	"healthicon": "mro",
+	"flip_x": true,
+	"healthbar_colors": [
+		248,
+		208,
+		192
+	],
+	"camera_position": [
+		-260,
+		-880
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "G idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "G up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "G right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "G left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "G down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/grape_imp",
+	"position": [
+		30,
+		290
+	],
+	"healthicon": "123",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-60,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,12 @@
+mods/data/nyaw/events.json
+mods/data/nyaw/mod.txt
+mods/data/nyaw/nyaw-kapi.json
+mods/Kapi/stages/kapi.json
+mods/Kapi/stages/kapi.lua
+mods/Kapi/custom_events/Change Splashes.lua
+mods/Kapi/scripts/kapiGameOver.lua
+mods/Kapi/scripts/playerSpecificNotes.lua
+mods/songs/nyaw/Voices.ogg
+mods/songs/nyaw/voices.ogg
+mods/songs/nyaw/Inst.ogg
+mods/songs/nyaw/inst.ogg

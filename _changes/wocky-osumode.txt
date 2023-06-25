@@ -1,0 +1,10 @@
+mods/data/wocky/mod.txt
+mods/data/wocky/wocky-kapi.json
+mods/Kapi/stages/kapi.json
+mods/Kapi/stages/kapi.lua
+mods/Kapi/scripts/kapiGameOver.lua
+mods/Kapi/scripts/playerSpecificNotes.lua
+mods/songs/wocky/Voices.ogg
+mods/songs/wocky/voices.ogg
+mods/songs/wocky/Inst.ogg
+mods/songs/wocky/inst.ogg

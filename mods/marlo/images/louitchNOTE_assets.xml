@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marloNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowLEFT0000" x="8" y="8" width="128" height="128"/>
+	<SubTexture name="arrowDOWN0000" x="144" y="8" width="128" height="128"/>
+	<SubTexture name="arrowRIGHT0000" x="416" y="8" width="128" height="128"/>
+	<SubTexture name="arrowUP0000" x="280" y="8" width="128" height="128"/>
+	<SubTexture name="A press0000" x="8" y="280" width="128" height="128"/> 
+	<SubTexture name="B press0000" x="144" y="280" width="128" height="128"/>
+	<SubTexture name="C press0000" x="280" y="280" width="128" height="128"/>
+	<SubTexture name="D press0000" x="416" y="280" width="128" height="128"/>
+	<SubTexture name="B tail0000" x="56" y="744" width="48" height="48"/>
+	<SubTexture name="B hold0000" x="56" y="696" width="48" height="48"/>
+	<SubTexture name="B0000" x="144" y="144" width="128" height="128"/>
+	<SubTexture name="B confirm0000" x="144" y="416" width="128" height="128"/>
+	<SubTexture name="B confirm0001" x="144" y="552" width="128" height="128"/>
+	<SubTexture name="B confirm0002" x="144" y="552" width="128" height="128"/>
+	<SubTexture name="B confirm0003" x="144" y="552" width="128" height="128"/>
+	<SubTexture name="C tail0000" x="112" y="744" width="48" height="48"/>
+	<SubTexture name="C hold0000" x="112" y="696" width="48" height="48"/>
+	<SubTexture name="C0000" x="280" y="144" width="128" height="128"/>
+	<SubTexture name="A confirm0000" x="8" y="416" width="128" height="128"/>
+	<SubTexture name="A confirm0001" x="8" y="552" width="128" height="128"/>
+	<SubTexture name="A confirm0002" x="8" y="552" width="128" height="128"/>
+	<SubTexture name="A confirm0003" x="8" y="552" width="128" height="128"/>
+	<SubTexture name="pruple end hold0000" x="0" y="744" width="48" height="96"/>
+	<SubTexture name="A hold0000" x="0" y="696" width="48" height="48"/>
+	<SubTexture name="A0000" x="8" y="144" width="128" height="128"/>
+	<SubTexture name="D tail0000" x="168" y="744" width="48" height="48"/>
+	<SubTexture name="D hold0000" x="168" y="696" width="48" height="48"/>
+	<SubTexture name="D0000" x="416" y="144" width="128" height="128"/>
+	<SubTexture name="D confirm0000" x="416" y="416" width="128" height="128"/>
+	<SubTexture name="D confirm0001" x="416" y="552" width="128" height="128"/>
+	<SubTexture name="D confirm0002" x="416" y="552" width="128" height="128"/>
+	<SubTexture name="D confirm0003" x="416" y="552" width="128" height="128"/>
+	<SubTexture name="C confirm0000" x="280" y="416" width="128" height="128"/>
+	<SubTexture name="C confirm0001" x="280" y="552" width="128" height="128"/>
+	<SubTexture name="C confirm0002" x="280" y="552" width="128" height="128"/>
+	<SubTexture name="C confirm0003" x="280" y="552" width="128" height="128"/>
+</TextureAtlas>
+

@@ -12,30 +12,6 @@ mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
-mods/VS Impostor V4/images/sick.png
-mods/VS Impostor V4/images/good.png
-mods/VS Impostor V4/images/bad.png
-mods/VS Impostor V4/images/shit.png
-mods/VS Impostor V4/images/noteSplashes.png
-mods/VS Impostor V4/images/noteSplashes.xml
-mods/VS Impostor V4/images/characters/bf_legs.png
-mods/VS Impostor V4/images/characters/bf_legs.xml
-mods/VS Impostor V4/images/characters/blacklegs.png
-mods/VS Impostor V4/images/characters/blacklegs.xml
-mods/VS Impostor V4/images/characters/Reginald_Assets.png
-mods/VS Impostor V4/images/characters/Reginald_Assets.xml
-mods/VS Impostor V4/images/characters/Ellie_Assets.png
-mods/VS Impostor V4/images/characters/Ellie_Assets.xml
-mods/VS Impostor V4/images/characters/madgus.png
-mods/VS Impostor V4/images/characters/madgus.xml
-mods/VS Impostor V4/images/characters/biddle.png
-mods/VS Impostor V4/images/characters/biddle.xml
-mods/VS Impostor V4/images/characters/blackdk.png
-mods/VS Impostor V4/images/characters/blackdk.xml
-mods/VS Impostor V4/characters/dad.json
-mods/VS Impostor V4/characters/black.json
-mods/VS Impostor V4/images/characters/black.png
-mods/VS Impostor V4/images/characters/black.xml
 mods/songs/esculent/Voices.ogg
 mods/songs/esculent/voices.ogg
 mods/songs/esculent/Inst.ogg

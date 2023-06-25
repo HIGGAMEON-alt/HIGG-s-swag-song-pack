@@ -1,0 +1,8 @@
+This Event is for the OCS mod
+
+<Value1 : zoom Out & In>
+0.9 = defult camera zoom
+
+<Value2 : term>
+Zoomed for a set time
+If you leave it blank, it'll just work.

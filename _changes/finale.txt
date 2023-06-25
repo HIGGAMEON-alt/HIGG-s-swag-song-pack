@@ -28,27 +28,6 @@ mods/VS Impostor V4/images/finale/fore.png
 mods/VS Impostor V4/images/finale/dark.png
 mods/VS Impostor V4/images/finale/light.png
 mods/VS Impostor V4/images/finale/light.xml
-mods/VS Impostor V4/images/sick.png
-mods/VS Impostor V4/images/good.png
-mods/VS Impostor V4/images/bad.png
-mods/VS Impostor V4/images/shit.png
-mods/VS Impostor V4/images/noteSplashes.png
-mods/VS Impostor V4/images/noteSplashes.xml
-mods/VS Impostor V4/images/characters/bf_legs.png
-mods/VS Impostor V4/images/characters/bf_legs.xml
-mods/VS Impostor V4/images/characters/blacklegs.png
-mods/VS Impostor V4/images/characters/blacklegs.xml
-mods/VS Impostor V4/images/characters/Reginald_Assets.png
-mods/VS Impostor V4/images/characters/Reginald_Assets.xml
-mods/VS Impostor V4/images/characters/Ellie_Assets.png
-mods/VS Impostor V4/images/characters/Ellie_Assets.xml
-mods/VS Impostor V4/images/characters/madgus.png
-mods/VS Impostor V4/images/characters/madgus.xml
-mods/VS Impostor V4/images/characters/biddle.png
-mods/VS Impostor V4/images/characters/biddle.xml
-mods/VS Impostor V4/images/characters/blackdk.png
-mods/VS Impostor V4/images/characters/blackdk.xml
-mods/VS Impostor V4/characters/dad.json
 mods/songs/finale/Voices.ogg
 mods/songs/finale/voices.ogg
 mods/songs/finale/Inst.ogg

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peopler.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idlepeopler0000" x="0" y="0" width="230" height="183" pivotX="11" pivotY="0" frameX="0" frameY="-25" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0001" x="0" y="0" width="230" height="183" frameX="0" frameY="-25" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0002" x="230" y="0" width="224" height="187" frameX="-3" frameY="-21" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0003" x="230" y="0" width="224" height="187" frameX="-3" frameY="-21" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0004" x="454" y="0" width="216" height="194" frameX="-7" frameY="-14" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0005" x="454" y="0" width="216" height="194" frameX="-7" frameY="-14" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0006" x="670" y="0" width="212" height="201" frameX="-9" frameY="-7" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0007" x="670" y="0" width="212" height="201" frameX="-9" frameY="-7" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0008" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0009" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0010" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0011" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0012" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0013" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="idlepeopler0014" x="0" y="201" width="209" height="207" frameX="-11" frameY="0" frameWidth="230" frameHeight="208"/>
+	<SubTexture name="peoples down0000" x="209" y="201" width="239" height="159" pivotX="15" pivotY="-41" frameX="0" frameY="-7" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0001" x="209" y="201" width="239" height="159" frameX="0" frameY="-7" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0002" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0003" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0004" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0005" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0006" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0007" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0008" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples down0009" x="448" y="201" width="231" height="167" frameX="-4" frameY="0" frameWidth="239" frameHeight="167"/>
+	<SubTexture name="peoples left0000" x="679" y="201" width="224" height="207" pivotX="15.7" pivotY="0"/>
+	<SubTexture name="peoples left0001" x="679" y="201" width="224" height="207"/>
+	<SubTexture name="peoples left0002" x="0" y="408" width="220" height="207" frameX="-4" frameY="0" frameWidth="224" frameHeight="207"/>
+	<SubTexture name="peoples right0000" x="220" y="408" width="232" height="207" pivotX="-0.1" pivotY="0"/>
+	<SubTexture name="peoples right0001" x="220" y="408" width="232" height="207"/>
+	<SubTexture name="peoples right0002" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0003" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0004" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0005" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0006" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0007" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0008" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples right0009" x="452" y="408" width="227" height="207" frameX="0" frameY="0" frameWidth="232" frameHeight="207"/>
+	<SubTexture name="peoples up0000" x="679" y="408" width="211" height="274" pivotX="-0.05" pivotY="-37"/>
+	<SubTexture name="peoples up0001" x="679" y="408" width="211" height="274"/>
+	<SubTexture name="peoples up0002" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0003" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0004" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0005" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0006" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0007" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0008" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+	<SubTexture name="peoples up0009" x="0" y="682" width="211" height="263" frameX="0" frameY="-11" frameWidth="211" frameHeight="274"/>
+</TextureAtlas>

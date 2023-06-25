@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "black_vent vent"
+		},
+		{
+			"offsets": [
+				-8,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "vent",
+			"indices": [],
+			"name": "black_vent knock"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "pasha  ",
+			"fps": 15,
+			"name": "black_vent black vent Pasha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-31
+			],
+			"anim": "appear",
+			"fps": 13,
+			"name": "black_vent Black appeared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-32
+			],
+			"anim": "pasha",
+			"fps": 13,
+			"name": "black_vent Pepper Crispy Chicken",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-32
+			],
+			"anim": "dfdfdf",
+			"fps": 12,
+			"name": "black_vent this is electricity",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/black_vent",
+	"position": [
+		-860,
+		360
+	],
+	"healthicon": "123",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		90,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}

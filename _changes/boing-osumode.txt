@@ -1,0 +1,4 @@
+mods/data/boing/boing-hard.json
+mods/stages/stage.json
+mods/songs/boing/Inst.ogg
+mods/songs/boing/inst.ogg

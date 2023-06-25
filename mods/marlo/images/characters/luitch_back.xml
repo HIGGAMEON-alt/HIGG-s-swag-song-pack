@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luitch_back.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luitch danceEnd0000" x="0" y="0" width="312" height="371" pivotX="10.95" pivotY="53.65" frameX="0" frameY="-80" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0001" x="312" y="0" width="309" height="379" frameX="-1" frameY="-72" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0002" x="621" y="0" width="278" height="451" frameX="-10" frameY="0" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0003" x="621" y="0" width="278" height="451" frameX="-10" frameY="0" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0004" x="899" y="0" width="280" height="437" frameX="-8" frameY="-14" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0005" x="899" y="0" width="280" height="437" frameX="-8" frameY="-14" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0006" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0007" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0008" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0009" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0010" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0011" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0012" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0013" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch danceEnd0014" x="1179" y="0" width="278" height="435" frameX="-10" frameY="-16" frameWidth="312" frameHeight="451"/>
+	<SubTexture name="luitch dances0000" x="1457" y="0" width="321" height="446" pivotX="14" pivotY="48.15"/>
+	<SubTexture name="luitch dances0001" x="0" y="451" width="321" height="440" frameX="0" frameY="-6" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0002" x="321" y="451" width="321" height="440" frameX="0" frameY="-6" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0003" x="642" y="451" width="321" height="357" frameX="0" frameY="-89" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0004" x="963" y="451" width="321" height="357" frameX="0" frameY="-89" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0005" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0006" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0007" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0008" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0009" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0010" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0011" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0012" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0013" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="luitch dances0014" x="1284" y="451" width="321" height="362" frameX="0" frameY="-84" frameWidth="321" frameHeight="446"/>
+	<SubTexture name="marlo down0000" x="1605" y="451" width="304" height="354" pivotX="36" pivotY="-7.35" frameX="0" frameY="-9" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0001" x="1605" y="451" width="304" height="354" frameX="0" frameY="-9" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0002" x="0" y="891" width="286" height="360" frameX="-10" frameY="0" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0003" x="0" y="891" width="286" height="360" frameX="-10" frameY="0" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0004" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0005" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0006" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0007" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0008" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0009" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo down0010" x="286" y="891" width="281" height="359" frameX="-12" frameY="-1" frameWidth="304" frameHeight="363"/>
+	<SubTexture name="marlo left0000" x="567" y="891" width="319" height="442" pivotX="48.8" pivotY="44.05" frameX="0" frameY="0" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0001" x="567" y="891" width="319" height="442" frameX="0" frameY="0" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0002" x="886" y="891" width="315" height="437" frameX="-14" frameY="-5" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0003" x="886" y="891" width="315" height="437" frameX="-14" frameY="-5" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0004" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0005" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0006" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0007" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0008" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0009" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0010" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0011" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0012" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0013" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo left0014" x="1201" y="891" width="314" height="435" frameX="-17" frameY="-7" frameWidth="331" frameHeight="442"/>
+	<SubTexture name="marlo right0000" x="1515" y="891" width="300" height="434" pivotX="-3.25" pivotY="38.25" frameX="-9" frameY="-2" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0001" x="1515" y="891" width="300" height="434" frameX="-9" frameY="-2" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0002" x="0" y="1333" width="294" height="436" frameX="-4" frameY="0" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0003" x="0" y="1333" width="294" height="436" frameX="-4" frameY="0" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0004" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0005" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0006" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0007" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0008" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0009" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo right0010" x="294" y="1333" width="295" height="435" frameX="0" frameY="-1" frameWidth="309" frameHeight="436"/>
+	<SubTexture name="marlo up0000" x="589" y="1333" width="299" height="467" pivotX="31.8" pivotY="99" frameX="-24" frameY="-16" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0001" x="888" y="1333" width="323" height="401" frameX="-10" frameY="-4" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0002" x="1211" y="1333" width="317" height="442" frameX="-16" frameY="-4" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0003" x="1528" y="1333" width="334" height="396" frameX="-5" frameY="0" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0004" x="0" y="1800" width="328" height="435" frameX="-11" frameY="-2" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0005" x="1528" y="1333" width="334" height="396" frameX="-5" frameY="-2" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0006" x="328" y="1800" width="332" height="433" frameX="-9" frameY="-6" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0007" x="660" y="1800" width="342" height="393" frameX="-1" frameY="-14" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0008" x="1002" y="1800" width="337" height="432" frameX="-7" frameY="-57" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0009" x="1339" y="1800" width="345" height="390" frameX="0" frameY="-113" frameWidth="345" frameHeight="561"/>
+	<SubTexture name="marlo up0010" x="1684" y="1800" width="328" height="435" frameX="-11" frameY="-126" frameWidth="345" frameHeight="561"/>
+</TextureAtlas>

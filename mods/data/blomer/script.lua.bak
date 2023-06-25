@@ -1,0 +1,119 @@
+local notePositions = {}
+
+function onCreate()
+    precacheImage('blomer/blomer')
+    setPropertyFromClass('GameOverSubstate', 'characterName', 'blomie marlo'); --Character json file for the death animation
+    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'hedie'); --put in mods/sounds/
+    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'message'); --put in mods/music/
+    precacheImage('white square')
+	makeLuaSprite('blomertext','blomer/blomer', 447 , 750)
+	setScrollFactor('blomertext',0,0)
+    setObjectCamera('blomertext','hud')
+	setProperty('blomertext.alpha', 1)
+	scaleObject("blomertext", 1.5 , 1.5)
+	setProperty('blomertext.antialiasing', false)
+	makeLuaSprite('whitesquare','white square',-200,-500)
+	setObjectOrder('whitesquare', 'gfGroup')
+	makeAnimatedLuaSprite('itchy', 'blomer/louitchspin', -314, -900);
+    addAnimationByPrefix('itchy', 'blomer/louitchspin', 'spin', 24, true);
+    objectPlayAnimation('itchy','spin',true)
+	makeAnimatedLuaSprite('fire', 'blomer/blomperfire', -200, 800);
+    addAnimationByPrefix('fire', 'blomer/blomperfire', 'blomrfire', 24, true);
+    objectPlayAnimation('fire','blomrfire',true)
+	scaleObject("fire", 4 ,4)
+	setObjectOrder('fire', 'gfGroup')
+	makeLuaSprite('bartop','',-200,-500)
+	makeGraphic('bartop',2000,300,'000000')
+	addLuaSprite('bartop',false)
+    setScrollFactor('bartop',0,0)
+    setObjectCamera('bartop','hud')
+	setProperty('bartop.angle', 715, 0)
+	
+	addLuaSprite('blomertext',false)
+	makeLuaSprite('barbot','',-200, 770)
+	makeGraphic('barbot',2000,300,'000000')
+	addLuaSprite('barbot',false)
+    setScrollFactor('barbot',0,0)
+    setObjectCamera('barbot','hud')
+	setProperty('barbot.angle', 715, 0)
+	setScrollFactor('fire',0,0)
+    setObjectCamera('fire','hud')
+	setProperty('fire.antialiasing',false)
+	addLuaSprite('fire',true)
+	addLuaSprite('whitesquare',true)
+	setScrollFactor('whitesquare',0,0)
+    setObjectCamera('whitesquare','hud')
+	setProperty('whitesquare.alpha', 0)
+	addLuaSprite('itchy',true)
+end
+
+
+function onSongStart()
+    if not middlescroll then
+    noteTweenX('bfTween1', 4, 90, 1.5, 'sineOut');
+    noteTweenX('bfTween2', 5, 205, 1.5, 'sineOut');
+    noteTweenX('bfTween3', 6, 315, 1.5, 'sineOut');
+    noteTweenX('bfTween4', 7, 425, 1.5, 'sineOut');
+    noteTweenX('dadTween1', 0, 730, 1.5, 'sineOut');
+    noteTweenX('dadTween2', 1, 845, 1.5, 'sineOut');
+    noteTweenX('dadTween3', 2, 955, 1.5, 'sineOut');
+    noteTweenX('dadTween4', 3, 1065, 1.5, 'sineOut');
+end
+    doTweenY('barbotween', 'barbot', 620, 1, 'bounceOut')
+	doTweenY('bartopween', 'bartop', -215, 1, 'bounceOut')
+end
+
+function onStepHit()
+    if curStep == 256 then
+        doTweenY('barbotween', 'barbot', 800, 3, 'backOut')
+	    doTweenY('bartopween', 'bartop', -500, 3, 'backOut')
+		setProperty('whitesquare.alpha', 0.9)
+        doTweenAlpha('flash!', 'whitesquare', 0, 1, 'linear')	
+	end    
+		if curStep == 1024 then
+		setProperty('whitesquare.alpha', 0.9)
+        doTweenAlpha('flash!', 'whitesquare', 0, 1, 'linear')	
+	end
+	    if curStep == 1280 then
+        doTweenY('hefalldown', 'itchy', 310, 4.7, 'sineOut')
+        doTweenY('barbotween', 'barbot', 620, 1, 'bounceOut')
+	    doTweenY('bartopween', 'bartop', -215, 1, 'bounceOut')
+
+    end
+	    if curStep == 1344 then
+        setProperty('itchy.alpha', 0)
+
+    end
+	    if curStep == 1408 then
+        setProperty('whitesquare.alpha', 0.9)
+        doTweenAlpha('flash!', 'whitesquare', 0, 1, 'linear')	
+		
+	end
+	    if curStep == 1344 then
+		doTweenZoom('camgamezoom', 'camGame', 1.6, 4, 'sineOut')
+	end
+		if curStep == 1397 then
+		doTweenY('penis', 'blomertext', 480, 0.7, 'backOut')
+	end
+        if curStep == 1403 then
+				doTweenAngle('turnaround', 'blomertext', 680, 1.4, 'cubeOut')
+	    end
+	    if curStep == 1405 then
+		doTweenY('penis', 'blomertext', 750, 0.7, 'backOut')
+		doTweenX('yeah', 'blomertext.scale', 0, 1, 'backOut')
+        doTweenY('yeahY', 'blomertext.scale', 0, 1, 'backOut')
+
+	end
+	    if curStep == 1792 then
+		doTweenY('barbotween2', 'barbot', 800, 2, 'backOut')
+	    doTweenY('bartopween2', 'bartop', -500, 2, 'backOut')
+	end
+	if curStep == 1792 then
+		doTweenY('havearottenday', 'fire', 550, 4, 'backOut')
+		setProperty('whitesquare.alpha', 0.9)
+        doTweenAlpha('flash!', 'whitesquare', 0, 1, 'linear')	
+end
+	if curStep == 2304 then
+		doTweenY('mammasmias', 'fire', 1000, 19, 'backOut')
+end
+end

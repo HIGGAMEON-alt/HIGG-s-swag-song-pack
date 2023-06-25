@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pale yellow.png">
+<SubTexture name="pale yellow idle0000" x="958" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow idle0001" x="0" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow idle0002" x="0" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow idle0003" x="958" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow idle0004" x="0" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow dkfofhrjerl0000" x="1916" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow dkfofhrjerl0001" x="958" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow dkfofhrjerl0002" x="1916" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow dkfofhrjerl0003" x="1916" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="pale yellow dkfofhrjerl0004" x="1916" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+</TextureAtlas>

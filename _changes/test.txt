@@ -1,0 +1,5 @@
+mods/data/test/DoubleGhostNote.lua
+mods/data/test/test.json
+mods/characters/bf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml

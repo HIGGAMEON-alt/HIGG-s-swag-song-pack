@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-47,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				79,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				45,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic up"
+		},
+		{
+			"offsets": [
+				185,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "spindash"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-199
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonjid DEAD!!! FR!!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				-199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "penisloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fucked up in the sebastian",
+	"position": [
+		-60,
+		100
+	],
+	"healthicon": "sebas",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		72,
+		216
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

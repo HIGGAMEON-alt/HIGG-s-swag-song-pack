@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="무제-1.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ohmygod0000" x="0" y="0" width="312" height="420"/>
+	<SubTexture name="Ohmygod0001" x="0" y="0" width="312" height="420"/>
+	<SubTexture name="Ohmygod0002" x="312" y="0" width="312" height="420"/>
+	<SubTexture name="Ohmygod0003" x="312" y="0" width="312" height="420"/>
+	<SubTexture name="blablabla0000" x="624" y="0" width="331" height="436" frameX="-17" frameY="0" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0001" x="624" y="0" width="331" height="436" frameX="-17" frameY="0" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0002" x="955" y="0" width="337" height="419" frameX="-17" frameY="-19" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0003" x="955" y="0" width="337" height="419" frameX="-17" frameY="-19" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0004" x="1292" y="0" width="349" height="425" frameX="0" frameY="-10" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0005" x="1292" y="0" width="349" height="425" frameX="0" frameY="-10" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0006" x="1641" y="0" width="346" height="416" frameX="-5" frameY="-20" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blablabla0007" x="1641" y="0" width="346" height="416" frameX="-5" frameY="-20" frameWidth="354" frameHeight="438"/>
+	<SubTexture name="blalal0000" x="1987" y="0" width="558" height="365" frameX="-8" frameY="0" frameWidth="566" frameHeight="365"/>
+	<SubTexture name="blalal0001" x="2545" y="0" width="545" height="358" frameX="0" frameY="-7" frameWidth="566" frameHeight="365"/>
+	<SubTexture name="isitforme0000" x="3090" y="0" width="444" height="417" frameX="-11" frameY="-6" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0001" x="3090" y="0" width="444" height="417" frameX="-11" frameY="-6" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0002" x="3534" y="0" width="437" height="411" frameX="-17" frameY="-10" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0003" x="3534" y="0" width="437" height="411" frameX="-17" frameY="-10" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0004" x="0" y="436" width="454" height="419" frameX="0" frameY="0" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0005" x="0" y="436" width="454" height="419" frameX="0" frameY="0" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0006" x="454" y="436" width="450" height="408" frameX="-5" frameY="-11" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="isitforme0007" x="904" y="436" width="450" height="408" frameX="-5" frameY="-11" frameWidth="455" frameHeight="423"/>
+	<SubTexture name="plapla0000" x="1354" y="436" width="329" height="416" frameX="-11" frameY="-6" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0001" x="1354" y="436" width="329" height="416" frameX="-11" frameY="-6" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0002" x="1683" y="436" width="328" height="415" frameX="-16" frameY="-9" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0003" x="1683" y="436" width="328" height="415" frameX="-16" frameY="-9" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0004" x="2011" y="436" width="346" height="422" frameX="0" frameY="0" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0005" x="2357" y="436" width="346" height="422" frameX="0" frameY="0" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0006" x="2703" y="436" width="333" height="411" frameX="-5" frameY="-11" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="plapla0007" x="3036" y="436" width="333" height="411" frameX="-5" frameY="-11" frameWidth="346" frameHeight="424"/>
+	<SubTexture name="whatthefuck0000" x="3369" y="436" width="308" height="420" frameX="-16" frameY="0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0001" x="3369" y="436" width="308" height="420" frameX="-16" frameY="0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0002" x="3677" y="436" width="334" height="418" frameX="-1" frameY="-2" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0003" x="3677" y="436" width="334" height="418" frameX="-1" frameY="-2" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0004" x="0" y="858" width="327" height="418" frameX="0" frameY="-2" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0005" x="0" y="858" width="327" height="418" frameX="0" frameY="-2" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0006" x="327" y="858" width="325" height="418" frameX="0" frameY="-2" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="whatthefuck0007" x="327" y="858" width="325" height="418" frameX="0" frameY="-2" frameWidth="335" frameHeight="420"/>
+</TextureAtlas>

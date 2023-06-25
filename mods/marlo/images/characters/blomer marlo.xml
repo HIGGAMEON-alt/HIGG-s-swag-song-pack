@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blomer marlo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="die0000" x="0" y="0" width="320" height="480" pivotX="0" pivotY="134.85" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0001" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0002" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0003" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0004" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0005" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0006" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0007" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0008" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0009" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0010" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0011" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0012" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0013" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0014" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0015" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0016" x="0" y="0" width="320" height="480" frameX="0" frameY="-134" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0017" x="320" y="0" width="320" height="480" frameX="0" frameY="-57" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0018" x="320" y="0" width="320" height="480" frameX="0" frameY="-26" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0019" x="0" y="0" width="320" height="480" frameX="0" frameY="-10" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0020" x="0" y="0" width="320" height="480" frameX="0" frameY="-4" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0021" x="320" y="0" width="320" height="480" frameX="0" frameY="-1" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0022" x="640" y="0" width="320" height="480" frameX="0" frameY="0" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0023" x="0" y="0" width="320" height="480" frameX="0" frameY="-6" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0024" x="0" y="0" width="320" height="480" frameX="0" frameY="-6" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0025" x="0" y="0" width="320" height="480" frameX="0" frameY="-21" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0026" x="320" y="0" width="320" height="480" frameX="0" frameY="-83" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0027" x="320" y="0" width="320" height="480" frameX="0" frameY="-191" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0028" x="0" y="0" width="320" height="480" frameX="0" frameY="-315" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0029" x="0" y="0" width="320" height="480" frameX="0" frameY="-454" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0030" x="320" y="0" width="320" height="480" frameX="0" frameY="-640" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0031" x="320" y="0" width="320" height="480" frameX="0" frameY="-780" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0032" x="0" y="0" width="320" height="480" frameX="0" frameY="-981" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0033" x="0" y="0" width="320" height="480" frameX="0" frameY="-1177" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0034" x="320" y="0" width="320" height="480" frameX="0" frameY="-1373" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0035" x="320" y="0" width="320" height="480" frameX="0" frameY="-1569" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0036" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0037" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0038" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0039" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0040" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0041" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0042" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0043" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0044" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0045" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0046" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0047" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0048" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0049" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0050" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0051" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0052" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0053" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0054" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0055" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0056" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0057" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0058" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0059" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0060" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0061" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0062" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0063" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0064" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0065" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0066" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0067" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0068" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0069" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0070" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0071" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0072" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0073" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0074" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0075" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0076" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0077" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0078" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0079" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0080" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0081" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0082" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0083" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0084" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0085" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0086" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0087" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0088" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0089" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0090" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0091" x="320" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0092" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="die0093" x="0" y="0" width="320" height="480" frameX="0" frameY="-1716" frameWidth="320" frameHeight="2197"/>
+	<SubTexture name="marlo down0000" x="960" y="0" width="290" height="287" pivotX="15" pivotY="0" frameX="0" frameY="-14" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0001" x="960" y="0" width="290" height="287" frameX="0" frameY="-14" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0002" x="1250" y="0" width="273" height="298" frameX="-9" frameY="-3" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0003" x="1250" y="0" width="273" height="298" frameX="-9" frameY="-3" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0004" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0005" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0006" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0007" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0008" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0009" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0010" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0011" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0012" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0013" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo down0014" x="1523" y="0" width="260" height="300" frameX="-15" frameY="0" frameWidth="290" frameHeight="301"/>
+	<SubTexture name="marlo idle0000" x="0" y="480" width="282" height="399" pivotX="0" pivotY="1" frameX="-8" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0001" x="0" y="480" width="282" height="399" frameX="-8" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0002" x="282" y="480" width="283" height="399" frameX="-8" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0003" x="282" y="480" width="283" height="399" frameX="-8" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0004" x="565" y="480" width="278" height="399" frameX="-6" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0005" x="565" y="480" width="278" height="399" frameX="-6" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0006" x="843" y="480" width="278" height="400" frameX="-3" frameY="0" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0007" x="843" y="480" width="278" height="400" frameX="-3" frameY="0" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0008" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0009" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0010" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0011" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0012" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0013" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo idle0014" x="1121" y="480" width="277" height="398" frameX="0" frameY="-1" frameWidth="291" frameHeight="400"/>
+	<SubTexture name="marlo left0000" x="1398" y="480" width="267" height="401" pivotX="11.05" pivotY="3.3" frameX="0" frameY="0" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0001" x="1398" y="480" width="267" height="401" frameX="0" frameY="0" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0002" x="1665" y="480" width="263" height="398" frameX="-11" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0003" x="1665" y="480" width="263" height="398" frameX="-11" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0004" x="0" y="881" width="264" height="398" frameX="-13" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0005" x="0" y="881" width="264" height="398" frameX="-13" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0006" x="0" y="881" width="264" height="398" frameX="-13" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0007" x="0" y="881" width="264" height="398" frameX="-13" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0008" x="0" y="881" width="264" height="398" frameX="-13" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo left0009" x="0" y="881" width="264" height="398" frameX="-13" frameY="-3" frameWidth="277" frameHeight="401"/>
+	<SubTexture name="marlo right0000" x="264" y="881" width="296" height="399" pivotX="0" pivotY="0"/>
+	<SubTexture name="marlo right0001" x="264" y="881" width="296" height="399"/>
+	<SubTexture name="marlo right0002" x="560" y="881" width="283" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0003" x="560" y="881" width="283" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0004" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0005" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0006" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0007" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0008" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0009" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo right0010" x="843" y="881" width="281" height="399" frameX="0" frameY="0" frameWidth="296" frameHeight="399"/>
+	<SubTexture name="marlo start0000" x="1124" y="881" width="560" height="81" pivotX="262" pivotY="456.9" frameX="0" frameY="-674" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0001" x="1124" y="881" width="560" height="81" frameX="0" frameY="-566" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0002" x="1124" y="881" width="560" height="81" frameX="0" frameY="-458" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0003" x="1124" y="881" width="560" height="81" frameX="0" frameY="-351" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0004" x="1124" y="881" width="560" height="81" frameX="0" frameY="-243" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0005" x="1124" y="881" width="560" height="81" frameX="0" frameY="-134" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0006" x="1124" y="881" width="560" height="81" frameX="0" frameY="-19" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0007" x="1124" y="881" width="560" height="81" frameX="0" frameY="-10" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0008" x="1124" y="881" width="560" height="81" frameX="0" frameY="-1" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0009" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0010" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0011" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0012" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0013" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0014" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0015" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo start0016" x="0" y="1280" width="560" height="80" frameX="0" frameY="0" frameWidth="560" frameHeight="755"/>
+	<SubTexture name="marlo up0000" x="560" y="1280" width="221" height="400" pivotX="3" pivotY="97" frameX="-19" frameY="-52" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0001" x="781" y="1280" width="249" height="400" frameX="-9" frameY="-9" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0002" x="781" y="1280" width="249" height="400" frameX="-9" frameY="-9" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0003" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="-1" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0004" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="0" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0005" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="0" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0006" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="-2" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0007" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="-8" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0008" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="-48" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0009" x="1030" y="1280" width="260" height="400" frameX="-7" frameY="-108" frameWidth="275" frameHeight="509"/>
+	<SubTexture name="marlo up0010" x="1290" y="1280" width="275" height="385" frameX="0" frameY="-124" frameWidth="275" frameHeight="509"/>
+</TextureAtlas>

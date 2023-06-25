@@ -1,0 +1,11 @@
+mods/data/flatzone/flatzone-g-w.json
+mods/data/flatzone/mod.txt
+mods/data/flatzone/script.lua
+mods/Kapi/stages/g&w.json
+mods/Kapi/stages/g&w.lua
+mods/Kapi/scripts/kapiGameOver.lua
+mods/Kapi/scripts/playerSpecificNotes.lua
+mods/songs/flatzone/Voices.ogg
+mods/songs/flatzone/voices.ogg
+mods/songs/flatzone/Inst.ogg
+mods/songs/flatzone/inst.ogg

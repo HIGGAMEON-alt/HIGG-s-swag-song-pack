@@ -1,0 +1,19 @@
+mods/data/overhead-(hq)/events.json
+mods/data/overhead-(hq)/mod.txt
+mods/data/overhead-(hq)/overhead-(hq)-easy.json
+mods/data/overhead-(hq)/overhead-(hq)-hard.json
+mods/data/overhead-(hq)/overhead-(hq).json
+mods/data/overhead-(hq)/script.lua
+mods/Whitty/stages/alley-hqr2.json
+mods/Whitty/stages/alley-hqr2.lua
+mods/Whitty/custom_events/Toggle Strums Visibility.lua
+mods/Whitty/custom_events/Set Cam Zoom.lua
+mods/Whitty/custom_events/Cam Boom Speed.lua
+mods/Whitty/scripts/charDance.lua
+mods/Whitty/scripts/hideDaMidScroll.lua
+mods/Whitty/scripts/Kade_Engine_Complex_Accuracy.lua
+mods/Whitty/scripts/versionLock.lua
+mods/songs/overhead-(hq)/Voices.ogg
+mods/songs/overhead-(hq)/voices.ogg
+mods/songs/overhead-(hq)/Inst.ogg
+mods/songs/overhead-(hq)/inst.ogg

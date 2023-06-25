@@ -1,0 +1,15 @@
+mods/data/low-rise-(hq)/events.json
+mods/data/low-rise-(hq)/low-rise-(hq)-easy.json
+mods/data/low-rise-(hq)/low-rise-(hq)-hard.json
+mods/data/low-rise-(hq)/low-rise-(hq).json
+mods/data/low-rise-(hq)/mod.txt
+mods/Whitty/stages/better-hqr3.json
+mods/Whitty/stages/better-hqr3.lua
+mods/Whitty/scripts/charDance.lua
+mods/Whitty/scripts/hideDaMidScroll.lua
+mods/Whitty/scripts/Kade_Engine_Complex_Accuracy.lua
+mods/Whitty/scripts/versionLock.lua
+mods/songs/low-rise-(hq)/Voices.ogg
+mods/songs/low-rise-(hq)/voices.ogg
+mods/songs/low-rise-(hq)/Inst.ogg
+mods/songs/low-rise-(hq)/inst.ogg

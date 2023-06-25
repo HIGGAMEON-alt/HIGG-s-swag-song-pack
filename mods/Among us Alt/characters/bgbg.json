@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				559
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "blakk l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-298,
+				553
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "blakk d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-290,
+				567
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "blakk u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-336,
+				554
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "blakk r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-337,
+				18
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "bgbg i"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bgbg",
+	"position": [
+		-430,
+		60
+	],
+	"healthicon": "Altblac",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		470,
+		100
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1.3
+}

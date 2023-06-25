@@ -1,0 +1,41 @@
+mods/data/fear/DoubleGhostNote.lua
+mods/data/fear/events.json
+mods/Among us Alt/characters/vent.json
+mods/Among us Alt/images/characters/black_vent.png
+mods/Among us Alt/images/characters/black_vent.xml
+mods/Among us Alt/characters/black-fear.json
+mods/Among us Alt/images/characters/black_3.png
+mods/Among us Alt/images/characters/black_3.xml
+mods/data/fear/fear-hard.json
+mods/data/fear/fear.json
+mods/data/fear/mod.txt
+mods/data/fear/playCutscene.lua
+mods/data/fear/Script_Ending.lua
+mods/data/fear/smoothcam.lua
+mods/Among us Alt/characters/fear-bf.json
+mods/Among us Alt/characters/White.json
+mods/Among us Alt/stages/navigation.json
+mods/Among us Alt/stages/navigation.lua
+mods/Among us Alt/images/characters/White2.png
+mods/Among us Alt/images/characters/White2.xml
+mods/Among us Alt/custom_events/Cam Boom Speed.lua
+mods/Among us Alt/custom_events/Flash Camera Black.lua
+mods/Among us Alt/custom_events/Flash Camera.lua
+mods/Among us Alt/custom_events/Cinematics.lua
+mods/Among us Alt/custom_events/sabotage.lua
+mods/Among us Alt/custom_events/Cam Zoom Tween.lua
+mods/Among us Alt/scripts/deathscript.lua
+mods/Among us Alt/images/woemn.png
+mods/Among us Alt/images/lighttttt.png
+mods/Among us Alt/images/lighttttt.xml
+mods/Among us Alt/images/lightttt.png
+mods/Among us Alt/images/lightttt.xml
+mods/Among us Alt/images/GF_assets.png
+mods/Among us Alt/images/GF_assets.xml
+mods/Among us Alt/images/GF_assets2.png
+mods/Among us Alt/images/GF_assets2.xml
+mods/Among us Alt/images/timeBar.png
+mods/songs/fear/Voices.ogg
+mods/songs/fear/voices.ogg
+mods/songs/fear/Inst.ogg
+mods/songs/fear/inst.ogg

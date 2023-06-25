@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blomeralt.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Blomer!0000" x="0" y="0" width="110" height="309" pivotX="1" pivotY="2.55" frameX="-1" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0001" x="0" y="0" width="110" height="309" frameX="-1" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0002" x="110" y="0" width="110" height="309" frameX="-1" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0003" x="110" y="0" width="110" height="309" frameX="-1" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0004" x="220" y="0" width="110" height="309" frameX="-1" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0005" x="220" y="0" width="110" height="309" frameX="-1" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0006" x="330" y="0" width="109" height="311" frameX="-2" frameY="0" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0007" x="330" y="0" width="109" height="311" frameX="-2" frameY="0" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0008" x="439" y="0" width="113" height="309" frameX="0" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0009" x="552" y="0" width="113" height="309" frameX="0" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0010" x="552" y="0" width="113" height="309" frameX="0" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0011" x="665" y="0" width="113" height="309" frameX="0" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0012" x="665" y="0" width="113" height="309" frameX="0" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="Blomer!0013" x="665" y="0" width="113" height="309" frameX="0" frameY="-2" frameWidth="113" frameHeight="311"/>
+	<SubTexture name="The Dud0000" x="778" y="0" width="110" height="309" pivotX="0" pivotY="0"/>
+	<SubTexture name="The Dud0001" x="778" y="0" width="110" height="309"/>
+	<SubTexture name="The Dud0002" x="778" y="0" width="110" height="309"/>
+	<SubTexture name="The Dud0003" x="888" y="0" width="110" height="309"/>
+	<SubTexture name="The Dud0004" x="888" y="0" width="110" height="309"/>
+	<SubTexture name="The Dud0005" x="888" y="0" width="110" height="309"/>
+	<SubTexture name="The Dud0006" x="0" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0007" x="0" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0008" x="0" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0009" x="110" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0010" x="110" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0011" x="110" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0012" x="220" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0013" x="220" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0014" x="220" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0015" x="330" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0016" x="330" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0017" x="330" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0018" x="440" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0019" x="440" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0020" x="440" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0021" x="550" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0022" x="550" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0023" x="550" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0024" x="660" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0025" x="660" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0026" x="660" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0027" x="770" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0028" x="770" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0029" x="770" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0030" x="880" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0031" x="880" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0032" x="880" y="311" width="110" height="309"/>
+	<SubTexture name="The Dud0033" x="0" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0034" x="0" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0035" x="0" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0036" x="110" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0037" x="110" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0038" x="110" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0039" x="220" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0040" x="220" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0041" x="220" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0042" x="330" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0043" x="330" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0044" x="330" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0045" x="440" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0046" x="440" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0047" x="440" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0048" x="550" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0049" x="550" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0050" x="550" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0051" x="550" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0052" x="550" y="620" width="110" height="309"/>
+	<SubTexture name="The Dud0053" x="550" y="620" width="110" height="309"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+mods/data/teratoma/DoubleGhostNote.lua
+mods/data/teratoma/events.json
+mods/Among us Alt/characters/THmongus-alt.json
+mods/Among us Alt/images/characters/THmongus_Assets.png
+mods/Among us Alt/images/characters/THmongus_Assets.xml
+mods/data/teratoma/fuck_Cut.lua
+mods/data/teratoma/mod.txt
+mods/data/teratoma/note_swap.lua
+mods/data/teratoma/smoothcam.lua
+mods/data/teratoma/teratoma-hard.json
+mods/data/teratoma/teratoma.json
+mods/data/teratoma/teratomadeath.lua
+mods/data/teratoma/TH.lua
+mods/Among us Alt/characters/BestFriend.json
+mods/Among us Alt/characters/THmongus.json
+mods/Among us Alt/characters/breadhead.json
+mods/Among us Alt/stages/mirahall.json
+mods/Among us Alt/stages/mirahall.lua
+mods/Among us Alt/images/characters/beef.png
+mods/Among us Alt/images/characters/beef.xml
+mods/Among us Alt/images/characters/breadhead.png
+mods/Among us Alt/images/characters/breadhead.xml
+mods/Among us Alt/custom_events/Flash_Camera.lua
+mods/Among us Alt/custom_events/0CS-camZoom.lua
+mods/Among us Alt/custom_events/Flash Camera.lua
+mods/Among us Alt/custom_events/Cinematics.lua
+mods/Among us Alt/custom_events/Cam Zoom Tween.lua
+mods/Among us Alt/scripts/deathscript.lua
+mods/Among us Alt/images/HE IS BLACK.png
+mods/Among us Alt/images/teratomajumpscare.png
+mods/Among us Alt/sounds/terajumpscare.ogg
+mods/Among us Alt/images/yellowbg.png
+mods/Among us Alt/images/bfy.png
+mods/Among us Alt/images/bughead.png
+mods/Among us Alt/images/bughead.xml
+mods/Among us Alt/images/lighting.png
+mods/Among us Alt/images/space.png
+mods/Among us Alt/images/space.xml
+mods/Among us Alt/images/timeBar.png
+mods/songs/teratoma/Voices.ogg
+mods/songs/teratoma/voices.ogg
+mods/songs/teratoma/Inst.ogg
+mods/songs/teratoma/inst.ogg

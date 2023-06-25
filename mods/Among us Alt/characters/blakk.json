@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-297,
+				558
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blakk i"
+		},
+		{
+			"offsets": [
+				-204,
+				559
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blakk l"
+		},
+		{
+			"offsets": [
+				-298,
+				553
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blakk d"
+		},
+		{
+			"offsets": [
+				-290,
+				567
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blakk u"
+		},
+		{
+			"offsets": [
+				-336,
+				554
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blakk r"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blakk",
+	"position": [
+		-430,
+		60
+	],
+	"healthicon": "Altblac",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		470,
+		100
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 0.5
+}

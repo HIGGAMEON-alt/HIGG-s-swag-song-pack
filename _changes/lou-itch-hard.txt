@@ -1,0 +1,23 @@
+mods/data/lou-itch-hard/events.json
+mods/data/lou-itch-hard/lou-itch-hard.json
+mods/data/lou-itch-hard/mod.txt
+mods/data/lou-itch-hard/script.lua
+mods/marlo/characters/lou itch.json
+mods/marlo/stages/lou ich.json
+mods/marlo/stages/lou ich.lua
+mods/marlo/images/characters/lou itch.png
+mods/marlo/images/characters/lou itch.xml
+mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/custom_events/Image Flash.lua
+mods/marlo/scripts/opponentnotes.lua
+mods/marlo/scripts/playernotes.lua
+mods/marlo/images/exes are fucking stupid.png
+mods/marlo/images/WORLD BLAST.png
+mods/marlo/images/WORLD BLAST.xml
+mods/marlo/images/groundback lou.png
+mods/marlo/images/hud.png
+mods/marlo/images/boo idle.png
+mods/marlo/images/boo idle.xml
+mods/marlo/images/lou stage ground.png
+mods/songs/lou-itch-hard/Inst.ogg
+mods/songs/lou-itch-hard/inst.ogg

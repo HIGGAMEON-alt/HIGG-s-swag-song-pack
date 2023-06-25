@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "We finally survived!",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ye..",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "uhh",
+			"text": "who are you again",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "confused",
+			"text": "it's me",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "talk",
+			"text": "is that fnaf refrence",
+			"boxState": "normal",
+			"portrait": "gfd",
+			"speed": 0.05,
+			"sound": "gfd"
+		},
+		{
+			"expression": "angry",
+			"text": "god damn, we also met the giant fucking black impostor guy too",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "talk",
+			"text": "shock and awe losers lmao",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "omg",
+			"text": "wait.. you mean, the black impostor???",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "excited",
+			"text": "LOLLLOLOLOLLLOL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "talk",
+			"text": " he's kinda wecky",
+			"boxState": "normal",
+			"portrait": "gfd",
+			"speed": 0.05,
+			"sound": "gfd"
+		},
+		{
+			"expression": "talk",
+			"text": "YOU GUYS ARE FUCKED!!!!!!!!!!!",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "uhh",
+			"text": "shut up bro and",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "talk",
+			"text": "I made a song just for you just now",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "omg",
+			"text": "wait really??",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "shocked",
+			"text": "what is song's name??",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		},
+		{
+			"expression": "talk",
+			"text": "boing you mf",
+			"boxState": "normal",
+			"portrait": "bfd",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "fuck",
+			"text": "god fucking damn go fuck yourself",
+			"boxState": "normal",
+			"portrait": "white",
+			"speed": 0.05,
+			"sound": "i"
+		}
+	]
+}

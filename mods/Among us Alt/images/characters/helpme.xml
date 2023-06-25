@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="helpme.png">
+<SubTexture name="helpme i0000" x="0" y="1960" width="900" height="936" frameX="-348" frameY="-432" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme i0001" x="1735" y="1960" width="904" height="933" frameX="-346" frameY="-431" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme i0002" x="3224" y="931" width="903" height="928" frameX="-346" frameY="-431" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme d0000" x="2237" y="0" width="987" height="938" frameX="-252" frameY="-485" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme d0001" x="3224" y="0" width="985" height="931" frameX="-256" frameY="-480" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme u0000" x="0" y="0" width="1377" height="983" frameX="-50" frameY="-377" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme u0001" x="867" y="983" width="1360" height="957" frameX="-57" frameY="-407" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme r0000" x="0" y="983" width="867" height="977" frameX="-432" frameY="-436" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme r0001" x="1377" y="0" width="860" height="981" frameX="-433" frameY="-431" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme l0000" x="2237" y="938" width="834" height="938" frameX="-348" frameY="-427" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="helpme l0001" x="900" y="1960" width="835" height="934" frameX="-354" frameY="-428" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

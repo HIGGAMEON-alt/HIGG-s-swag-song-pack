@@ -1,0 +1,24 @@
+mods/data/marlo/events.json
+mods/data/marlo/marlo-easy.json
+mods/data/marlo/marlo-hard.json
+mods/data/marlo/mod.txt
+mods/data/marlo/script.lua
+mods/marlo/characters/sexrio.json
+mods/marlo/stages/marlo.json
+mods/marlo/stages/marlo.lua
+mods/marlo/images/characters/man from sex.png
+mods/marlo/images/characters/man from sex.xml
+mods/marlo/characters/hardmario.json
+mods/marlo/images/characters/marlo-gun.png
+mods/marlo/images/characters/marlo-gun.xml
+mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/opponentnotes.lua
+mods/marlo/scripts/playernotes.lua
+mods/marlo/sounds/SNIPER RIFEL.ogg
+mods/marlo/images/marlo background sigh.png
+mods/marlo/images/maro bushes also sorry for yelling in the mario ground filename.png
+mods/marlo/images/MARO GROUND.png
+mods/songs/marlo/Voices.ogg
+mods/songs/marlo/voices.ogg
+mods/songs/marlo/Inst.ogg
+mods/songs/marlo/inst.ogg

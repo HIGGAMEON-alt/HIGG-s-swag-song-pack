@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				171
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "r-a-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				137
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "l-a-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				171
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "r-a-idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "l-a-idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/horsegf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

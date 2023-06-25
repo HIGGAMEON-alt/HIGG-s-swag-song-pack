@@ -1,0 +1,12 @@
+mods/data/lou-itch-hard/events.json
+mods/data/lou-itch-hard/lou-itch-hard.json
+mods/data/lou-itch-hard/mod.txt
+mods/data/lou-itch-hard/script.lua
+mods/marlo/stages/lou ich.json
+mods/marlo/stages/lou ich.lua
+mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/custom_events/Image Flash.lua
+mods/marlo/scripts/opponentnotes.lua
+mods/marlo/scripts/playernotes.lua
+mods/songs/lou-itch-hard/Inst.ogg
+mods/songs/lou-itch-hard/inst.ogg

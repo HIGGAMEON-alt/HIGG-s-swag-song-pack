@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdpeoples.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bitches crouds0000" x="0" y="0" width="1621" height="257" pivotX="35.6" pivotY="0" frameX="0" frameY="-25" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0001" x="0" y="0" width="1621" height="257" frameX="0" frameY="-25" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0002" x="0" y="257" width="1615" height="261" frameX="-3" frameY="-21" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0003" x="0" y="257" width="1615" height="261" frameX="-3" frameY="-21" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0004" x="0" y="518" width="1607" height="269" frameX="-7" frameY="-14" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0005" x="0" y="518" width="1607" height="269" frameX="-7" frameY="-14" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0006" x="0" y="787" width="1603" height="275" frameX="-9" frameY="-7" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0007" x="0" y="787" width="1603" height="275" frameX="-9" frameY="-7" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0008" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0009" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0010" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0011" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0012" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0013" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+	<SubTexture name="bitches crouds0014" x="0" y="1062" width="1600" height="282" frameX="-11" frameY="0" frameWidth="1621" frameHeight="283"/>
+</TextureAtlas>

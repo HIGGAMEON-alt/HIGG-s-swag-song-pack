@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blomerNotes.png">
+<SubTexture name="arrowDOWN0000" x="0" y="150" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="arrowLEFT0000" x="142" y="150" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="arrowRIGHT0000" x="284" y="150" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="arrowUP0000" x="0" y="292" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="pruple end hold0000" x="560" y="576" width="56" height="70" frameX="0" frameY="0" frameWidth="48" frameHeight="62" />
+<SubTexture name="A hold0000" x="560" y="646" width="56" height="52" frameX="0" frameY="0" frameWidth="48" frameHeight="44" />
+<SubTexture name="C tail0000" x="560" y="576" width="56" height="70" frameX="0" frameY="0" frameWidth="48" frameHeight="62" />
+<SubTexture name="C hold0000" x="560" y="646" width="56" height="52" frameX="0" frameY="0" frameWidth="48" frameHeight="44" />
+<SubTexture name="B0000" x="142" y="292" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="B confirm0000" x="434" y="434" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="B confirm0001" x="580" y="0" width="140" height="140" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="B confirm0002" x="0" y="0" width="142" height="150" frameX="-6" frameY="-2" frameWidth="148" frameHeight="148" />
+<SubTexture name="B press0000" x="580" y="140" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="C0000" x="284" y="292" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="A confirm0000" x="580" y="280" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="A confirm0001" x="438" y="0" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="A confirm0002" x="284" y="0" width="154" height="146" frameX="0" frameY="-6" frameWidth="148" frameHeight="148" />
+<SubTexture name="A press0000" x="580" y="420" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="B tail0000" x="616" y="576" width="56" height="70" frameX="0" frameY="0" frameWidth="48" frameHeight="62" />
+<SubTexture name="B hold0000" x="616" y="646" width="56" height="52" frameX="0" frameY="0" frameWidth="48" frameHeight="44" />
+<SubTexture name="D tail0000" x="616" y="576" width="56" height="70" frameX="0" frameY="0" frameWidth="48" frameHeight="62" />
+<SubTexture name="D hold0000" x="616" y="646" width="56" height="52" frameX="0" frameY="0" frameWidth="48" frameHeight="44" />
+<SubTexture name="A0000" x="438" y="142" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="D0000" x="438" y="284" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="D confirm0000" x="0" y="576" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="D confirm0001" x="0" y="434" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="D confirm0002" x="142" y="434" width="150" height="142" frameX="-2" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="A press0001" x="140" y="576" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="C confirm0000" x="280" y="576" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+<SubTexture name="C confirm0001" x="292" y="434" width="142" height="142" frameX="-6" frameY="-8" frameWidth="148" frameHeight="148" />
+<SubTexture name="C confirm0002" x="142" y="0" width="142" height="150" frameX="-6" frameY="-4" frameWidth="148" frameHeight="148" />
+<SubTexture name="C press0000" x="420" y="576" width="140" height="140" frameX="-8" frameY="-10" frameWidth="148" frameHeight="148" />
+</TextureAtlas>
+

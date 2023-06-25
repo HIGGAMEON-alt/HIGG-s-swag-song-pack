@@ -1,0 +1,23 @@
+mods/data/teratoma/DoubleGhostNote.lua
+mods/data/teratoma/events.json
+mods/data/teratoma/fuck_Cut.lua
+mods/data/teratoma/mod.txt
+mods/data/teratoma/note_swap.lua
+mods/data/teratoma/smoothcam.lua
+mods/data/teratoma/teratoma-hard.json
+mods/data/teratoma/teratoma.json
+mods/data/teratoma/teratomadeath.lua
+mods/data/teratoma/TH.lua
+mods/Among us Alt/stages/mirahall.json
+mods/Among us Alt/stages/mirahall.lua
+mods/Among us Alt/custom_events/Flash_Camera.lua
+mods/Among us Alt/custom_events/0CS-camZoom.lua
+mods/Among us Alt/custom_events/Flash Camera.lua
+mods/Among us Alt/custom_events/Cinematics.lua
+mods/Among us Alt/custom_events/Cam Zoom Tween.lua
+mods/Among us Alt/scripts/deathscript.lua
+mods/Among us Alt/sounds/terajumpscare.ogg
+mods/songs/teratoma/Voices.ogg
+mods/songs/teratoma/voices.ogg
+mods/songs/teratoma/Inst.ogg
+mods/songs/teratoma/inst.ogg

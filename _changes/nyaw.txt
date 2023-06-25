@@ -1,0 +1,27 @@
+mods/data/nyaw/events.json
+mods/data/nyaw/mod.txt
+mods/data/nyaw/nyaw-kapi.json
+mods/Kapi/characters/bf-kapi.json
+mods/Kapi/characters/kapi.json
+mods/Kapi/characters/gf-kapi.json
+mods/Kapi/stages/kapi.json
+mods/Kapi/stages/kapi.lua
+mods/Kapi/images/characters/bf-kapi.png
+mods/Kapi/images/characters/bf-kapi.xml
+mods/Kapi/images/characters/kapi.png
+mods/Kapi/images/characters/kapi.xml
+mods/Kapi/images/characters/gf-kapi.png
+mods/Kapi/images/characters/gf-kapi.xml
+mods/Kapi/custom_events/Change Splashes.lua
+mods/Kapi/scripts/kapiGameOver.lua
+mods/Kapi/scripts/playerSpecificNotes.lua
+mods/Kapi/images/stages/arcade.png
+mods/Kapi/images/stages/somethingplatform.png
+mods/Kapi/images/stages/lighting/win0.png
+mods/Kapi/images/stages/arcade2.png
+mods/Kapi/images/stages/skidwha.png
+mods/Kapi/images/stages/skidwha.xml
+mods/songs/nyaw/Voices.ogg
+mods/songs/nyaw/voices.ogg
+mods/songs/nyaw/Inst.ogg
+mods/songs/nyaw/inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Blomer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/blomer",
+	"position": [
+		130,
+		310
+	],
+	"healthicon": "blomer",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		169,
+		255
+	],
+	"camera_position": [
+		-360,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf missing.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf right0000" x="0" y="0" width="278" height="285" pivotX="0.75" pivotY="14.35" frameX="0" frameY="0" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0001" x="0" y="0" width="278" height="285" frameX="0" frameY="0" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0002" x="278" y="0" width="275" height="283" frameX="-3" frameY="-3" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0003" x="278" y="0" width="275" height="283" frameX="-3" frameY="-3" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0004" x="553" y="0" width="267" height="275" frameX="-2" frameY="-6" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0005" x="553" y="0" width="267" height="275" frameX="-2" frameY="-6" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0006" x="0" y="285" width="258" height="266" frameX="0" frameY="-9" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0007" x="0" y="285" width="258" height="266" frameX="0" frameY="-9" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0008" x="258" y="285" width="251" height="260" frameX="-1" frameY="-12" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0009" x="258" y="285" width="251" height="260" frameX="-1" frameY="-12" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0010" x="509" y="285" width="243" height="254" frameX="0" frameY="-14" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0011" x="509" y="285" width="243" height="254" frameX="0" frameY="-14" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0012" x="509" y="285" width="243" height="254" frameX="0" frameY="-14" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0013" x="509" y="285" width="243" height="254" frameX="0" frameY="-14" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gf right0014" x="509" y="285" width="243" height="254" frameX="0" frameY="-14" frameWidth="278" frameHeight="286"/>
+	<SubTexture name="gfleft0000" x="0" y="551" width="277" height="285" pivotX="39.6" pivotY="10.4" frameX="0" frameY="0" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0001" x="0" y="551" width="277" height="285" frameX="0" frameY="0" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0002" x="277" y="551" width="269" height="277" frameX="-11" frameY="-1" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0003" x="277" y="551" width="269" height="277" frameX="-11" frameY="-1" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0004" x="546" y="551" width="250" height="259" frameX="-31" frameY="-8" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0005" x="546" y="551" width="250" height="259" frameX="-31" frameY="-8" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0006" x="0" y="836" width="243" height="254" frameX="-37" frameY="-10" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0007" x="0" y="836" width="243" height="254" frameX="-37" frameY="-10" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0008" x="243" y="836" width="241" height="251" frameX="-39" frameY="-10" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0009" x="243" y="836" width="241" height="251" frameX="-39" frameY="-10" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0010" x="243" y="836" width="241" height="251" frameX="-39" frameY="-10" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0011" x="243" y="836" width="241" height="251" frameX="-39" frameY="-10" frameWidth="281" frameHeight="285"/>
+	<SubTexture name="gfleft0012" x="243" y="836" width="241" height="251" frameX="-39" frameY="-10" frameWidth="281" frameHeight="285"/>
+</TextureAtlas>

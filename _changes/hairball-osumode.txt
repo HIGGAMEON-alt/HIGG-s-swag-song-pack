@@ -1,0 +1,10 @@
+mods/data/hairball/hairball-kapi.json
+mods/data/hairball/mod.txt
+mods/Kapi/stages/kapi.json
+mods/Kapi/stages/kapi.lua
+mods/Kapi/scripts/kapiGameOver.lua
+mods/Kapi/scripts/playerSpecificNotes.lua
+mods/songs/hairball/Voices.ogg
+mods/songs/hairball/voices.ogg
+mods/songs/hairball/Inst.ogg
+mods/songs/hairball/inst.ogg

@@ -1,0 +1,3 @@
+Sets Noteskin for Both Sides
+Value 1: Notes
+Value 2: Splashes (Optional)

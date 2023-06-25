@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sans.png">
+<SubTexture name="sans idle0000" x="0" y="0" width="598" height="382" frameX="0" frameY="0" frameWidth="598" frameHeight="382" />
+<SubTexture name="sans idle0001" x="598" y="0" width="598" height="382" frameX="0" frameY="0" frameWidth="598" frameHeight="382" />
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="purple.png">
+<SubTexture name="purple idle0000" x="958" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple idle0001" x="0" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple idle0002" x="0" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple idle0003" x="958" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple idle0004" x="0" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0000" x="958" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0001" x="1916" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0002" x="1916" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0003" x="1916" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0004" x="0" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0005" x="0" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0006" x="958" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0007" x="1916" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0008" x="0" y="2152" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0009" x="958" y="2152" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0010" x="1916" y="2152" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple godehd0011" x="2874" y="0" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple ektlehdwkr0000" x="2874" y="1076" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple ektlehdwkr0001" x="2874" y="538" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple ektlehdwkr0002" x="2874" y="1614" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+<SubTexture name="purple ektlehdwkr0003" x="2874" y="2152" width="958" height="538" frameX="0" frameY="0" frameWidth="959" frameHeight="539" />
+</TextureAtlas>

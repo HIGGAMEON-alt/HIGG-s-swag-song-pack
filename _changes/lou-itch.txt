@@ -1,0 +1,24 @@
+mods/data/lou-itch/events.json
+mods/data/lou-itch/lou-itch-easy.json
+mods/data/lou-itch/lou-itch-hard.json
+mods/data/lou-itch/mod.txt
+mods/data/lou-itch/script.lua
+mods/marlo/characters/lou itch.json
+mods/marlo/stages/lou ich.json
+mods/marlo/stages/lou ich.lua
+mods/marlo/images/characters/lou itch.png
+mods/marlo/images/characters/lou itch.xml
+mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/custom_events/Image Flash.lua
+mods/marlo/scripts/opponentnotes.lua
+mods/marlo/scripts/playernotes.lua
+mods/marlo/images/fog.png
+mods/marlo/images/groundback lou.png
+mods/marlo/images/hud.png
+mods/marlo/images/boo idle.png
+mods/marlo/images/boo idle.xml
+mods/marlo/images/lou stage ground.png
+mods/songs/lou-itch/Voices.ogg
+mods/songs/lou-itch/voices.ogg
+mods/songs/lou-itch/Inst.ogg
+mods/songs/lou-itch/inst.ogg

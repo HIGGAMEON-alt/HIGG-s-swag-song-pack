@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boingpostor.png">
+<SubTexture name="boingpostor i0000" x="5435" y="0" width="1806" height="1600" frameX="-73" frameY="-396" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor i0001" x="5435" y="1600" width="1799" height="1596" frameX="-76" frameY="-394" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor r0000" x="1976" y="0" width="1985" height="1745" frameX="-40" frameY="-79" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor r0001" x="0" y="0" width="1976" height="1780" frameX="-41" frameY="-47" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor l0000" x="0" y="3513" width="2031" height="1681" frameX="-7" frameY="-142" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor l0001" x="0" y="1780" width="1973" height="1733" frameX="-58" frameY="-95" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor d0000" x="0" y="5194" width="1925" height="1570" frameX="-39" frameY="-152" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor d0001" x="2031" y="3513" width="1748" height="1659" frameX="-141" frameY="-63" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor u0000" x="3961" y="0" width="1474" height="1721" frameX="-415" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boingpostor u0001" x="1973" y="1780" width="1451" height="1726" frameX="-408" frameY="0" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

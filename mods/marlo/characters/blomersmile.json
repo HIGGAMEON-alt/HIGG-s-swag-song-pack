@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "smile",
+			"fps": 24,
+			"name": "The Dud",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				4
+			],
+			"anim": "blomer",
+			"fps": 24,
+			"name": "Blomer!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/blomeralt",
+	"position": [
+		130,
+		320
+	],
+	"healthicon": "blomer",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		169,
+		255
+	],
+	"camera_position": [
+		-200,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

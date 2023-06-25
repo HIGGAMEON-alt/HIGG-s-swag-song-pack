@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "maro lefte",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-98
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mario right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				198
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mario jamp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				74
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "marlo gun",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				74
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/marlo-gun",
+	"position": [
+		-20,
+		420
+	],
+	"healthicon": "mro",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		208,
+		192
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

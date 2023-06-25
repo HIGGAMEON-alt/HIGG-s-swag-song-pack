@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marlo-gun.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marlo gun0000" x="0" y="0" width="711" height="435" pivotX="10.55" pivotY="0" frameX="0" frameY="-1" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0001" x="0" y="0" width="711" height="435" frameX="0" frameY="-1" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0002" x="711" y="0" width="709" height="430" frameX="0" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0003" x="711" y="0" width="709" height="430" frameX="0" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0004" x="0" y="435" width="708" height="427" frameX="-1" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0005" x="0" y="435" width="708" height="427" frameX="-1" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0006" x="708" y="435" width="705" height="421" frameX="-2" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0007" x="708" y="435" width="705" height="421" frameX="-2" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0008" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0009" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0010" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0011" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0012" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0013" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="marlo gun0014" x="0" y="862" width="704" height="417" frameX="-3" frameY="0" frameWidth="711" frameHeight="436"/>
+	<SubTexture name="shoot0000" x="704" y="862" width="834" height="466" pivotX="16" pivotY="0"/>
+	<SubTexture name="shoot0001" x="704" y="862" width="834" height="466"/>
+	<SubTexture name="shoot0002" x="0" y="1328" width="832" height="466" frameX="-2" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0003" x="0" y="1328" width="832" height="466" frameX="-2" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0004" x="832" y="1328" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0005" x="832" y="1328" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0006" x="0" y="1794" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0007" x="0" y="1794" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0008" x="831" y="1794" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0009" x="831" y="1794" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0010" x="0" y="2260" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0011" x="0" y="2260" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0012" x="831" y="2260" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0013" x="831" y="2260" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+	<SubTexture name="shoot0014" x="0" y="2726" width="831" height="466" frameX="-3" frameY="0" frameWidth="834" frameHeight="466"/>
+</TextureAtlas>

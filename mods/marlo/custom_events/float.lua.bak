@@ -1,0 +1,38 @@
+eT = 0 --elapsed time
+reach = {
+  x = 0,
+  y = 0
+}
+speed = {
+  x = 1,
+  y = 1
+}
+offset = {
+  x = 0,
+  y = 0
+}
+function onUpdate(e)
+  luaDebugMode = true
+  eT = eT + e
+  setProperty('dadGroup.x', getProperty 'dadGroup.x' + math.sin((eT * speed.x) + offset.x) * getProperty('float_reach.x'))
+  setProperty('dadGroup.y', getProperty 'dadGroup.y' + math.cos((eT * speed.y) + offset.y) * getProperty('float_reach.y'))
+  if not mustHitSection then
+    runHaxeCode 'game.moveCameraSection();'
+  end
+end
+function onCreate()
+  runHaxeCode "setVar('float_reach', null);"
+  setProperty('float_reach', reach);
+end
+function onEvent(n, v1, v2)
+  if n == 'float' then
+    local split = stringSplit(v1, ', ')
+    local split2 = stringSplit(v2, ', ')
+    v1 = split[1] or 0.6
+    v2 = split[2] or v1
+    local v3 = split2[1] or 1
+    local v4 = split2[2] or ''
+    doTweenX('reach.x', 'float_reach', v1, v3, v4)
+    doTweenY('reach.y', 'float_reach', v2, v3, v4)
+  end
+end

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "I'm glad to be in such a peaceful place",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bfd"
+		},
+		{
+			"expression": "excited",
+			"text": "And no one's dying (i guess)",
+			"boxState": "normal",
+			"sound": "gfd",
+			"speed": 0.05,
+			"portrait": "gfd"
+		},
+		{
+			"expression": "excited",
+			"text": "Hellow Fellow Crewmates!",
+			"boxState": "normal",
+			"sound": "i",
+			"speed": 0.05,
+			"portrait": "blur"
+		},
+		{
+			"expression": "talk",
+			"text": "GOD FUCKING DAMN IT",
+			"boxState": "normal",
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bfd"
+		},
+		{
+			"expression": "confused",
+			"text": "I can't trust anyone anymore",
+			"boxState": "normal",
+			"sound": "gfd",
+			"speed": 0.05,
+			"portrait": "gfd"
+		},
+		{
+			"expression": "shocked",
+			"text": "First red and green, now blue?",
+			"boxState": "normal",
+			"sound": "gfd",
+			"speed": 0.05,
+			"portrait": "gfd"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Blue Crewmate guys",
+			"boxState": "normal",
+			"sound": "i",
+			"speed": 0.05,
+			"portrait": "blur"
+		},
+		{
+			"expression": "pissed",
+			"text": "I'm working on making sure no one dies here",
+			"boxState": "normal",
+			"sound": "i",
+			"speed": 0.05,
+			"portrait": "blur"
+		},
+		{
+			"expression": "talk",
+			"text": "then why you have a big FUCKING shotgun",
+			"boxState": "normal",
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bfd"
+		},
+		{
+			"expression": "excited",
+			"text": "because of safety! It's not meant to kill random guys",
+			"boxState": "normal",
+			"sound": "i",
+			"speed": 0.05,
+			"portrait": "blur"
+		},
+		{
+			"expression": "angry",
+			"text": "but then you'll reveal your identity in phase 2 like:",
+			"boxState": "normal",
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bfd"
+		},
+		{
+			"expression": "pissed",
+			"text": "\"LOL!!! YOU DUMBASS!!! I WAS THE IMPOSTOR THIS WHOLE TIME!!\"",
+			"boxState": "normal",
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bfd"
+		},
+		{
+			"expression": "confused",
+			"text": "ok stop everything let's just do what we have to do",
+			"boxState": "normal",
+			"sound": "i",
+			"speed": 0.05,
+			"portrait": "blur"
+		},
+		{
+			"expression": "uhh",
+			"text": "sure bro",
+			"boxState": "normal",
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bfd"
+		}
+	]
+}

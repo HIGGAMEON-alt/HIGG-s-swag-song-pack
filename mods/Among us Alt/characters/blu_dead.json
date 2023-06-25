@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				55
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "blue dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				55
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "blue dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				59
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "blue dead confr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blue_asses",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "blue-app",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

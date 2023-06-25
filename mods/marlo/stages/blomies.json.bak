@@ -1,0 +1,16 @@
+{
+	"directory": "",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [-100, 20],
+	"girlfriend": [0, 69],
+	"opponent": [600, -320]
+
+	
+}
+
+
+function onCreatePost()
+    setProperty('gf.visible',false)
+end

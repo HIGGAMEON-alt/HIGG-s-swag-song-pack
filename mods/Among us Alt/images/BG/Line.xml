@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Line.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lines 인스턴스 10000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="lines 인스턴스 10001" x="0" y="720" width="1280" height="720"/>
+</TextureAtlas>

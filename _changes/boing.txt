@@ -1,0 +1,10 @@
+mods/data/boing/boing-hard.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/stages/stage.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/boing/Inst.ogg
+mods/songs/boing/inst.ogg

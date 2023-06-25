@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-215
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-278
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-217
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-143,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "r-alt"
+		},
+		{
+			"offsets": [
+				-35,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "u-alt"
+		},
+		{
+			"offsets": [
+				7,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "d-alt"
+		},
+		{
+			"offsets": [
+				124,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "l-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-180
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "L-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-181
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "R-idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Horsemungus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Horse",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		33,
+		28
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
