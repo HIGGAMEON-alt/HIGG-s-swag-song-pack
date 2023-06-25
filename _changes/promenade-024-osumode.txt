@@ -1,0 +1,12 @@
+mods/data/promenade-024/mod.txt
+mods/data/promenade-024/promenade-024-Nikku-24.json
+mods/data/promenade-024/promenade-024-Nikku-Jojo.json
+mods/data/promenade-024/promenade-024-Nikku.json
+mods/hotline024/stages/covers.json
+mods/hotline024/stages/covers.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/promenade-024/Voices.ogg
+mods/songs/promenade-024/voices.ogg
+mods/songs/promenade-024/Inst.ogg
+mods/songs/promenade-024/inst.ogg

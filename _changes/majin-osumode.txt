@@ -1,0 +1,10 @@
+mods/data/majin/majin-hard.json
+mods/data/majin/mod.txt
+mods/hotline024/stages/mazin-mall.json
+mods/hotline024/stages/mazin-mall.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/majin/Voices.ogg
+mods/songs/majin/voices.ogg
+mods/songs/majin/Inst.ogg
+mods/songs/majin/inst.ogg
