@@ -1,0 +1,10 @@
+mods/data/no-villains/mod.txt
+mods/data/no-villains/no-villains.json
+mods/TGT/stages/stage1.json
+mods/TGT/stages/stage1.lua
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua
+mods/songs/no-villains/Voices.ogg
+mods/songs/no-villains/voices.ogg
+mods/songs/no-villains/Inst.ogg
+mods/songs/no-villains/inst.ogg

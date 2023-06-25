@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "shadow",
+			"indices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13]
+		},
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shadow",
+			"indices": [14,15,16,17,18]
+		},
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shadow",
+			"indices": [19,20,21,22,23]
+		},
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shadow",
+			"indices": [24,25,26,27,28]
+		},
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shadow",
+			"indices": [29,30,31,32,33]
+		},
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shadow",
+			"indices": [34,35,36,37,38,39,40,41,42]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow/normal",
+	"position": [
+		-360,
+		-1020
+	],
+	"healthicon": "shadow",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-150,
+		100
+	],
+	"sing_duration": 6,
+	"scale": 0.9
+}

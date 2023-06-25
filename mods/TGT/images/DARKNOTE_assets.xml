@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dark_Notes.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B0000" x="0" y="0" width="160" height="160"/>
+	<SubTexture name="B tail0000" x="640" y="0" width="46" height="58"/>
+	<SubTexture name="B hold0000" x="640" y="58" width="46" height="43"/>
+	<SubTexture name="C0000" x="160" y="0" width="160" height="160"/>
+	<SubTexture name="C tail0000" x="640" y="0" width="46" height="58"/>
+	<SubTexture name="C hold0000" x="640" y="58" width="46" height="43"/>
+	<SubTexture name="pruple end hold0000" x="640" y="0" width="46" height="58"/>
+	<SubTexture name="A0000" x="320" y="0" width="160" height="160"/>
+	<SubTexture name="A hold0000" x="640" y="58" width="46" height="43"/>
+	<SubTexture name="D0000" x="480" y="0" width="160" height="160"/>
+	<SubTexture name="D tail0000" x="640" y="0" width="46" height="58"/>
+	<SubTexture name="D hold0000" x="640" y="58" width="46" height="43"/>
+</TextureAtlas>
+

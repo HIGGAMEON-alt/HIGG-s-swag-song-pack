@@ -1,0 +1,10 @@
+mods/data/scars-n-stars/mod.txt
+mods/data/scars-n-stars/scars-n-stars.json
+mods/TGT/stages/extra2.json
+mods/TGT/stages/extra2.lua
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua
+mods/songs/scars-n-stars/Voices.ogg
+mods/songs/scars-n-stars/voices.ogg
+mods/songs/scars-n-stars/Inst.ogg
+mods/songs/scars-n-stars/inst.ogg

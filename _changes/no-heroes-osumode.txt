@@ -1,0 +1,6 @@
+mods/data/no-heroes/mod.txt
+mods/data/no-heroes/no-heroes.json
+mods/TGT/stages/extra2.json
+mods/TGT/stages/extra2.lua
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua

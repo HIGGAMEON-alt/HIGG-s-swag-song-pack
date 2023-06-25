@@ -1,0 +1,5 @@
+mods/data/proving-nothing/proving-nothing.json
+mods/songs/proving-nothing/Voices.ogg
+mods/songs/proving-nothing/voices.ogg
+mods/songs/proving-nothing/Inst.ogg
+mods/songs/proving-nothing/inst.ogg

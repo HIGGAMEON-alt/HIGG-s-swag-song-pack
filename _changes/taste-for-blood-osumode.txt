@@ -1,0 +1,13 @@
+mods/data/taste-for-blood/mod.txt
+mods/data/taste-for-blood/modchart.lua
+mods/data/taste-for-blood/taste-for-blood.json
+mods/TGT/stages/stage-tree.json
+mods/TGT/stages/stage-tree.lua
+mods/TGT/custom_notetypes/Dark Note.lua
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua
+mods/TGT/sounds/tfbscream.ogg
+mods/songs/taste-for-blood/Voices.ogg
+mods/songs/taste-for-blood/voices.ogg
+mods/songs/taste-for-blood/Inst.ogg
+mods/songs/taste-for-blood/inst.ogg

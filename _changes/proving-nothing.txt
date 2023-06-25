@@ -1,0 +1,8 @@
+mods/data/proving-nothing/proving-nothing.json
+mods/characters/bf.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/songs/proving-nothing/Voices.ogg
+mods/songs/proving-nothing/voices.ogg
+mods/songs/proving-nothing/Inst.ogg
+mods/songs/proving-nothing/inst.ogg

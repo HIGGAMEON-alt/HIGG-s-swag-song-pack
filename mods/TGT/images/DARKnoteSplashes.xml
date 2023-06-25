@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash B 10000" x="8" y="8" width="186" height="260" frameX="-35" frameY="-33" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash B 10001" x="202" y="8" width="177" height="205" frameX="-39" frameY="-49" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash B 10002" x="387" y="8" width="222" height="266" frameX="-17" frameY="-19" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash B 10003" x="617" y="8" width="260" height="302"/>
+	<SubTexture name="note splash B 20000" x="885" y="8" width="194" height="186" frameX="-38" frameY="-56" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash B 20001" x="1087" y="8" width="209" height="219" frameX="-27" frameY="-32" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash B 20002" x="1304" y="8" width="270" height="293" frameX="-5" frameY="-1" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash B 20003" x="1582" y="8" width="276" height="303"/>
+	<SubTexture name="note splash C 10000" x="8" y="8" width="186" height="260" frameX="-35" frameY="-33" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash C 10001" x="202" y="8" width="177" height="205" frameX="-39" frameY="-49" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash C 10002" x="387" y="8" width="222" height="266" frameX="-17" frameY="-19" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash C 10003" x="617" y="8" width="260" height="302"/>
+	<SubTexture name="note splash C 20000" x="885" y="8" width="194" height="186" frameX="-38" frameY="-56" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash C 20001" x="1087" y="8" width="209" height="219" frameX="-27" frameY="-32" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash C 20002" x="1304" y="8" width="270" height="293" frameX="-5" frameY="-1" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash C 20003" x="1582" y="8" width="276" height="303"/>
+	<SubTexture name="note splash A 10000" x="8" y="8" width="186" height="260" frameX="-35" frameY="-33" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash A 10001" x="202" y="8" width="177" height="205" frameX="-39" frameY="-49" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash A 10002" x="387" y="8" width="222" height="266" frameX="-17" frameY="-19" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash A 10003" x="617" y="8" width="260" height="302"/>
+	<SubTexture name="note splash A 20000" x="885" y="8" width="194" height="186" frameX="-38" frameY="-56" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash A 20001" x="1087" y="8" width="209" height="219" frameX="-27" frameY="-32" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash A 20002" x="1304" y="8" width="270" height="293" frameX="-5" frameY="-1" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash A 20003" x="1582" y="8" width="276" height="303"/>
+	<SubTexture name="note splash D 10000" x="8" y="8" width="186" height="260" frameX="-35" frameY="-33" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash D 10001" x="202" y="8" width="177" height="205" frameX="-39" frameY="-49" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash D 10002" x="387" y="8" width="222" height="266" frameX="-17" frameY="-19" frameWidth="260" frameHeight="302"/>
+	<SubTexture name="note splash D 10003" x="617" y="8" width="260" height="302"/>
+	<SubTexture name="note splash D 20000" x="885" y="8" width="194" height="186" frameX="-38" frameY="-56" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash D 20001" x="1087" y="8" width="209" height="219" frameX="-27" frameY="-32" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash D 20002" x="1304" y="8" width="270" height="293" frameX="-5" frameY="-1" frameWidth="276" frameHeight="303"/>
+	<SubTexture name="note splash D 20003" x="1582" y="8" width="276" height="303"/>
+</TextureAtlas>
+

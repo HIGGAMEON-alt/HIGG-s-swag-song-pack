@@ -1,0 +1,11 @@
+mods/data/on-your-trail/mod.txt
+mods/data/on-your-trail/on-your-trail.json
+mods/TGT/stages/stage-tree.json
+mods/TGT/stages/stage-tree.lua
+mods/TGT/custom_notetypes/Pori.lua
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua
+mods/songs/on-your-trail/Voices.ogg
+mods/songs/on-your-trail/voices.ogg
+mods/songs/on-your-trail/Inst.ogg
+mods/songs/on-your-trail/inst.ogg

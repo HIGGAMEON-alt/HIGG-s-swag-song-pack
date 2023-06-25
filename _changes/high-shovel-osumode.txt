@@ -1,0 +1,10 @@
+mods/data/high-shovel/high-shovel.json
+mods/data/high-shovel/mod.txt
+mods/data/high-shovel/modchart.lua
+mods/TGT/stages/stage-high.json
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua
+mods/songs/high-shovel/Voices.ogg
+mods/songs/high-shovel/voices.ogg
+mods/songs/high-shovel/Inst.ogg
+mods/songs/high-shovel/inst.ogg

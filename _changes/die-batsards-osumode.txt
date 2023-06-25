@@ -1,0 +1,10 @@
+mods/data/die-batsards/die-batsards.json
+mods/data/die-batsards/mod.txt
+mods/TGT/stages/stage2.json
+mods/TGT/custom_notetypes/Bullet.lua
+mods/TGT/scripts/JSONLIB.lua
+mods/TGT/scripts/script.lua
+mods/songs/die-batsards/Voices.ogg
+mods/songs/die-batsards/voices.ogg
+mods/songs/die-batsards/Inst.ogg
+mods/songs/die-batsards/inst.ogg
