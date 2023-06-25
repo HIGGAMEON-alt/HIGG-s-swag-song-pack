@@ -1,0 +1,11 @@
+mods/data/uncanny-valley/centernotes.lua
+mods/data/uncanny-valley/mod.txt
+mods/data/uncanny-valley/uncanny-valley-hard.json
+mods/hotline024/stages/ena.json
+mods/hotline024/stages/ena.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/uncanny-valley/Voices.ogg
+mods/songs/uncanny-valley/voices.ogg
+mods/songs/uncanny-valley/Inst.ogg
+mods/songs/uncanny-valley/inst.ogg

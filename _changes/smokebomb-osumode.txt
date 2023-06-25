@@ -1,0 +1,12 @@
+mods/data/smokebomb/mod.txt
+mods/data/smokebomb/smokebomb-Nikku-24.json
+mods/data/smokebomb/smokebomb-Nikku-Jojo.json
+mods/data/smokebomb/smokebomb-Nikku.json
+mods/hotline024/stages/stage4.json
+mods/hotline024/stages/stage4.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/smokebomb/Voices.ogg
+mods/songs/smokebomb/voices.ogg
+mods/songs/smokebomb/Inst.ogg
+mods/songs/smokebomb/inst.ogg

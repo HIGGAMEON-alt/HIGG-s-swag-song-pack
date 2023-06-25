@@ -1,0 +1,10 @@
+mods/data/satellite-picnic/mod.txt
+mods/data/satellite-picnic/satellite-picnic-hard.json
+mods/hotline024/stages/boo.json
+mods/hotline024/stages/boo.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/satellite-picnic/Voices.ogg
+mods/songs/satellite-picnic/voices.ogg
+mods/songs/satellite-picnic/Inst.ogg
+mods/songs/satellite-picnic/inst.ogg

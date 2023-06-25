@@ -1,3 +1,4 @@
+mods/weeks/Hotline 024.json
 mods/weeks/Indie-cross.json
 mods/weeks/Kapi.json
 mods/weeks/Marlo.json

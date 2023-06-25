@@ -1,0 +1,10 @@
+mods/data/soda-disco-funk/mod.txt
+mods/data/soda-disco-funk/soda-disco-funk-hard.json
+mods/hotline024/stages/momogogo.json
+mods/hotline024/stages/momogogo.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/soda-disco-funk/Voices.ogg
+mods/songs/soda-disco-funk/voices.ogg
+mods/songs/soda-disco-funk/Inst.ogg
+mods/songs/soda-disco-funk/inst.ogg

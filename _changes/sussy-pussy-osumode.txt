@@ -1,0 +1,10 @@
+mods/data/sussy-pussy/mod.txt
+mods/data/sussy-pussy/sussy-pussy-hard.json
+mods/hotline024/stages/sus.json
+mods/hotline024/stages/sus.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/sussy-pussy/Voices.ogg
+mods/songs/sussy-pussy/voices.ogg
+mods/songs/sussy-pussy/Inst.ogg
+mods/songs/sussy-pussy/inst.ogg
