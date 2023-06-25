@@ -1,0 +1,21 @@
+mods/data/glitch/glitch.json
+mods/data/glitch/mod.txt
+mods/data/glitch/script.lua
+mods/au skeld/characters/glitch.json
+mods/au skeld/characters/gfT.json
+mods/au skeld/stages/glitch.json
+mods/au skeld/stages/glitch.lua
+mods/au skeld/images/characters/glitch.png
+mods/au skeld/images/characters/glitch.xml
+mods/au skeld/images/characters/gfTable.png
+mods/au skeld/images/characters/gfTable.xml
+mods/au skeld/scripts/Debug Keys.lua
+mods/au skeld/images/glitch/BG.png
+mods/au skeld/images/glitch/gray.png
+mods/au skeld/images/glitch/gray.xml
+mods/au skeld/images/glitch/green.png
+mods/au skeld/images/glitch/green.xml
+mods/songs/glitch/Voices.ogg
+mods/songs/glitch/voices.ogg
+mods/songs/glitch/Inst.ogg
+mods/songs/glitch/inst.ogg

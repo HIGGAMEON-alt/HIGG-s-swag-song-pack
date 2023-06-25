@@ -2,6 +2,7 @@ mods/weeks/Indie-cross.json
 mods/weeks/Kapi.json
 mods/weeks/Marlo.json
 mods/weeks/Ourple Guy DX.json
+mods/weeks/Skeld Symphony.json
 mods/weeks/SMB.  Funk Mix.json
 mods/weeks/Twinsomnia.json
 mods/weeks/V.S. Whitty Def Edition.json

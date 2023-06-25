@@ -1,27 +1,23 @@
 mods/data/double-trouble/double-trouble-hard.json
+mods/data/double-trouble/double-trouble.json
 mods/data/double-trouble/mod.txt
-mods/VS Impostor V4/characters/bf.json
-mods/VS Impostor V4/characters/impostor.json
-mods/VS Impostor V4/characters/gf.json
-mods/VS Impostor V4/stages/polus.json
-mods/VS Impostor V4/stages/polus.lua
-mods/VS Impostor V4/images/characters/impostor.png
-mods/VS Impostor V4/images/characters/impostor.xml
-mods/VS Impostor V4/images/characters/GF_assets.png
-mods/VS Impostor V4/images/characters/GF_assets.xml
-mods/VS Impostor V4/scripts/JSONLIB.lua
-mods/VS Impostor V4/scripts/script.lua
-mods/VS Impostor V4/images/stageassets/polus/polus_custom_sky.png
-mods/VS Impostor V4/images/stageassets/polus/polusrocks.png
-mods/VS Impostor V4/images/stageassets/polus/polusHills.png
-mods/VS Impostor V4/images/stageassets/polus/polus_custom_lab.png
-mods/VS Impostor V4/images/stageassets/polus/polus_custom_floor.png
-mods/VS Impostor V4/images/stageassets/polus/snow.png
-mods/VS Impostor V4/images/stageassets/polus/snow.xml
-mods/VS Impostor V4/images/stageassets/polus/speakerlonely.png
-mods/VS Impostor V4/images/stageassets/polus/speakerlonely.xml
-mods/VS Impostor V4/images/stageassets/polus/bfdead.png
-mods/VS Impostor V4/images/stageassets/polus/boppers_meltdown.png
+mods/data/double-trouble/script.lua
+mods/au skeld/characters/cyan.json
+mods/au skeld/characters/gfT.json
+mods/au skeld/stages/skeld.json
+mods/au skeld/stages/skeld.lua
+mods/au skeld/images/characters/cyan.png
+mods/au skeld/images/characters/cyan.xml
+mods/au skeld/images/characters/gfTable.png
+mods/au skeld/images/characters/gfTable.xml
+mods/au skeld/scripts/Debug Keys.lua
+mods/au skeld/characters/bf-lol.json
+mods/au skeld/images/characters/lol.png
+mods/au skeld/images/characters/lol.xml
+mods/au skeld/images/BG.png
+mods/au skeld/images/table.png
+mods/au skeld/images/tableboppers.png
+mods/au skeld/images/tableboppers.xml
 mods/songs/double-trouble/Voices.ogg
 mods/songs/double-trouble/voices.ogg
 mods/songs/double-trouble/Inst.ogg

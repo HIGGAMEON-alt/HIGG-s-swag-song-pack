@@ -1,0 +1,12 @@
+mods/data/sus-list/sus-list-hard.json
+mods/characters/bf.json
+mods/characters/gf.json
+mods/stages/stage.json
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/songs/sus-list/Voices.ogg
+mods/songs/sus-list/voices.ogg
+mods/songs/sus-list/Inst.ogg
+mods/songs/sus-list/inst.ogg

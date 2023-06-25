@@ -1,0 +1,14 @@
+mods/data/defeat-kiwi/defeat-kiwi.json
+mods/data/defeat-kiwi/mod.txt
+mods/au skeld/characters/black.json
+mods/au skeld/stages/defeat.json
+mods/au skeld/stages/defeat.lua
+mods/au skeld/images/characters/black.png
+mods/au skeld/images/characters/black.xml
+mods/au skeld/scripts/Debug Keys.lua
+mods/au skeld/images/defeat/BG.png
+mods/au skeld/images/defeat/filter.png
+mods/songs/defeat-kiwi/Voices.ogg
+mods/songs/defeat-kiwi/voices.ogg
+mods/songs/defeat-kiwi/Inst.ogg
+mods/songs/defeat-kiwi/inst.ogg

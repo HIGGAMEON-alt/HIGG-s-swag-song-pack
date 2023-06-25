@@ -1,0 +1,9 @@
+mods/data/defeat-kiwi/defeat-kiwi.json
+mods/data/defeat-kiwi/mod.txt
+mods/au skeld/stages/defeat.json
+mods/au skeld/stages/defeat.lua
+mods/au skeld/scripts/Debug Keys.lua
+mods/songs/defeat-kiwi/Voices.ogg
+mods/songs/defeat-kiwi/voices.ogg
+mods/songs/defeat-kiwi/Inst.ogg
+mods/songs/defeat-kiwi/inst.ogg
