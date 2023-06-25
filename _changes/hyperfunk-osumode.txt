@@ -1,0 +1,13 @@
+mods/data/hyperfunk/events.json
+mods/data/hyperfunk/hyperfunk-Nikku-24.json
+mods/data/hyperfunk/hyperfunk-Nikku-Jojo.json
+mods/data/hyperfunk/hyperfunk-Nikku.json
+mods/data/hyperfunk/mod.txt
+mods/hotline024/stages/skatepark.json
+mods/hotline024/stages/skatepark.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/hyperfunk/Voices.ogg
+mods/songs/hyperfunk/voices.ogg
+mods/songs/hyperfunk/Inst.ogg
+mods/songs/hyperfunk/inst.ogg

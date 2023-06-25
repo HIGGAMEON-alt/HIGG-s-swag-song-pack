@@ -1,0 +1,10 @@
+mods/data/close-chuckle/close-chuckle-hard.json
+mods/data/close-chuckle/mod.txt
+mods/hotline024/stages/smiling.json
+mods/hotline024/stages/smiling.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/close-chuckle/Voices.ogg
+mods/songs/close-chuckle/voices.ogg
+mods/songs/close-chuckle/Inst.ogg
+mods/songs/close-chuckle/inst.ogg

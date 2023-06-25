@@ -1,0 +1,12 @@
+mods/data/fandomania/events.json
+mods/data/fandomania/fandomania-Nikku-24.json
+mods/data/fandomania/fandomania-Nikku-Jojo.json
+mods/data/fandomania/fandomania-Nikku.json
+mods/data/fandomania/mod.txt
+mods/data/fandomania/script.lua
+mods/hotline024/stages/hallway.json
+mods/hotline024/stages/hallway.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/fandomania/Inst.ogg
+mods/songs/fandomania/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/broadcasting/broadcasting-Nikku-24.json
+mods/data/broadcasting/broadcasting-Nikku-Jojo.json
+mods/data/broadcasting/broadcasting-Nikku.json
+mods/data/broadcasting/mod.txt
+mods/hotline024/stages/space.json
+mods/hotline024/stages/space.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/broadcasting/Voices.ogg
+mods/songs/broadcasting/voices.ogg
+mods/songs/broadcasting/Inst.ogg
+mods/songs/broadcasting/inst.ogg

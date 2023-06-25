@@ -1,0 +1,13 @@
+mods/data/astral-projection/astral-projection-hard.json
+mods/data/astral-projection/centernotes.lua
+mods/data/astral-projection/events.json
+mods/data/astral-projection/mod.txt
+mods/data/astral-projection/script.lua
+mods/hotline024/stages/astral.json
+mods/hotline024/stages/astral.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/astral-projection/Voices.ogg
+mods/songs/astral-projection/voices.ogg
+mods/songs/astral-projection/Inst.ogg
+mods/songs/astral-projection/inst.ogg

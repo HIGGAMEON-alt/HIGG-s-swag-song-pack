@@ -1,0 +1,10 @@
+mods/data/armageddon/armageddon-hard.json
+mods/data/armageddon/mod.txt
+mods/hotline024/stages/amarged.json
+mods/hotline024/stages/amarged.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/armageddon/Voices.ogg
+mods/songs/armageddon/voices.ogg
+mods/songs/armageddon/Inst.ogg
+mods/songs/armageddon/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/expurgated/expurgated-Nikku-24.json
+mods/data/expurgated/expurgated-Nikku-Jojo.json
+mods/data/expurgated/expurgated-Nikku.json
+mods/data/expurgated/mod.txt
+mods/hotline024/stages/expurgated.json
+mods/hotline024/stages/expurgated.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/expurgated/Voices.ogg
+mods/songs/expurgated/voices.ogg
+mods/songs/expurgated/Inst.ogg
+mods/songs/expurgated/inst.ogg

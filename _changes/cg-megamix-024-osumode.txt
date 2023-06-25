@@ -1,0 +1,12 @@
+mods/data/cg-megamix-024/cg-megamix-024-Nikku-24.json
+mods/data/cg-megamix-024/cg-megamix-024-Nikku-Jojo.json
+mods/data/cg-megamix-024/cg-megamix-024-Nikku.json
+mods/data/cg-megamix-024/mod.txt
+mods/hotline024/stages/covers.json
+mods/hotline024/stages/covers.lua
+mods/hotline024/scripts/do-not-delete.lua
+mods/hotline024/fonts/font.ttf
+mods/songs/cg-megamix-024/Voices.ogg
+mods/songs/cg-megamix-024/voices.ogg
+mods/songs/cg-megamix-024/Inst.ogg
+mods/songs/cg-megamix-024/inst.ogg
