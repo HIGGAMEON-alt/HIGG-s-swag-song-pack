@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ad.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="adIdle0000" x="1080" y="0" width="1080" height="608"/>
+    <SubTexture name="adIdle0001" x="2160" y="0" width="1080" height="608"/>
+    <SubTexture name="adIdle0002" x="3240" y="0" width="1080" height="608"/>
+    <SubTexture name="adIdle0003" x="4320" y="0" width="1080" height="608"/>
+    <SubTexture name="adIdle0004" x="5400" y="0" width="1080" height="608"/>
+    <SubTexture name="adIdle0005" x="6480" y="0" width="1080" height="608"/>
+	<SubTexture name="adIdle0006" x="7560" y="0" width="1080" height="608"/>
+	<SubTexture name="adIdle0007" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0008" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0009" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0010" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0011" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0012" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0013" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0014" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0015" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0016" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0017" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0018" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0019" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0020" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0021" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0022" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0023" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0024" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0025" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0026" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0027" x="1080" y="607.5" width="1080" height="608"/>
+	<SubTexture name="adIdle0028" x="1080" y="607.5" width="1080" height="608"/>
+</TextureAtlas>

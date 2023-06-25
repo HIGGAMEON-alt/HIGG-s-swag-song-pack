@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Soda Disco Funk", "momo", [148, 22, 83]],
+		["Armageddon", "rude1", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "PICO",
+	"difficulties": "HARD",	
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
