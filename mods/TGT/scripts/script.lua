@@ -1,7 +1,7 @@
 
 
 function onCreatePost()
-    local json = dofile('localrepotest%HIGG-s-swag-song-pack/mods/TGT/scripts/JSONLIB.lua')
+    local json = dofile('HIGGAMEON-alt%HIGG-s-swag-song-pack/mods/TGT/scripts/JSONLIB.lua')
     local stageData_placeHolder = json.parse(getTextFromFile('stages/'..curStage..'.json'))
     local stageData = stageData_placeHolder
     makeLuaSprite('bg','', -1500, -1500)
