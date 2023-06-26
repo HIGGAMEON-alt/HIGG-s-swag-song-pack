@@ -146,6 +146,7 @@ function onUpdate()
         setProperty('timeBar.alpha', 0)
         removeLuaSprite('bg')
         removeLuaSprite('cargoDark')
+        triggerEvent('Change Character', 'BF', 'blackdk')
         triggerEvent('Change Character', 'BF', 'bf-defeat-normal')
         setBlendMode('stageback', 'ADD')
     end

@@ -42,6 +42,14 @@ mods/marlo/images/blomerNOTES.png
 mods/marlo/images/blomerNOTES.xml
 mods/marlo/images/louitchNOTE_assets.png
 mods/marlo/images/louitchNOTE_assets.xml
+mods/marlo/images/sebastianNOTE_assets.png
+mods/marlo/images/sebastianNOTE_assets.xml
+mods/marlo/images/retroNOTE_assets.png
+mods/marlo/images/retroNOTE_assets.xml
+mods/marlo/images/marloNOTE_assets.png
+mods/marlo/images/marloNOTE_assets.xml
+mods/marlo/images/characters/luitch_back.png
+mods/marlo/images/characters/luitch_back.xml
 mods/songs/blomer/Voices.ogg
 mods/songs/blomer/voices.ogg
 mods/songs/blomer/Inst.ogg

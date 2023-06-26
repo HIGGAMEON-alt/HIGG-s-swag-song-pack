@@ -18,6 +18,18 @@ mods/marlo/scripts/playernotes.lua
 mods/marlo/images/crowdpeoples.png
 mods/marlo/images/crowdpeoples.xml
 mods/marlo/images/peoples background.png
+mods/marlo/images/sebastianNOTE_assets.png
+mods/marlo/images/sebastianNOTE_assets.xml
+mods/marlo/images/retroNOTE_assets.png
+mods/marlo/images/retroNOTE_assets.xml
+mods/marlo/images/marloNOTE_assets.png
+mods/marlo/images/marloNOTE_assets.xml
+mods/marlo/images/louitchNOTE_assets.png
+mods/marlo/images/louitchNOTE_assets.xml
+mods/marlo/images/characters/blomer marlo.png
+mods/marlo/images/characters/blomer marlo.xml
+mods/marlo/images/characters/luitch_back.png
+mods/marlo/images/characters/luitch_back.xml
 mods/songs/peoples/Voices.ogg
 mods/songs/peoples/voices.ogg
 mods/songs/peoples/Inst.ogg

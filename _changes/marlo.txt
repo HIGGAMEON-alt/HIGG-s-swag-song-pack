@@ -18,6 +18,18 @@ mods/marlo/sounds/SNIPER RIFEL.ogg
 mods/marlo/images/marlo background sigh.png
 mods/marlo/images/maro bushes also sorry for yelling in the mario ground filename.png
 mods/marlo/images/MARO GROUND.png
+mods/marlo/images/sebastianNOTE_assets.png
+mods/marlo/images/sebastianNOTE_assets.xml
+mods/marlo/images/retroNOTE_assets.png
+mods/marlo/images/retroNOTE_assets.xml
+mods/marlo/images/marloNOTE_assets.png
+mods/marlo/images/marloNOTE_assets.xml
+mods/marlo/images/louitchNOTE_assets.png
+mods/marlo/images/louitchNOTE_assets.xml
+mods/marlo/images/characters/blomer marlo.png
+mods/marlo/images/characters/blomer marlo.xml
+mods/marlo/images/characters/luitch_back.png
+mods/marlo/images/characters/luitch_back.xml
 mods/songs/marlo/Voices.ogg
 mods/songs/marlo/voices.ogg
 mods/songs/marlo/Inst.ogg

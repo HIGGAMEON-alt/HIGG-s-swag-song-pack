@@ -121,6 +121,16 @@ function onCreate()
 		setProperty("accuracyText2.antialiasing", false)
 		addLuaText("accuracyText2")
 
+		--[[
+		FNF onlineStuff
+		makeAnimatedLuaSprite("e","ui/pixel/rankings")
+		makeAnimatedLuaSprite("e","ui/mari0/rankings")
+		makeAnimatedLuaSprite("e","ui/smm/rankings")
+		makeAnimatedLuaSprite("e","ui/gameboy/rankings")
+		makeAnimatedLuaSprite("e","ui/kirby/rankings")
+		makeAnimatedLuaSprite("e","ui/pcport/rankings")
+		makeAnimatedLuaSprite("e","ui/smb3/rankings")
+		]]
 		makeAnimatedLuaSprite("ratingIcon", "ui/"..suffix.."/rankings", screenWidth - (50 * 6), barY + (1 * 6))
 		addAnimationByPrefix("ratingIcon", "You Suck!", "suck", 9, true);addAnimationByPrefix("ratingIcon", "F", "suck", 9, true)
 		addAnimationByPrefix("ratingIcon", "Shit", "shit", 9, true);addAnimationByPrefix("ratingIcon", "D-", "bad", 9, true);addAnimationByPrefix("ratingIcon", "D", "bad", 9, true)

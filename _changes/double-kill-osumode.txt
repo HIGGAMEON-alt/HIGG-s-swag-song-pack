@@ -1,5 +1,6 @@
 mods/data/double-kill/double-kill-6key.json
 mods/data/double-kill/double-kill-hard.json
+mods/data/double-kill/events.json
 mods/data/double-kill/mod.txt
 mods/VS Impostor V4/stages/cargo.json
 mods/VS Impostor V4/stages/cargo.lua

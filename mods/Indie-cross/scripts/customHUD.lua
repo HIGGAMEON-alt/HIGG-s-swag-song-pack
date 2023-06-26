@@ -1,3 +1,8 @@
+--[[FNF Online onlineStuff
+makeAnimatedLuaSprite('e', 'IC_NoteSplash - grey', 0 ,0)
+makeAnimatedLuaSprite('e', 'IC_NoteSplash', 0 ,0)
+]]
+
 local haveDodge = false
 local haveAttack = false
 local enableTimer = false

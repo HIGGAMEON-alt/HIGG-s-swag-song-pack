@@ -19,5 +19,17 @@ mods/marlo/images/hud.png
 mods/marlo/images/boo idle.png
 mods/marlo/images/boo idle.xml
 mods/marlo/images/lou stage ground.png
+mods/marlo/images/sebastianNOTE_assets.png
+mods/marlo/images/sebastianNOTE_assets.xml
+mods/marlo/images/retroNOTE_assets.png
+mods/marlo/images/retroNOTE_assets.xml
+mods/marlo/images/marloNOTE_assets.png
+mods/marlo/images/marloNOTE_assets.xml
+mods/marlo/images/louitchNOTE_assets.png
+mods/marlo/images/louitchNOTE_assets.xml
+mods/marlo/images/characters/blomer marlo.png
+mods/marlo/images/characters/blomer marlo.xml
+mods/marlo/images/characters/luitch_back.png
+mods/marlo/images/characters/luitch_back.xml
 mods/songs/lou-itch-hard/Inst.ogg
 mods/songs/lou-itch-hard/inst.ogg

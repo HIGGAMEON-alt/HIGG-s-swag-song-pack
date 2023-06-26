@@ -10,7 +10,6 @@ mods/au skeld/images/characters/red.png
 mods/au skeld/images/characters/red.xml
 mods/au skeld/images/characters/gfTable.png
 mods/au skeld/images/characters/gfTable.xml
-mods/au skeld/scripts/Debug Keys.lua
 mods/au skeld/images/emergency.png
 mods/au skeld/images/emergency.xml
 mods/au skeld/images/characters/cyan.png

@@ -29,5 +29,17 @@ mods/marlo/images/genesis smile.png
 mods/marlo/images/cool.png
 mods/marlo/images/sebas ground.png
 mods/marlo/images/fisherpricedontsueme.png
+mods/marlo/images/sebastianNOTE_assets.png
+mods/marlo/images/sebastianNOTE_assets.xml
+mods/marlo/images/retroNOTE_assets.png
+mods/marlo/images/retroNOTE_assets.xml
+mods/marlo/images/marloNOTE_assets.png
+mods/marlo/images/marloNOTE_assets.xml
+mods/marlo/images/louitchNOTE_assets.png
+mods/marlo/images/louitchNOTE_assets.xml
+mods/marlo/images/characters/blomer marlo.png
+mods/marlo/images/characters/blomer marlo.xml
+mods/marlo/images/characters/luitch_back.png
+mods/marlo/images/characters/luitch_back.xml
 mods/songs/sebastian-hard/Inst.ogg
 mods/songs/sebastian-hard/inst.ogg

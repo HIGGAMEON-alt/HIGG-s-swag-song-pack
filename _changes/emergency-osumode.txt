@@ -4,7 +4,6 @@ mods/data/emergency/opponentMiss.lua
 mods/data/emergency/script.lua
 mods/au skeld/stages/skeld.json
 mods/au skeld/stages/skeld.lua
-mods/au skeld/scripts/Debug Keys.lua
 mods/songs/emergency/Voices.ogg
 mods/songs/emergency/voices.ogg
 mods/songs/emergency/Inst.ogg

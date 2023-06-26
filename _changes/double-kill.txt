@@ -1,5 +1,6 @@
 mods/data/double-kill/double-kill-6key.json
 mods/data/double-kill/double-kill-hard.json
+mods/data/double-kill/events.json
 mods/data/double-kill/mod.txt
 mods/VS Impostor V4/characters/bf.json
 mods/VS Impostor V4/characters/whitedk.json
@@ -16,6 +17,9 @@ mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stageassets/airship/cargo.png
 mods/VS Impostor V4/images/iluminao omaga.png
+mods/VS Impostor V4/characters/blackdk.json
+mods/VS Impostor V4/images/characters/blackdk.png
+mods/VS Impostor V4/images/characters/blackdk.xml
 mods/VS Impostor V4/characters/bf-defeat-normal.json
 mods/VS Impostor V4/images/characters/BF_Defeat_Nomal.png
 mods/VS Impostor V4/images/characters/BF_Defeat_Nomal.xml

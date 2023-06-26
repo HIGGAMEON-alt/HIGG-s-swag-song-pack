@@ -1,3 +1,15 @@
+--[[
+FNFOnline stuff weird
+
+makeAnimatedLuaSprite('e', 'sebastianNOTE_assets', 0 ,0)
+makeAnimatedLuaSprite('e', 'retroNOTE_assets', 0 ,0)
+makeAnimatedLuaSprite('e', 'marloNOTE_assets', 0 ,0)
+makeAnimatedLuaSprite('e', 'louitchNOTE_assets', 0 ,0)
+makeAnimatedLuaSprite('e', 'blomerNOTE_assets', 0 ,0)
+makeAnimatedLuaSprite('e', 'characters/blomer marlo', 0 ,0)
+makeAnimatedLuaSprite('e', 'characters/luitch_back', 0 ,0)
+]]
+
 local Strums_Texture = ''
 local Notes_Texture = ''
 local Splashes_Texture = ''

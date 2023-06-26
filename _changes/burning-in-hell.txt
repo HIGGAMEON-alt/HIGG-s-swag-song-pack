@@ -87,6 +87,9 @@ mods/Indie-cross/images/healthbar-ic/bendyhealthbar-grey.png
 mods/Indie-cross/images/cup/NOTECup_assetsSplash.png
 mods/Indie-cross/images/IC_NoteSplash - grey.png
 mods/Indie-cross/images/ICImages/musicBar.png
+mods/Indie-cross/images/IC_NoteSplash - grey.xml
+mods/Indie-cross/images/IC_NoteSplash.png
+mods/Indie-cross/images/IC_NoteSplash.xml
 mods/Indie-cross/sounds/bendy/inked.ogg
 mods/songs/burning-in-hell/Voices.ogg
 mods/songs/burning-in-hell/voices.ogg

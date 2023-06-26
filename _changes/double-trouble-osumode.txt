@@ -4,7 +4,6 @@ mods/data/double-trouble/mod.txt
 mods/data/double-trouble/script.lua
 mods/au skeld/stages/skeld.json
 mods/au skeld/stages/skeld.lua
-mods/au skeld/scripts/Debug Keys.lua
 mods/songs/double-trouble/Voices.ogg
 mods/songs/double-trouble/voices.ogg
 mods/songs/double-trouble/Inst.ogg

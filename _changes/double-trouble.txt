@@ -10,7 +10,6 @@ mods/au skeld/images/characters/cyan.png
 mods/au skeld/images/characters/cyan.xml
 mods/au skeld/images/characters/gfTable.png
 mods/au skeld/images/characters/gfTable.xml
-mods/au skeld/scripts/Debug Keys.lua
 mods/au skeld/characters/bf-lol.json
 mods/au skeld/images/characters/lol.png
 mods/au skeld/images/characters/lol.xml

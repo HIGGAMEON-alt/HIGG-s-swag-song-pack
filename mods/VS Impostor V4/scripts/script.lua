@@ -1,9 +1,14 @@
 local step = 0
 local setPos = {0,0}
 local lockedCamera = false
+local player
 
 function onCreate()
-    local json = dofile('HIGGAMEON-alt%HIGG-s-swag-song/mods/VS Impostor V4/JSONLIB.lua')
+    local json = dofile('HIGGAMEON-alt%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
+    local stageData_placeHolder = json.parse(getTextFromFile('stages/'..curStage..'.json'))
+    local stageData = stageData_placeHolder
+    local songPlaceHolder = json.parse(getTextFromFile('data/'..songName..'/'..songName..'-'..difficultyName..'.json'))
+    local SONG = songPlaceHolder.song
     --SONG = runHaxeCode([=[
     --  return [Song.loadFromJson(Highscore.formatSong(PlayState.SONG.song, PlayState.storyDifficulty), Paths.formatToSongPath(PlayState.SONG.song))];
     --]=])[1]
@@ -12,19 +17,17 @@ function onCreate()
     --stageData_placeHolder = runHaxeCode[[
     --  return [StageData.getStageFile(PlayState.curStage), 'what'];
 --]][1]
-    local stageData_placeHolder = json.parse(getTextFromFile('stages/'..curStage..'.json'))
-    local stageData = stageData_placeHolder
     player = {{'boyfriend', boyfriendName}, {'dad', dadName}, {'gf', gfName}}
     --player[1][2] = json.parse(getTextFromFile('characters/'..player[1][2]..'.json'))
     --player[2][2] = json.parse(getTextFromFile('characters/'..player[2][2]..'.json'))
     --player[3][2] = json.parse(getTextFromFile('characters/'..player[3][2]..'.json'))
+    debugPrint('checking char...')
     if SONG.player4 == nil then
-        setOnLuas('secondopp', false)
+        debugPrint('Character variable not found!')
     else
-        setOnLuas('secondopp', true)
-        --makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
+        debugPrint('adding'..SONG.player4..'...')
+        makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
     end
-    --makeChar('flowey', 'mom2', false, 'Opponent', stageData.opponent[1] + 500, stageData.opponent[2] - 100)
 end
 
 --[[
@@ -60,8 +63,12 @@ Both
 ]]
 
 function makeChar(JsonFileName,name,isPlayer,takeStrumsFrom,x,y, strictNotes)
+debugPrint('making character...')
 addToList(player,{name,JsonFileName, x, y})
+debugPrint(player[#player][2])
+debugPrint('looking for characters/'..player[#player][2]..'.json')
 player[#player][2] = json.parse(getTextFromFile('characters/'..player[#player][2]..'.json'))
+debugPrint('json prased character')
 player[#player][3] = isPlayer
 if strictNotes == nil then
 player[#player][4] = nil
@@ -69,6 +76,7 @@ else
 player[#player][4] = strictNotes
 end
 player[#player][5] = takeStrumsFrom:lower()
+debugPrint('adding lua sprite')
 makeAnimatedLuaSprite(player[#player][1], player[#player][2].image, x, y)
 for i=1,#player[#player][2].animations do
 addAnimationByPrefix(player[#player][1], player[#player][2].animations[i].anim, player[#player][2].animations[i].name, player[#player][2].animations[i].fps, false)

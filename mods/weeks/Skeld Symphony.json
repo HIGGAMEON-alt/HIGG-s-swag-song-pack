@@ -1,1 +1,9 @@
-{"songs":[["emergency",""],["double-trouble","hard,"],["glitch",""],["defeat-kiwi",""]],"category":"Skeld Symphony","hideFreeplay":false,"startUnlocked":true}
+{"songs":[
+
+["emergency","normal"],
+["double-trouble","normal"],
+
+["glitch","normal"],
+["defeat-kiwi","normal"]
+
+],"category":"Skeld Symphony","hideFreeplay":false,"startUnlocked":true}

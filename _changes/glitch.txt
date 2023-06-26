@@ -9,7 +9,6 @@ mods/au skeld/images/characters/glitch.png
 mods/au skeld/images/characters/glitch.xml
 mods/au skeld/images/characters/gfTable.png
 mods/au skeld/images/characters/gfTable.xml
-mods/au skeld/scripts/Debug Keys.lua
 mods/au skeld/images/glitch/BG.png
 mods/au skeld/images/glitch/gray.png
 mods/au skeld/images/glitch/gray.xml
