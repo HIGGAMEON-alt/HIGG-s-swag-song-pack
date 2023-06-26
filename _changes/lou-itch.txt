@@ -10,8 +10,10 @@ mods/marlo/images/characters/lou itch.png
 mods/marlo/images/characters/lou itch.xml
 mods/marlo/custom_events/Set Cam Zoom.lua
 mods/marlo/custom_events/Image Flash.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/marlo/images/fog.png
 mods/marlo/images/groundback lou.png
 mods/marlo/images/hud.png

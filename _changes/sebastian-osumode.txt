@@ -7,8 +7,10 @@ mods/marlo/stages/sebastian.json
 mods/marlo/stages/sebastian.lua
 mods/marlo/custom_events/guitar.lua
 mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/songs/sebastian/Voices.ogg
 mods/songs/sebastian/voices.ogg
 mods/songs/sebastian/Inst.ogg

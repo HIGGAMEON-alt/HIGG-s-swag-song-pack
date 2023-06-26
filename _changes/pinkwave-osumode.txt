@@ -4,6 +4,8 @@ mods/data/pinkwave/pinkwave-hard.json
 mods/VS Impostor V4/stages/plantroom.json
 mods/VS Impostor V4/stages/plantroom.lua
 mods/VS Impostor V4/custom_events/Camera Twist.lua
+mods/VS Impostor V4/custom_events/pink toggle.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/pinkwave/Voices.ogg

@@ -4,6 +4,7 @@ mods/data/victory/victory-hard.json
 mods/VS Impostor V4/stages/victory.json
 mods/VS Impostor V4/stages/victory.lua
 mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/victory/Voices.ogg

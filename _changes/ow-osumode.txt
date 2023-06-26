@@ -2,6 +2,7 @@ mods/data/ow/mod.txt
 mods/data/ow/ow-hard.json
 mods/VS Impostor V4/stages/kills.json
 mods/VS Impostor V4/stages/kills.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/ow/Voices.ogg

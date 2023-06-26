@@ -10,6 +10,7 @@ mods/VS Impostor V4/images/characters/white.png
 mods/VS Impostor V4/images/characters/white.xml
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stageassets/airship/newAirship/fartingSky.png
@@ -22,6 +23,18 @@ mods/VS Impostor V4/images/stageassets/airship/newAirship/backDlowFloor.png
 mods/VS Impostor V4/images/stageassets/airship/newAirship/DlowFloor.png
 mods/VS Impostor V4/images/stageassets/airship/newAirship/glowYellow.png
 mods/VS Impostor V4/images/stageassets/airship/newAirship/Teleporter.png
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/oversight/Voices.ogg
 mods/songs/oversight/voices.ogg
 mods/songs/oversight/Inst.ogg

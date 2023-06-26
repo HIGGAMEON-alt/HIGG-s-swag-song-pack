@@ -3,6 +3,7 @@ mods/data/ejected/events.json
 mods/data/ejected/mod.txt
 mods/VS Impostor V4/stages/ejected.json
 mods/VS Impostor V4/stages/ejected.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/ejected/Voices.ogg

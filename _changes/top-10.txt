@@ -6,6 +6,7 @@ mods/VS Impostor V4/stages/polus.json
 mods/VS Impostor V4/stages/polus.lua
 mods/VS Impostor V4/images/characters/top10.png
 mods/VS Impostor V4/images/characters/top10.xml
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stageassets/polus/polus_custom_sky.png
@@ -19,5 +20,17 @@ mods/VS Impostor V4/images/stageassets/polus/speakerlonely.png
 mods/VS Impostor V4/images/stageassets/polus/speakerlonely.xml
 mods/VS Impostor V4/images/stageassets/polus/bfdead.png
 mods/VS Impostor V4/images/stageassets/polus/boppers_meltdown.png
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/top-10/Inst.ogg
 mods/songs/top-10/inst.ogg

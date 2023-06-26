@@ -3,6 +3,7 @@ mods/data/turbulence/mod.txt
 mods/data/turbulence/turbulence-hard.json
 mods/VS Impostor V4/stages/turbulence.json
 mods/VS Impostor V4/stages/turbulence.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/turbulence/Voices.ogg

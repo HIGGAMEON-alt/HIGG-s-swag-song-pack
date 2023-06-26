@@ -2,6 +2,7 @@ mods/data/ashes/ashes-hard.json
 mods/data/ashes/mod.txt
 mods/VS Impostor V4/stages/polus2.json
 mods/VS Impostor V4/stages/polus2.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/ashes/Voices.ogg

@@ -6,6 +6,7 @@ mods/VS Impostor V4/stages/warehouse.lua
 mods/VS Impostor V4/custom_notetypes/Both Opponents Sing.lua
 mods/VS Impostor V4/custom_notetypes/Opponent 2 Sing.lua
 mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/torture/Voices.ogg

@@ -9,11 +9,24 @@ mods/VS Impostor V4/images/characters/HENRY_ASSS.png
 mods/VS Impostor V4/images/characters/HENRY_ASSS.xml
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stagehenry.png
 mods/VS Impostor V4/images/fat_ugly_bitches.png
 mods/VS Impostor V4/images/fat_ugly_bitches.xml
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/titular/Voices.ogg
 mods/songs/titular/voices.ogg
 mods/songs/titular/Inst.ogg

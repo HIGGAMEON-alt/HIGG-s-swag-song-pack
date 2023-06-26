@@ -11,8 +11,10 @@ mods/marlo/custom_notetypes/thedudnote.lua
 mods/marlo/custom_notetypes/blomernotes.lua
 mods/marlo/custom_notetypes/louitchnotes.lua
 mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/songs/blomer/Voices.ogg
 mods/songs/blomer/voices.ogg
 mods/songs/blomer/Inst.ogg

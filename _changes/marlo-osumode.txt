@@ -6,8 +6,10 @@ mods/data/marlo/script.lua
 mods/marlo/stages/marlo.json
 mods/marlo/stages/marlo.lua
 mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/marlo/sounds/SNIPER RIFEL.ogg
 mods/songs/marlo/Voices.ogg
 mods/songs/marlo/voices.ogg

@@ -9,9 +9,22 @@ mods/VS Impostor V4/images/characters/Jerma.png
 mods/VS Impostor V4/images/characters/Jerma.xml
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/jerma.png
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/insane-streamer/Voices.ogg
 mods/songs/insane-streamer/voices.ogg
 mods/songs/insane-streamer/Inst.ogg

@@ -2,8 +2,21 @@ mods/data/dissension/dissension-hard.json
 mods/data/dissension/mod.txt
 mods/VS Impostor V4/characters/gf-christmas.json
 mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/dissension/Voices.ogg
 mods/songs/dissension/voices.ogg
 mods/songs/dissension/Inst.ogg

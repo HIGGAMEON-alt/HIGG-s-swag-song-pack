@@ -12,6 +12,7 @@ mods/VS Impostor V4/images/characters/maroon.png
 mods/VS Impostor V4/images/characters/maroon.xml
 mods/VS Impostor V4/images/characters/gfpolus.png
 mods/VS Impostor V4/images/characters/gfpolus.xml
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stageassets/polus/newsky.png
@@ -24,6 +25,18 @@ mods/VS Impostor V4/images/stageassets/polus/snowback.xml
 mods/VS Impostor V4/images/stageassets/polus/newstage.png
 mods/VS Impostor V4/images/stageassets/polus/snowfront.png
 mods/VS Impostor V4/images/stageassets/polus/snowfront.xml
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/magmatic/Voices.ogg
 mods/songs/magmatic/voices.ogg
 mods/songs/magmatic/Inst.ogg

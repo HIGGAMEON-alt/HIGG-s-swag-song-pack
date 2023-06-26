@@ -12,8 +12,10 @@ mods/marlo/characters/hardmario.json
 mods/marlo/images/characters/marlo-gun.png
 mods/marlo/images/characters/marlo-gun.xml
 mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/marlo/sounds/SNIPER RIFEL.ogg
 mods/marlo/images/marlo background sigh.png
 mods/marlo/images/maro bushes also sorry for yelling in the mario ground filename.png

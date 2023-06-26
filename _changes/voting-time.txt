@@ -1,5 +1,6 @@
 mods/data/voting-time/events.json
 mods/data/voting-time/mod.txt
+mods/data/voting-time/script.lua
 mods/data/voting-time/voting-time-hard.json
 mods/data/voting-time/voting-time-other.json
 mods/VS Impostor V4/characters/bf.json
@@ -14,12 +15,25 @@ mods/VS Impostor V4/images/characters/jelqer.xml
 mods/VS Impostor V4/characters/gf.json
 mods/VS Impostor V4/images/characters/GF_assets.png
 mods/VS Impostor V4/images/characters/GF_assets.xml
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stageassets/airship/backer_groung_voting.png
 mods/VS Impostor V4/images/stageassets/airship/main_bg_meeting.png
 mods/VS Impostor V4/images/stageassets/airship/CHAIRS!!!!!!!!!!!!!!!.png
 mods/VS Impostor V4/images/stageassets/airship/table_voting.png
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/voting-time/Voices.ogg
 mods/songs/voting-time/voices.ogg
 mods/songs/voting-time/Inst.ogg

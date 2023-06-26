@@ -1,3 +1,4 @@
 function onCreatePost()
-setProperty('mom.visible', false)
+setProperty('mom.alpha', 0.001)
+--triggerEvent('Change Chracter', 'dad', 'ellie')
 end

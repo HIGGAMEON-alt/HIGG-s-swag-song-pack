@@ -4,8 +4,10 @@ mods/data/peoples/peoples-easy.json
 mods/marlo/stages/peopel.json
 mods/marlo/stages/peopel.lua
 mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/songs/peoples/Voices.ogg
 mods/songs/peoples/voices.ogg
 mods/songs/peoples/Inst.ogg

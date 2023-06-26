@@ -3,6 +3,8 @@ mods/data/sussus-moogus/mod.txt
 mods/data/sussus-moogus/sussus-moogus-hard.json
 mods/VS Impostor V4/stages/polus.json
 mods/VS Impostor V4/stages/polus.lua
+mods/VS Impostor V4/custom_events/Reactor Beep.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/sussus-moogus/Voices.ogg

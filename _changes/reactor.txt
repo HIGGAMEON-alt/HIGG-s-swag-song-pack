@@ -12,12 +12,26 @@ mods/VS Impostor V4/images/characters/impostorr.png
 mods/VS Impostor V4/images/characters/impostorr.xml
 mods/VS Impostor V4/images/characters/gf_reactor.png
 mods/VS Impostor V4/images/characters/gf_reactor.xml
+mods/VS Impostor V4/custom_events/Reactor Beep.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/VS Impostor V4/images/stageassets/reactor/wallbgthing.png
 mods/VS Impostor V4/images/stageassets/reactor/floornew.png
 mods/VS Impostor V4/images/stageassets/reactor/backbars.png
 mods/VS Impostor V4/images/stageassets/reactor/frontpillars.png
+mods/VS Impostor V4/images/sick.png
+mods/VS Impostor V4/images/good.png
+mods/VS Impostor V4/images/bad.png
+mods/VS Impostor V4/images/shit.png
+mods/VS Impostor V4/images/noteSplashes.png
+mods/VS Impostor V4/images/noteSplashes.xml
+mods/VS Impostor V4/characters/ellie.json
+mods/VS Impostor V4/images/characters/Ellie_Assets.png
+mods/VS Impostor V4/images/characters/Ellie_Assets.xml
+mods/VS Impostor V4/characters/madgus.json
+mods/VS Impostor V4/images/characters/madgus.png
+mods/VS Impostor V4/images/characters/madgus.xml
 mods/songs/reactor/Voices.ogg
 mods/songs/reactor/voices.ogg
 mods/songs/reactor/Inst.ogg

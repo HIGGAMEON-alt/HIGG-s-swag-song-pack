@@ -19,8 +19,10 @@ mods/marlo/images/characters/BOYFRIEND-8BIT.png
 mods/marlo/images/characters/BOYFRIEND-8BIT.xml
 mods/marlo/custom_events/guitar.lua
 mods/marlo/custom_events/Set Cam Zoom.lua
+mods/marlo/scripts/JSONLIB.lua
 mods/marlo/scripts/opponentnotes.lua
 mods/marlo/scripts/playernotes.lua
+mods/marlo/scripts/script.lua
 mods/marlo/images/zad.png
 mods/marlo/images/zad.xml
 mods/marlo/images/iGrave.png

@@ -3,7 +3,9 @@ mods/data/o2/mod.txt
 mods/data/o2/o2-hard.json
 mods/VS Impostor V4/stages/lounge.json
 mods/VS Impostor V4/stages/lounge.lua
+mods/VS Impostor V4/custom_events/Reactor Beep.lua
 mods/VS Impostor V4/custom_events/HUD Fade.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/o2/Voices.ogg

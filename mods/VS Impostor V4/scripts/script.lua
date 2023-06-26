@@ -1,33 +1,43 @@
+--[[
+FNF Online shit weird
+
+makeLuaSprite('e', 'sick', 0, 0)
+makeLuaSprite('e', 'good', 0, 0)
+makeLuaSprite('e', 'bad', 0, 0)
+makeLuaSprite('e', 'shit', 0, 0)
+
+makeAnimatedLuaSprite('e','noteSplashes',0,0)
+]]
+
 local step = 0
 local setPos = {0,0}
 local lockedCamera = false
 local player
 
 function onCreate()
-    local json = dofile('HIGGAMEON-alt%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
-    local stageData_placeHolder = json.parse(getTextFromFile('stages/'..curStage..'.json'))
-    local stageData = stageData_placeHolder
-    local songPlaceHolder = json.parse(getTextFromFile('data/'..songName..'/'..songName..'-'..difficultyName..'.json'))
-    local SONG = songPlaceHolder.song
-    --SONG = runHaxeCode([=[
-    --  return [Song.loadFromJson(Highscore.formatSong(PlayState.SONG.song, PlayState.storyDifficulty), Paths.formatToSongPath(PlayState.SONG.song))];
-    --]=])[1]
-    --addHaxeLibrary('FunkinLua')
-    --addHaxeLibrary('StageData')
-    --stageData_placeHolder = runHaxeCode[[
-    --  return [StageData.getStageFile(PlayState.curStage), 'what'];
---]][1]
+    json = dofile('HIGGAMEON-alt%HIGG-s-swag-song-pack/mods/VS Impostor V4/scripts/JSONLIB.lua')
+    stageData_placeHolder = json.parse(getTextFromFile('stages/'..curStage..'.json'))
+    stageData = stageData_placeHolder
+    songPlaceHolder = json.parse(getTextFromFile('data/'..songName..'/'..songName..'-'..difficultyName..'.json'))
+    SONG = songPlaceHolder.song
     player = {{'boyfriend', boyfriendName}, {'dad', dadName}, {'gf', gfName}}
-    --player[1][2] = json.parse(getTextFromFile('characters/'..player[1][2]..'.json'))
-    --player[2][2] = json.parse(getTextFromFile('characters/'..player[2][2]..'.json'))
-    --player[3][2] = json.parse(getTextFromFile('characters/'..player[3][2]..'.json'))
-    debugPrint('checking char...')
     if SONG.player4 == nil then
-        debugPrint('Character variable not found!')
     else
-        debugPrint('adding'..SONG.player4..'...')
+        if SONG.player4 == 'blackdk' then
+        makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing', 'Alt Animation'})
+        else
         makeChar(SONG.player4, 'mom', false, 'Opponent', stageData.secondopp[1], stageData.secondopp[2], {'Opponent 2 Sing', 'Both Opponents Sing'})
+        end
     end
+    triggerEvent('Change Character', 'dad', 'ellie')
+    triggerEvent('Change Character', 'dad', 'madgus')
+    triggerEvent('Change Chracter', 'dad', 'reginald')
+    triggerEvent('Change Character', 'dad', SONG.player2)
+end
+
+function onCreatePost()
+    dadoffx = getProperty('dad.offset.x')
+    dadoffy = getProperty('dad.offset.y')
 end
 
 --[[
@@ -63,12 +73,11 @@ Both
 ]]
 
 function makeChar(JsonFileName,name,isPlayer,takeStrumsFrom,x,y, strictNotes)
-debugPrint('making character...')
 addToList(player,{name,JsonFileName, x, y})
-debugPrint(player[#player][2])
-debugPrint('looking for characters/'..player[#player][2]..'.json')
+if json.parse(getTextFromFile('characters/'..player[#player][2]..'.json')) == nil then
+else
 player[#player][2] = json.parse(getTextFromFile('characters/'..player[#player][2]..'.json'))
-debugPrint('json prased character')
+end
 player[#player][3] = isPlayer
 if strictNotes == nil then
 player[#player][4] = nil
@@ -76,7 +85,6 @@ else
 player[#player][4] = strictNotes
 end
 player[#player][5] = takeStrumsFrom:lower()
-debugPrint('adding lua sprite')
 makeAnimatedLuaSprite(player[#player][1], player[#player][2].image, x, y)
 for i=1,#player[#player][2].animations do
 addAnimationByPrefix(player[#player][1], player[#player][2].animations[i].anim, player[#player][2].animations[i].name, player[#player][2].animations[i].fps, false)
@@ -115,7 +123,7 @@ end
 function playCharAnim(n,id,forced)
     for i=1,#grabPlayer(n, true)[2].animations do
         if grabPlayer(n, true)[2].animations[i].anim == id then
-            playAnim(grabPlayer(n)[1],id,grabPlayer(n, true)[2].animations[i].anim.loop)
+            playAnim(grabPlayer(n)[1],id,not grabPlayer(n, true)[2].animations[i].anim.loop)
             end
         if getProperty(''..grabPlayer(n)[1]..'.offset.x') == grabPlayer(n, true)[2].animations[i].offsets[1] - grabPlayer(n, true)[2].position[1] and getProperty(grabPlayer(n)[1]..'.offset.y') == grabPlayer(n, true)[2].animations[i].offsets[2] - grabPlayer(n, true)[2].position[2] then
         else
@@ -154,8 +162,15 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
                     for j=1,#player[i][4] do
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                         if player[i][4][j] == 'Alt Animation' and player[i][4][j] == noteType or altAnim and player[i][4][j] == 'Alt Animation' then
+                        if songName:lower() == 'double-kill' then
+                        playCharAnim(player[i][1], dir[direction + 1]..'', true)
+                        changeP2Icon(player[i][2])
+                        setProperty('dad.offset.x', dadoffx)
+                        setProperty('dad.offset.y', dadoffy)
+                        else
                         playCharAnim(player[i][1], dir[direction + 1]..'-alt', true)
                         changeP2Icon(player[i][2])
+                        end
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                         elseif player[i][4][j] == 'Opponent 2 Sing' and player[i][4][j] == noteType then
                         playCharAnim(player[i][1], dir[direction + 1], true)
@@ -260,6 +275,10 @@ end
 end
 if n:lower() == 'playcharanim' then
 playCharAnim(v1,v2,v3)
+end
+if n == 'Ellie Drop' then
+setProperty('mom.alpha', 1)
+playCharAnim('mom', 'enter', true)
 end
 end
 

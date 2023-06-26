@@ -2,5 +2,6 @@ mods/data/pretender/mod.txt
 mods/data/pretender/pretender-hard.json
 mods/VS Impostor V4/stages/pretender.json
 mods/VS Impostor V4/stages/pretender.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua

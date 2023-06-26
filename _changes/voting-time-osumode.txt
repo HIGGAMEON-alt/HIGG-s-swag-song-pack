@@ -1,9 +1,11 @@
 mods/data/voting-time/events.json
 mods/data/voting-time/mod.txt
+mods/data/voting-time/script.lua
 mods/data/voting-time/voting-time-hard.json
 mods/data/voting-time/voting-time-other.json
 mods/VS Impostor V4/stages/voting.json
 mods/VS Impostor V4/stages/voting.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/voting-time/Voices.ogg

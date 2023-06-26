@@ -3,6 +3,7 @@ mods/data/crewicide/events.json
 mods/data/crewicide/mod.txt
 mods/VS Impostor V4/stages/dave.json
 mods/VS Impostor V4/stages/dave.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/crewicide/Voices.ogg

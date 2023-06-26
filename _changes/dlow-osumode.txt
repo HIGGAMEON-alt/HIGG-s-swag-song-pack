@@ -4,6 +4,7 @@ mods/data/dlow/mod.txt
 mods/VS Impostor V4/stages/airshipRoom.json
 mods/VS Impostor V4/stages/airshipRoom.lua
 mods/VS Impostor V4/custom_events/Camera Twist.lua
+mods/VS Impostor V4/scripts/customZoomie.lua
 mods/VS Impostor V4/scripts/JSONLIB.lua
 mods/VS Impostor V4/scripts/script.lua
 mods/songs/dlow/Voices.ogg

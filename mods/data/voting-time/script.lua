@@ -1,0 +1,1 @@
+--triggerEvent('Change Chracter', 'dad', 'madgus')
